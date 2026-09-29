@@ -1,0 +1,797 @@
+{
+  "id": "transport",
+  "name": "Transport et livraison",
+  "short": "Transport",
+  "group": "theme",
+  "description": "Expéditions, colis, circulation, transports en commun et logistique.",
+  "cards": [
+    {
+      "word": "delivery",
+      "ipa": "/dɪˈlɪvəri/",
+      "pos": "nom",
+      "fr": "livraison",
+      "def": "The act of bringing goods to a person or place.",
+      "examples": [
+        {
+          "en": "Free **delivery** is available for orders over $50.",
+          "fr": "La livraison est gratuite pour les commandes de plus de 50 $."
+        },
+        {
+          "en": "The **delivery** is expected on Thursday.",
+          "fr": "La livraison est prévue jeudi."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **deliver**. **delivery date** = date de livraison."
+      }
+    },
+    {
+      "word": "ship",
+      "ipa": "/ʃɪp/",
+      "pos": "verbe",
+      "fr": "expédier, envoyer",
+      "def": "To send goods by any transport (truck, plane, boat).",
+      "examples": [
+        {
+          "en": "Your order will be **shipped** within 24 hours.",
+          "fr": "Votre commande sera expédiée sous 24 heures."
+        },
+        {
+          "en": "We **ship** to over 40 countries.",
+          "fr": "Nous livrons dans plus de 40 pays."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Pas seulement par bateau. Nom : **shipping** (expédition, frais de port)."
+      }
+    },
+    {
+      "word": "shipping",
+      "ipa": "/ˈʃɪpɪŋ/",
+      "pos": "nom",
+      "fr": "expédition, frais de port",
+      "def": "The sending of goods, or the cost of sending them.",
+      "examples": [
+        {
+          "en": "**Shipping** is free for members.",
+          "fr": "La livraison est gratuite pour les membres."
+        },
+        {
+          "en": "Express **shipping** costs an extra $15.",
+          "fr": "L’envoi express coûte 15 $ de plus."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**shipping and handling** = frais d’expédition et de manutention."
+      }
+    },
+    {
+      "word": "package",
+      "ipa": "/ˈpækɪdʒ/",
+      "pos": "nom",
+      "fr": "colis, paquet ; forfait",
+      "def": "An object wrapped for sending; or a set of services sold together.",
+      "examples": [
+        {
+          "en": "A **package** was left at the front desk for you.",
+          "fr": "Un colis a été déposé pour vous à la réception."
+        },
+        {
+          "en": "The travel **package** includes flights and hotel.",
+          "fr": "Le forfait voyage comprend les vols et l’hôtel."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme de colis : **parcel** (UK)."
+      }
+    },
+    {
+      "word": "tracking number",
+      "ipa": "/ˈtrækɪŋ ˌnʌmbər/",
+      "pos": "nom",
+      "fr": "numéro de suivi",
+      "def": "A number used to follow the progress of a package.",
+      "examples": [
+        {
+          "en": "Use your **tracking number** to check the delivery status.",
+          "fr": "Utilisez votre numéro de suivi pour vérifier l’état de la livraison."
+        },
+        {
+          "en": "The **tracking number** was sent by email.",
+          "fr": "Le numéro de suivi a été envoyé par e-mail."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **track** (suivre)."
+      }
+    },
+    {
+      "word": "freight",
+      "ipa": "/freɪt/",
+      "pos": "nom",
+      "fr": "fret, marchandises",
+      "def": "Goods carried by truck, train, ship or plane.",
+      "examples": [
+        {
+          "en": "The **freight** will be delivered by rail.",
+          "fr": "Le fret sera acheminé par train."
+        },
+        {
+          "en": "**Freight** costs have risen sharply.",
+          "fr": "Les coûts du fret ont fortement augmenté."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Le **gh** ne se prononce pas : /freɪt/."
+      }
+    },
+    {
+      "word": "logistics",
+      "ipa": "/ləˈdʒɪstɪks/",
+      "pos": "nom",
+      "fr": "logistique",
+      "def": "The planning and organization of moving goods.",
+      "examples": [
+        {
+          "en": "She manages **logistics** for a large retailer.",
+          "fr": "Elle gère la logistique d’une grande enseigne."
+        },
+        {
+          "en": "The **logistics** of the event were complicated.",
+          "fr": "La logistique de l’événement était compliquée."
+        }
+      ]
+    },
+    {
+      "word": "dispatch",
+      "ipa": "/dɪˈspætʃ/",
+      "pos": "verbe, nom",
+      "fr": "expédier, envoyer ; expédition",
+      "def": "To send goods or people somewhere for a purpose.",
+      "examples": [
+        {
+          "en": "The order was **dispatched** this morning.",
+          "fr": "La commande a été expédiée ce matin."
+        },
+        {
+          "en": "A technician was **dispatched** to the site.",
+          "fr": "Un technicien a été envoyé sur place."
+        }
+      ]
+    },
+    {
+      "word": "courier service",
+      "ipa": "/ˈkʊriər ˌsɜːrvɪs/",
+      "pos": "nom",
+      "fr": "société de messagerie",
+      "def": "A company that delivers packages and documents quickly.",
+      "examples": [
+        {
+          "en": "We use an express **courier service** for urgent documents.",
+          "fr": "Nous faisons appel à une messagerie express pour les documents urgents."
+        },
+        {
+          "en": "The **courier service** picks up packages at 4 p.m.",
+          "fr": "La société de messagerie récupère les colis à 16 h."
+        }
+      ]
+    },
+    {
+      "word": "estimated time of arrival",
+      "ipa": "/ˈestɪmeɪtɪd taɪm əv əˈraɪvəl/",
+      "pos": "nom",
+      "fr": "heure d’arrivée prévue",
+      "def": "The time when something is expected to arrive.",
+      "examples": [
+        {
+          "en": "The **estimated time of arrival** is 5:30 p.m.",
+          "fr": "L’heure d’arrivée prévue est 17 h 30."
+        },
+        {
+          "en": "Please check the **estimated time of arrival** on the app.",
+          "fr": "Merci de vérifier l’heure d’arrivée prévue sur l’application."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Abréviation : **ETA**."
+      }
+    },
+    {
+      "word": "route",
+      "ipa": "/ruːt/",
+      "pos": "nom",
+      "fr": "itinéraire, trajet, ligne",
+      "def": "The way taken to get from one place to another.",
+      "examples": [
+        {
+          "en": "The bus **route** has been changed because of roadwork.",
+          "fr": "Le trajet du bus a été modifié à cause des travaux."
+        },
+        {
+          "en": "Drivers are finding faster **routes** to the airport.",
+          "fr": "Les chauffeurs trouvent des itinéraires plus rapides vers l’aéroport."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Prononcé /ruːt/ ou /raʊt/ (US). Une « route » = **road**."
+      }
+    },
+    {
+      "word": "detour",
+      "ipa": "/ˈdiːtʊr/",
+      "pos": "nom",
+      "fr": "déviation, détour",
+      "def": "A different route used when the usual one is closed.",
+      "examples": [
+        {
+          "en": "Follow the **detour** signs to reach the highway.",
+          "fr": "Suivez les panneaux de déviation pour rejoindre l’autoroute."
+        },
+        {
+          "en": "Traffic is being sent on a **detour**.",
+          "fr": "La circulation est déviée."
+        }
+      ]
+    },
+    {
+      "word": "traffic jam",
+      "ipa": "/ˈtræfɪk dʒæm/",
+      "pos": "nom",
+      "fr": "embouteillage",
+      "def": "A long line of vehicles that cannot move.",
+      "examples": [
+        {
+          "en": "I was stuck in a **traffic jam** for an hour.",
+          "fr": "J’ai été coincé dans un embouteillage pendant une heure."
+        },
+        {
+          "en": "An accident caused a **traffic jam** on Route 9.",
+          "fr": "Un accident a provoqué un embouteillage sur la route 9."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **heavy traffic**, **congestion**."
+      }
+    },
+    {
+      "word": "commuter",
+      "ipa": "/kəˈmjuːtər/",
+      "pos": "nom",
+      "fr": "navetteur, personne qui fait la navette",
+      "def": "A person who travels regularly between home and work.",
+      "examples": [
+        {
+          "en": "The train is full of **commuters** every morning.",
+          "fr": "Le train est plein de navetteurs chaque matin."
+        },
+        {
+          "en": "**Commuters** should expect delays today.",
+          "fr": "Les usagers doivent s’attendre à des retards aujourd’hui."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **commute**."
+      }
+    },
+    {
+      "word": "public transportation",
+      "ipa": "/ˈpʌblɪk ˌtrænspərˈteɪʃən/",
+      "pos": "nom",
+      "fr": "transports en commun",
+      "def": "Buses, trains and subways that everyone can use.",
+      "examples": [
+        {
+          "en": "Employees are encouraged to use **public transportation**.",
+          "fr": "Les employés sont encouragés à utiliser les transports en commun."
+        },
+        {
+          "en": "The hotel is easy to reach by **public transportation**.",
+          "fr": "L’hôtel est facile d’accès en transports en commun."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **public transport**."
+      }
+    },
+    {
+      "word": "fleet",
+      "ipa": "/fliːt/",
+      "pos": "nom",
+      "fr": "flotte, parc (de véhicules)",
+      "def": "A group of vehicles owned by one company.",
+      "examples": [
+        {
+          "en": "The company has a **fleet** of 200 delivery trucks.",
+          "fr": "L’entreprise possède une flotte de 200 camions de livraison."
+        },
+        {
+          "en": "The airline is modernizing its **fleet**.",
+          "fr": "La compagnie aérienne modernise sa flotte."
+        }
+      ]
+    },
+    {
+      "word": "vehicle",
+      "ipa": "/ˈviːɪkəl/",
+      "pos": "nom",
+      "fr": "véhicule",
+      "def": "A machine used to carry people or goods, such as a car or truck.",
+      "examples": [
+        {
+          "en": "Please do not leave your **vehicle** unattended.",
+          "fr": "Merci de ne pas laisser votre véhicule sans surveillance."
+        },
+        {
+          "en": "Company **vehicles** must be returned by 6 p.m.",
+          "fr": "Les véhicules de service doivent être rendus avant 18 h."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Le **h** ne se prononce pas : /ˈviːɪkəl/."
+      }
+    },
+    {
+      "word": "parking lot",
+      "ipa": "/ˈpɑːrkɪŋ lɑːt/",
+      "pos": "nom",
+      "fr": "parking",
+      "def": "An outdoor area for parking cars.",
+      "examples": [
+        {
+          "en": "The **parking lot** will be repaved this weekend.",
+          "fr": "Le parking sera refait ce week-end."
+        },
+        {
+          "en": "Visitors may use the **parking lot** behind the building.",
+          "fr": "Les visiteurs peuvent utiliser le parking derrière le bâtiment."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **car park**. Couvert : **parking garage**."
+      }
+    },
+    {
+      "word": "pedestrian",
+      "ipa": "/pəˈdestriən/",
+      "pos": "nom",
+      "fr": "piéton",
+      "def": "A person walking in the street.",
+      "examples": [
+        {
+          "en": "**Pedestrians** are crossing the street.",
+          "fr": "Des piétons traversent la rue."
+        },
+        {
+          "en": "This area is for **pedestrians** only.",
+          "fr": "Cette zone est réservée aux piétons."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Scène fréquente en Partie 1."
+      }
+    },
+    {
+      "word": "intersection",
+      "ipa": "/ˌɪntərˈsekʃən/",
+      "pos": "nom",
+      "fr": "carrefour, intersection",
+      "def": "A place where two or more roads cross.",
+      "examples": [
+        {
+          "en": "Turn left at the next **intersection**.",
+          "fr": "Tournez à gauche au prochain carrefour."
+        },
+        {
+          "en": "A new traffic light was installed at the **intersection**.",
+          "fr": "Un nouveau feu a été installé au carrefour."
+        }
+      ]
+    },
+    {
+      "word": "shuttle",
+      "ipa": "/ˈʃʌtəl/",
+      "pos": "nom",
+      "fr": "navette",
+      "def": "A bus or vehicle that makes regular short trips between two places.",
+      "examples": [
+        {
+          "en": "A free **shuttle** runs between the hotel and the airport.",
+          "fr": "Une navette gratuite relie l’hôtel à l’aéroport."
+        },
+        {
+          "en": "The conference **shuttle** leaves every 20 minutes.",
+          "fr": "La navette de la conférence part toutes les 20 minutes."
+        }
+      ]
+    },
+    {
+      "word": "subway",
+      "ipa": "/ˈsʌbweɪ/",
+      "pos": "nom",
+      "fr": "métro",
+      "def": "An underground railway in a city (US).",
+      "examples": [
+        {
+          "en": "Take the **subway** to Central Station.",
+          "fr": "Prenez le métro jusqu’à la gare centrale."
+        },
+        {
+          "en": "The **subway** is the fastest way to get downtown.",
+          "fr": "Le métro est le moyen le plus rapide d’aller en centre-ville."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **underground**, **tube** (Londres). ! Au Royaume-Uni, **subway** = passage souterrain."
+      }
+    },
+    {
+      "word": "platform",
+      "ipa": "/ˈplætfɔːrm/",
+      "pos": "nom",
+      "fr": "quai ; plateforme",
+      "def": "The area next to the tracks where passengers get on trains.",
+      "examples": [
+        {
+          "en": "The train to Boston leaves from **platform** 3.",
+          "fr": "Le train pour Boston part du quai 3."
+        },
+        {
+          "en": "Passengers are waiting on the **platform**.",
+          "fr": "Des passagers attendent sur le quai."
+        }
+      ]
+    },
+    {
+      "word": "timetable",
+      "ipa": "/ˈtaɪmteɪbəl/",
+      "pos": "nom",
+      "fr": "horaires",
+      "def": "A list showing when buses or trains arrive and leave.",
+      "examples": [
+        {
+          "en": "Check the **timetable** before you leave.",
+          "fr": "Consultez les horaires avant de partir."
+        },
+        {
+          "en": "The new winter **timetable** starts on Monday.",
+          "fr": "Les nouveaux horaires d’hiver entrent en vigueur lundi."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme américain : **schedule**."
+      }
+    },
+    {
+      "word": "transit",
+      "ipa": "/ˈtrænzɪt/",
+      "pos": "nom",
+      "fr": "transport ; transit",
+      "def": "The movement of people or goods; or public transportation (US).",
+      "examples": [
+        {
+          "en": "The goods were damaged in **transit**.",
+          "fr": "Les marchandises ont été endommagées pendant le transport."
+        },
+        {
+          "en": "The city is investing in public **transit**.",
+          "fr": "La ville investit dans les transports en commun."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**in transit** = en cours d’acheminement."
+      }
+    },
+    {
+      "word": "cargo",
+      "ipa": "/ˈkɑːrɡoʊ/",
+      "pos": "nom",
+      "fr": "cargaison, fret",
+      "def": "Goods carried by ship, plane or truck.",
+      "examples": [
+        {
+          "en": "The ship was carrying **cargo** to Rotterdam.",
+          "fr": "Le navire transportait une cargaison vers Rotterdam."
+        },
+        {
+          "en": "The **cargo** was unloaded at the port.",
+          "fr": "La cargaison a été déchargée au port."
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "ipa": "/loʊd/",
+      "pos": "verbe, nom",
+      "fr": "charger ; chargement",
+      "def": "To put goods into a vehicle; or the goods themselves.",
+      "examples": [
+        {
+          "en": "Workers are **loading** boxes onto a truck.",
+          "fr": "Des ouvriers chargent des cartons dans un camion."
+        },
+        {
+          "en": "The truck was carrying a heavy **load**.",
+          "fr": "Le camion transportait un lourd chargement."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **unload** (décharger). Très fréquent en Partie 1."
+      }
+    },
+    {
+      "word": "unload",
+      "ipa": "/ʌnˈloʊd/",
+      "pos": "verbe",
+      "fr": "décharger",
+      "def": "To remove goods from a vehicle.",
+      "examples": [
+        {
+          "en": "The crew is **unloading** the delivery van.",
+          "fr": "L’équipe décharge la camionnette de livraison."
+        },
+        {
+          "en": "It took two hours to **unload** the container.",
+          "fr": "Il a fallu deux heures pour décharger le conteneur."
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "ipa": "/dɑːk/",
+      "pos": "nom, verbe",
+      "fr": "quai (de chargement), dock ; accoster",
+      "def": "A place where ships or trucks are loaded and unloaded.",
+      "examples": [
+        {
+          "en": "The trucks are parked at the loading **dock**.",
+          "fr": "Les camions sont garés au quai de chargement."
+        },
+        {
+          "en": "The boat has **docked** at the pier.",
+          "fr": "Le bateau a accosté à la jetée."
+        }
+      ]
+    },
+    {
+      "word": "pier",
+      "ipa": "/pɪr/",
+      "pos": "nom",
+      "fr": "jetée, embarcadère",
+      "def": "A structure built out into the water where boats can stop.",
+      "examples": [
+        {
+          "en": "Boats are tied up at the **pier**.",
+          "fr": "Des bateaux sont amarrés à la jetée."
+        },
+        {
+          "en": "People are walking along the **pier**.",
+          "fr": "Des gens se promènent sur la jetée."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Scène fréquente en Partie 1. Synonyme : **wharf**."
+      }
+    },
+    {
+      "word": "toll",
+      "ipa": "/toʊl/",
+      "pos": "nom",
+      "fr": "péage",
+      "def": "Money paid to use a road or bridge.",
+      "examples": [
+        {
+          "en": "There is a **toll** on the bridge.",
+          "fr": "Il y a un péage sur le pont."
+        },
+        {
+          "en": "The highway **tolls** will increase next year.",
+          "fr": "Les péages autoroutiers augmenteront l’an prochain."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**toll-free number** = numéro vert (gratuit)."
+      }
+    },
+    {
+      "word": "fuel",
+      "ipa": "/ˈfjuːəl/",
+      "pos": "nom, verbe",
+      "fr": "carburant ; alimenter",
+      "def": "A substance such as gas that is burned to produce energy.",
+      "examples": [
+        {
+          "en": "Rising **fuel** prices have increased shipping costs.",
+          "fr": "La hausse des prix du carburant a fait grimper les frais d’expédition."
+        },
+        {
+          "en": "The new trucks use less **fuel**.",
+          "fr": "Les nouveaux camions consomment moins de carburant."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**fuel-efficient** = économe en carburant."
+      }
+    },
+    {
+      "word": "driver’s license",
+      "ipa": "/ˈdraɪvərz ˌlaɪsəns/",
+      "pos": "nom",
+      "fr": "permis de conduire",
+      "def": "An official document that allows you to drive.",
+      "examples": [
+        {
+          "en": "A valid **driver’s license** is required to rent a car.",
+          "fr": "Un permis de conduire valide est exigé pour louer une voiture."
+        },
+        {
+          "en": "Please show your **driver’s license** at the counter.",
+          "fr": "Merci de présenter votre permis de conduire au comptoir."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **driving licence**."
+      }
+    },
+    {
+      "word": "rental car",
+      "ipa": "/ˈrentəl kɑːr/",
+      "pos": "nom",
+      "fr": "voiture de location",
+      "def": "A car that you pay to use for a short time.",
+      "examples": [
+        {
+          "en": "We picked up the **rental car** at the airport.",
+          "fr": "Nous avons récupéré la voiture de location à l’aéroport."
+        },
+        {
+          "en": "The **rental car** must be returned with a full tank.",
+          "fr": "La voiture de location doit être rendue avec le plein."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **car rental** (la location de voiture)."
+      }
+    },
+    {
+      "word": "postage",
+      "ipa": "/ˈpoʊstɪdʒ/",
+      "pos": "nom",
+      "fr": "affranchissement, frais de port",
+      "def": "The cost of sending a letter or package by mail.",
+      "examples": [
+        {
+          "en": "**Postage** is included in the price.",
+          "fr": "Les frais de port sont inclus dans le prix."
+        },
+        {
+          "en": "Please attach enough **postage** to the envelope.",
+          "fr": "Merci de mettre un affranchissement suffisant sur l’enveloppe."
+        }
+      ]
+    },
+    {
+      "word": "expedite",
+      "ipa": "/ˈekspədaɪt/",
+      "pos": "verbe",
+      "fr": "accélérer, activer",
+      "def": "To make a process happen more quickly.",
+      "examples": [
+        {
+          "en": "We can **expedite** your order for an extra fee.",
+          "fr": "Nous pouvons accélérer votre commande moyennant un supplément."
+        },
+        {
+          "en": "The manager asked us to **expedite** the paperwork.",
+          "fr": "Le responsable nous a demandé d’accélérer les démarches."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami partiel : « expédier » (envoyer) = **ship**, **send**."
+      }
+    },
+    {
+      "word": "en route",
+      "ipa": "/ɑːn ˈruːt/",
+      "pos": "adverbe",
+      "fr": "en chemin, en route",
+      "def": "On the way to a place.",
+      "examples": [
+        {
+          "en": "The package is currently **en route** to your address.",
+          "fr": "Le colis est actuellement en route vers votre adresse."
+        },
+        {
+          "en": "We stopped for lunch **en route** to the conference.",
+          "fr": "Nous nous sommes arrêtés déjeuner en chemin vers la conférence."
+        }
+      ]
+    },
+    {
+      "word": "transport",
+      "ipa": "/trænˈspɔːrt/",
+      "pos": "verbe",
+      "fr": "transporter",
+      "def": "To move people or goods from one place to another.",
+      "examples": [
+        {
+          "en": "The goods are **transported** by truck.",
+          "fr": "Les marchandises sont transportées par camion."
+        },
+        {
+          "en": "A bus will **transport** guests to the venue.",
+          "fr": "Un bus transportera les invités jusqu’au lieu de l’événement."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **transportation** (US), **transport** (UK)."
+      }
+    },
+    {
+      "word": "handle",
+      "ipa": "/ˈhændəl/",
+      "pos": "verbe",
+      "fr": "manipuler ; gérer, traiter",
+      "def": "To touch or move something with your hands; or to deal with something.",
+      "examples": [
+        {
+          "en": "Please **handle** this package with care.",
+          "fr": "Merci de manipuler ce colis avec précaution."
+        },
+        {
+          "en": "Ms. Liu will **handle** all customer complaints.",
+          "fr": "Mme Liu traitera toutes les réclamations des clients."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**Handle with care** = Fragile. Nom : **handling** (manutention)."
+      }
+    },
+    {
+      "word": "fragile",
+      "ipa": "/ˈfrædʒəl/",
+      "pos": "adjectif",
+      "fr": "fragile",
+      "def": "Easily broken or damaged.",
+      "examples": [
+        {
+          "en": "The box is marked “**Fragile**.”",
+          "fr": "Le carton porte la mention « Fragile »."
+        },
+        {
+          "en": "**Fragile** items are packed in bubble wrap.",
+          "fr": "Les objets fragiles sont emballés dans du papier bulle."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Prononciation américaine : /ˈfrædʒəl/."
+      }
+    }
+  ]
+}

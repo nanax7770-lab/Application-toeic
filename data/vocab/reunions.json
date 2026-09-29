@@ -1,0 +1,869 @@
+{
+  "id": "reunions",
+  "name": "Réunions",
+  "short": "Réunions",
+  "group": "theme",
+  "description": "Organiser, animer et suivre une réunion ou une conférence.",
+  "cards": [
+    {
+      "word": "agenda",
+      "ipa": "/əˈdʒendə/",
+      "pos": "nom",
+      "fr": "ordre du jour",
+      "def": "A list of topics to be discussed at a meeting.",
+      "examples": [
+        {
+          "en": "The first item on the **agenda** is the budget.",
+          "fr": "Le premier point à l’ordre du jour est le budget."
+        },
+        {
+          "en": "Please send me any topics you want to add to the **agenda**.",
+          "fr": "Envoyez-moi les sujets que vous souhaitez ajouter à l’ordre du jour."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : un « agenda » (carnet) se dit **planner** ou **diary** (UK)."
+      }
+    },
+    {
+      "word": "minutes",
+      "ipa": "/ˈmɪnɪts/",
+      "pos": "nom pluriel",
+      "fr": "compte rendu, procès-verbal",
+      "def": "The official written record of what was said at a meeting.",
+      "examples": [
+        {
+          "en": "Mr. Lee will take the **minutes** at today’s meeting.",
+          "fr": "M. Lee rédigera le compte rendu de la réunion d’aujourd’hui."
+        },
+        {
+          "en": "The **minutes** of the last meeting were approved.",
+          "fr": "Le compte rendu de la dernière réunion a été approuvé."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Piège : dans ce sens, **minutes** n’a rien à voir avec le temps."
+      }
+    },
+    {
+      "word": "chair",
+      "ipa": "/tʃer/",
+      "pos": "nom, verbe",
+      "fr": "président(e) de séance ; présider",
+      "def": "The person in charge of a meeting; or to lead a meeting.",
+      "examples": [
+        {
+          "en": "Ms. Novak will **chair** the committee meeting.",
+          "fr": "Mme Novak présidera la réunion du comité."
+        },
+        {
+          "en": "Please address your questions to the **chair**.",
+          "fr": "Merci d’adresser vos questions au président de séance."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **chairperson**, **chairman**, **chairwoman**."
+      }
+    },
+    {
+      "word": "attendee",
+      "ipa": "/əˌtenˈdiː/",
+      "pos": "nom",
+      "fr": "participant(e)",
+      "def": "A person who is present at a meeting or event.",
+      "examples": [
+        {
+          "en": "All **attendees** will receive a name badge.",
+          "fr": "Tous les participants recevront un badge nominatif."
+        },
+        {
+          "en": "The seminar is limited to 30 **attendees**.",
+          "fr": "Le séminaire est limité à 30 participants."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **attend** (assister à) ; nom : **attendance** (présence, fréquentation)."
+      }
+    },
+    {
+      "word": "attend",
+      "ipa": "/əˈtend/",
+      "pos": "verbe",
+      "fr": "assister à, participer à",
+      "def": "To be present at an event such as a meeting or class.",
+      "examples": [
+        {
+          "en": "Over 200 people **attended** the conference.",
+          "fr": "Plus de 200 personnes ont assisté à la conférence."
+        },
+        {
+          "en": "I’m unable to **attend** Friday’s meeting.",
+          "fr": "Je ne pourrai pas assister à la réunion de vendredi."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : **attend** ≠ « attendre » (= **wait for**). Pas de préposition : attend a meeting."
+      }
+    },
+    {
+      "word": "conference call",
+      "ipa": "/ˈkɑːnfərəns kɔːl/",
+      "pos": "nom",
+      "fr": "conférence téléphonique",
+      "def": "A phone call in which several people take part.",
+      "examples": [
+        {
+          "en": "We have a **conference call** with the Tokyo office at 8 a.m.",
+          "fr": "Nous avons une conférence téléphonique avec le bureau de Tokyo à 8 h."
+        },
+        {
+          "en": "The **conference call** was cut short because of a bad connection.",
+          "fr": "La conférence téléphonique a été écourtée à cause d’une mauvaise connexion."
+        }
+      ]
+    },
+    {
+      "word": "videoconference",
+      "ipa": "/ˈvɪdioʊˌkɑːnfərəns/",
+      "pos": "nom",
+      "fr": "visioconférence",
+      "def": "A meeting held using video over the internet.",
+      "examples": [
+        {
+          "en": "The interview will take place by **videoconference**.",
+          "fr": "L’entretien aura lieu par visioconférence."
+        },
+        {
+          "en": "Make sure your camera works before the **videoconference**.",
+          "fr": "Vérifiez que votre caméra fonctionne avant la visioconférence."
+        }
+      ]
+    },
+    {
+      "word": "reschedule",
+      "ipa": "/ˌriːˈskedʒuːl/",
+      "pos": "verbe",
+      "fr": "reporter, reprogrammer",
+      "def": "To change the time or date of a planned event.",
+      "examples": [
+        {
+          "en": "The meeting has been **rescheduled** for Thursday afternoon.",
+          "fr": "La réunion a été reportée à jeudi après-midi."
+        },
+        {
+          "en": "Can we **reschedule** our appointment to next week?",
+          "fr": "Pouvons-nous déplacer notre rendez-vous à la semaine prochaine ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **postpone** (reporter à plus tard), **move**, **push back**."
+      }
+    },
+    {
+      "word": "postpone",
+      "ipa": "/poʊstˈpoʊn/",
+      "pos": "verbe",
+      "fr": "reporter, repousser à plus tard",
+      "def": "To move an event or action to a later time.",
+      "examples": [
+        {
+          "en": "The board meeting has been **postponed** until next Thursday.",
+          "fr": "La réunion du conseil a été reportée à jeudi prochain."
+        },
+        {
+          "en": "We decided to **postpone** launching the product until spring.",
+          "fr": "Nous avons décidé de reporter le lancement du produit au printemps."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Piège TOEIC : **postpone + -ing** (postpone launching), jamais « postpone to launch »."
+      }
+    },
+    {
+      "word": "adjourn",
+      "ipa": "/əˈdʒɜːrn/",
+      "pos": "verbe",
+      "fr": "lever (une séance), suspendre",
+      "def": "To end or pause a meeting.",
+      "examples": [
+        {
+          "en": "The meeting was **adjourned** at 5 p.m.",
+          "fr": "La séance a été levée à 17 h."
+        },
+        {
+          "en": "Let’s **adjourn** for lunch and continue at two.",
+          "fr": "Faisons une pause pour le déjeuner et reprenons à 14 h."
+        }
+      ]
+    },
+    {
+      "word": "brainstorm",
+      "ipa": "/ˈbreɪnstɔːrm/",
+      "pos": "verbe",
+      "fr": "réfléchir ensemble, faire un remue-méninges",
+      "def": "To suggest many ideas quickly as a group.",
+      "examples": [
+        {
+          "en": "Let’s **brainstorm** names for the new product.",
+          "fr": "Faisons un remue-méninges pour trouver un nom au nouveau produit."
+        },
+        {
+          "en": "The team spent an hour **brainstorming** solutions.",
+          "fr": "L’équipe a passé une heure à chercher des solutions ensemble."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **brainstorming session**."
+      }
+    },
+    {
+      "word": "consensus",
+      "ipa": "/kənˈsensəs/",
+      "pos": "nom",
+      "fr": "consensus, accord général",
+      "def": "Agreement among all or most people in a group.",
+      "examples": [
+        {
+          "en": "The committee reached a **consensus** after a long discussion.",
+          "fr": "Le comité est parvenu à un consensus après une longue discussion."
+        },
+        {
+          "en": "There is no **consensus** on the new policy yet.",
+          "fr": "Il n’y a pas encore d’accord sur la nouvelle politique."
+        }
+      ]
+    },
+    {
+      "word": "proposal",
+      "ipa": "/prəˈpoʊzəl/",
+      "pos": "nom",
+      "fr": "proposition",
+      "def": "A formal plan or suggestion presented for discussion.",
+      "examples": [
+        {
+          "en": "The board will review your **proposal** next week.",
+          "fr": "Le conseil examinera votre proposition la semaine prochaine."
+        },
+        {
+          "en": "Her **proposal** to open a new branch was accepted.",
+          "fr": "Sa proposition d’ouvrir une nouvelle agence a été acceptée."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **propose** (+ -ing ou that)."
+      }
+    },
+    {
+      "word": "presentation",
+      "ipa": "/ˌpriːzenˈteɪʃən/",
+      "pos": "nom",
+      "fr": "présentation, exposé",
+      "def": "A talk giving information about a subject, often with slides.",
+      "examples": [
+        {
+          "en": "Mr. Diaz will give a **presentation** on the sales results.",
+          "fr": "M. Diaz fera une présentation sur les résultats des ventes."
+        },
+        {
+          "en": "The **presentation** slides will be emailed to all participants.",
+          "fr": "Les diapositives de la présentation seront envoyées à tous les participants."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**give / make a presentation** = faire une présentation."
+      }
+    },
+    {
+      "word": "handout",
+      "ipa": "/ˈhændaʊt/",
+      "pos": "nom",
+      "fr": "document distribué, polycopié",
+      "def": "A printed sheet given to people at a meeting or class.",
+      "examples": [
+        {
+          "en": "Please refer to the **handout** for the figures.",
+          "fr": "Merci de vous reporter au document distribué pour les chiffres."
+        },
+        {
+          "en": "There are not enough **handouts** for everyone.",
+          "fr": "Il n’y a pas assez de documents pour tout le monde."
+        }
+      ]
+    },
+    {
+      "word": "keynote speaker",
+      "ipa": "/ˈkiːnoʊt ˈspiːkər/",
+      "pos": "nom",
+      "fr": "conférencier principal, invité d’honneur",
+      "def": "The main speaker at a conference.",
+      "examples": [
+        {
+          "en": "The **keynote speaker** will be the CEO of a major tech firm.",
+          "fr": "Le conférencier principal sera le PDG d’une grande entreprise tech."
+        },
+        {
+          "en": "The **keynote speaker**’s flight was delayed.",
+          "fr": "Le vol du conférencier principal a été retardé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**keynote address / speech** = discours d’ouverture."
+      }
+    },
+    {
+      "word": "summarize",
+      "ipa": "/ˈsʌməraɪz/",
+      "pos": "verbe",
+      "fr": "résumer",
+      "def": "To give the main points of something briefly.",
+      "examples": [
+        {
+          "en": "Could you **summarize** the main points of the report?",
+          "fr": "Pourriez-vous résumer les points principaux du rapport ?"
+        },
+        {
+          "en": "To **summarize**, sales are up but costs are rising.",
+          "fr": "Pour résumer, les ventes augmentent mais les coûts aussi."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Un « résumé » se dit **summary**. En anglais américain, **résumé** veut dire CV."
+      }
+    },
+    {
+      "word": "board of directors",
+      "ipa": "/bɔːrd əv dəˈrektərz/",
+      "pos": "nom",
+      "fr": "conseil d’administration",
+      "def": "The group of people who manage a company.",
+      "examples": [
+        {
+          "en": "The **board of directors** approved the new strategy.",
+          "fr": "Le conseil d’administration a approuvé la nouvelle stratégie."
+        },
+        {
+          "en": "She was elected to the **board of directors** last year.",
+          "fr": "Elle a été élue au conseil d’administration l’an dernier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Souvent abrégé : **the board** (a board meeting)."
+      }
+    },
+    {
+      "word": "convene",
+      "ipa": "/kənˈviːn/",
+      "pos": "verbe",
+      "fr": "(se) réunir, convoquer",
+      "def": "To come together for a meeting, or to arrange a meeting.",
+      "examples": [
+        {
+          "en": "The committee will **convene** again in January.",
+          "fr": "Le comité se réunira de nouveau en janvier."
+        },
+        {
+          "en": "The director **convened** an emergency meeting.",
+          "fr": "La directrice a convoqué une réunion d’urgence."
+        }
+      ]
+    },
+    {
+      "word": "input",
+      "ipa": "/ˈɪnpʊt/",
+      "pos": "nom",
+      "fr": "avis, contribution",
+      "def": "Ideas, advice or information that you give to help something.",
+      "examples": [
+        {
+          "en": "We value your **input** on this project.",
+          "fr": "Nous accordons de l’importance à votre avis sur ce projet."
+        },
+        {
+          "en": "The plan was changed based on **input** from customers.",
+          "fr": "Le plan a été modifié en fonction des retours des clients."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Indénombrable."
+      }
+    },
+    {
+      "word": "feedback",
+      "ipa": "/ˈfiːdbæk/",
+      "pos": "nom",
+      "fr": "retour, avis, commentaires",
+      "def": "Opinions about how well something has been done, used to improve it.",
+      "examples": [
+        {
+          "en": "Thank you for your **feedback** on the new website.",
+          "fr": "Merci pour vos commentaires sur le nouveau site."
+        },
+        {
+          "en": "Customer **feedback** has been very positive.",
+          "fr": "Les retours des clients ont été très positifs."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Indénombrable : pas de « feedbacks ». On dit **a piece of feedback**."
+      }
+    },
+    {
+      "word": "outcome",
+      "ipa": "/ˈaʊtkʌm/",
+      "pos": "nom",
+      "fr": "résultat, issue",
+      "def": "The result of an action, event or discussion.",
+      "examples": [
+        {
+          "en": "We are waiting for the **outcome** of the negotiations.",
+          "fr": "Nous attendons l’issue des négociations."
+        },
+        {
+          "en": "The **outcome** of the vote will be announced tomorrow.",
+          "fr": "Le résultat du vote sera annoncé demain."
+        }
+      ]
+    },
+    {
+      "word": "attendance",
+      "ipa": "/əˈtendəns/",
+      "pos": "nom",
+      "fr": "présence, fréquentation",
+      "def": "The number of people present, or the fact of being present.",
+      "examples": [
+        {
+          "en": "**Attendance** at the training session is mandatory.",
+          "fr": "La présence à la formation est obligatoire."
+        },
+        {
+          "en": "**Attendance** at the fair was higher than last year.",
+          "fr": "La fréquentation du salon a été plus élevée que l’an dernier."
+        }
+      ]
+    },
+    {
+      "word": "conference room",
+      "ipa": "/ˈkɑːnfərəns ruːm/",
+      "pos": "nom",
+      "fr": "salle de réunion",
+      "def": "A room used for meetings.",
+      "examples": [
+        {
+          "en": "The **conference room** is booked all afternoon.",
+          "fr": "La salle de réunion est réservée tout l’après-midi."
+        },
+        {
+          "en": "Refreshments will be served in the **conference room**.",
+          "fr": "Des rafraîchissements seront servis dans la salle de réunion."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **meeting room**, **boardroom** (salle du conseil)."
+      }
+    },
+    {
+      "word": "projector",
+      "ipa": "/prəˈdʒektər/",
+      "pos": "nom",
+      "fr": "projecteur, vidéoprojecteur",
+      "def": "A machine that shows images on a screen or wall.",
+      "examples": [
+        {
+          "en": "The **projector** isn’t connecting to my laptop.",
+          "fr": "Le projecteur ne se connecte pas à mon ordinateur portable."
+        },
+        {
+          "en": "Could someone turn off the **projector**?",
+          "fr": "Quelqu’un pourrait-il éteindre le projecteur ?"
+        }
+      ]
+    },
+    {
+      "word": "facilitate",
+      "ipa": "/fəˈsɪlɪteɪt/",
+      "pos": "verbe",
+      "fr": "faciliter ; animer",
+      "def": "To make something easier, or to help a discussion go smoothly.",
+      "examples": [
+        {
+          "en": "The new software will **facilitate** communication between teams.",
+          "fr": "Le nouveau logiciel facilitera la communication entre les équipes."
+        },
+        {
+          "en": "An outside consultant will **facilitate** the workshop.",
+          "fr": "Un consultant extérieur animera l’atelier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne : **facilitator** (animateur)."
+      }
+    },
+    {
+      "word": "workshop",
+      "ipa": "/ˈwɜːrkʃɑːp/",
+      "pos": "nom",
+      "fr": "atelier (de formation)",
+      "def": "A meeting where people learn about a subject through practical activities.",
+      "examples": [
+        {
+          "en": "The **workshop** on time management starts at 10 a.m.",
+          "fr": "L’atelier sur la gestion du temps commence à 10 h."
+        },
+        {
+          "en": "Space in the **workshop** is limited, so register early.",
+          "fr": "Les places à l’atelier sont limitées : inscrivez-vous vite."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi un lieu de travail manuel (atelier de réparation)."
+      }
+    },
+    {
+      "word": "seminar",
+      "ipa": "/ˈsemɪnɑːr/",
+      "pos": "nom",
+      "fr": "séminaire",
+      "def": "A meeting for training or discussion on a particular subject.",
+      "examples": [
+        {
+          "en": "The sales **seminar** will be held in the main hall.",
+          "fr": "Le séminaire de vente se tiendra dans la grande salle."
+        },
+        {
+          "en": "She led a **seminar** on digital marketing.",
+          "fr": "Elle a animé un séminaire sur le marketing numérique."
+        }
+      ]
+    },
+    {
+      "word": "venue",
+      "ipa": "/ˈvenjuː/",
+      "pos": "nom",
+      "fr": "lieu (d’un événement)",
+      "def": "The place where an event takes place.",
+      "examples": [
+        {
+          "en": "The **venue** for this year’s conference has changed.",
+          "fr": "Le lieu de la conférence de cette année a changé."
+        },
+        {
+          "en": "We need a larger **venue** for the awards ceremony.",
+          "fr": "Il nous faut une salle plus grande pour la cérémonie de remise des prix."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Mot très fréquent au TOEIC dans les annonces d’événements."
+      }
+    },
+    {
+      "word": "overview",
+      "ipa": "/ˈoʊvərvjuː/",
+      "pos": "nom",
+      "fr": "vue d’ensemble, aperçu",
+      "def": "A short description of the main points of something.",
+      "examples": [
+        {
+          "en": "The first session gives an **overview** of the company’s history.",
+          "fr": "La première séance donne un aperçu de l’histoire de l’entreprise."
+        },
+        {
+          "en": "Can you give us a brief **overview** of the project?",
+          "fr": "Pouvez-vous nous donner un bref aperçu du projet ?"
+        }
+      ]
+    },
+    {
+      "word": "address",
+      "ipa": "/əˈdres/",
+      "pos": "verbe",
+      "fr": "traiter (un problème) ; s’adresser à",
+      "def": "To deal with a problem; or to speak to a group.",
+      "examples": [
+        {
+          "en": "We need to **address** customer complaints more quickly.",
+          "fr": "Nous devons traiter plus rapidement les réclamations des clients."
+        },
+        {
+          "en": "The mayor will **address** the audience at noon.",
+          "fr": "Le maire s’adressera au public à midi."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Sens très fréquent au TOEIC : **address an issue** = s’attaquer à un problème."
+      }
+    },
+    {
+      "word": "objection",
+      "ipa": "/əbˈdʒekʃən/",
+      "pos": "nom",
+      "fr": "objection",
+      "def": "A reason for disagreeing with a plan or idea.",
+      "examples": [
+        {
+          "en": "Does anyone have any **objections** to the proposal?",
+          "fr": "Quelqu’un a-t-il des objections à la proposition ?"
+        },
+        {
+          "en": "The plan went ahead despite some **objections**.",
+          "fr": "Le projet a été mené malgré quelques objections."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **object to + -ing** (s’opposer à)."
+      }
+    },
+    {
+      "word": "unanimous",
+      "ipa": "/juˈnænɪməs/",
+      "pos": "adjectif",
+      "fr": "unanime",
+      "def": "Agreed by everyone.",
+      "examples": [
+        {
+          "en": "The decision was **unanimous**.",
+          "fr": "La décision a été prise à l’unanimité."
+        },
+        {
+          "en": "The board gave **unanimous** approval to the plan.",
+          "fr": "Le conseil a approuvé le projet à l’unanimité."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adverbe : **unanimously**."
+      }
+    },
+    {
+      "word": "vote",
+      "ipa": "/voʊt/",
+      "pos": "nom, verbe",
+      "fr": "vote ; voter",
+      "def": "A formal choice made by a group, or to make that choice.",
+      "examples": [
+        {
+          "en": "The committee will **vote** on the proposal tomorrow.",
+          "fr": "Le comité votera sur la proposition demain."
+        },
+        {
+          "en": "The motion passed by a **vote** of eight to two.",
+          "fr": "La motion a été adoptée par huit voix contre deux."
+        }
+      ]
+    },
+    {
+      "word": "recap",
+      "ipa": "/ˈriːkæp/",
+      "pos": "nom, verbe",
+      "fr": "récapitulatif ; récapituler",
+      "def": "A short summary of what has been said or done.",
+      "examples": [
+        {
+          "en": "Let me **recap** the main decisions we made today.",
+          "fr": "Permettez-moi de récapituler les principales décisions d’aujourd’hui."
+        },
+        {
+          "en": "A **recap** of the meeting will be sent by email.",
+          "fr": "Un récapitulatif de la réunion sera envoyé par e-mail."
+        }
+      ]
+    },
+    {
+      "word": "priority",
+      "ipa": "/praɪˈɔːrəti/",
+      "pos": "nom",
+      "fr": "priorité",
+      "def": "Something that is more important than other things.",
+      "examples": [
+        {
+          "en": "Customer safety is our top **priority**.",
+          "fr": "La sécurité des clients est notre priorité absolue."
+        },
+        {
+          "en": "We need to set **priorities** for next quarter.",
+          "fr": "Nous devons fixer des priorités pour le prochain trimestre."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **prioritize**."
+      }
+    },
+    {
+      "word": "clarify",
+      "ipa": "/ˈklerɪfaɪ/",
+      "pos": "verbe",
+      "fr": "clarifier, préciser",
+      "def": "To make something easier to understand.",
+      "examples": [
+        {
+          "en": "Could you **clarify** what you meant by “flexible hours”?",
+          "fr": "Pourriez-vous préciser ce que vous entendez par « horaires flexibles » ?"
+        },
+        {
+          "en": "The manager **clarified** the new procedures.",
+          "fr": "Le responsable a clarifié les nouvelles procédures."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **clarification**."
+      }
+    },
+    {
+      "word": "participate",
+      "ipa": "/pɑːrˈtɪsɪpeɪt/",
+      "pos": "verbe",
+      "fr": "participer",
+      "def": "To take part in an activity or event.",
+      "examples": [
+        {
+          "en": "All staff are encouraged to **participate** in the survey.",
+          "fr": "Tout le personnel est invité à participer à l’enquête."
+        },
+        {
+          "en": "Twelve companies **participated** in the trade show.",
+          "fr": "Douze entreprises ont participé au salon professionnel."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Préposition : **participate in** (pas « to »)."
+      }
+    },
+    {
+      "word": "session",
+      "ipa": "/ˈseʃən/",
+      "pos": "nom",
+      "fr": "séance, session",
+      "def": "A period of time used for a particular activity.",
+      "examples": [
+        {
+          "en": "The afternoon **session** will focus on sales techniques.",
+          "fr": "La séance de l’après-midi portera sur les techniques de vente."
+        },
+        {
+          "en": "A question-and-answer **session** will follow the talk.",
+          "fr": "Une séance de questions-réponses suivra l’exposé."
+        }
+      ]
+    },
+    {
+      "word": "moderator",
+      "ipa": "/ˈmɑːdəreɪtər/",
+      "pos": "nom",
+      "fr": "modérateur, animateur (d’un débat)",
+      "def": "A person who leads a discussion and keeps it organized.",
+      "examples": [
+        {
+          "en": "The **moderator** introduced each panelist.",
+          "fr": "Le modérateur a présenté chaque intervenant."
+        },
+        {
+          "en": "Questions should be sent to the **moderator**.",
+          "fr": "Les questions doivent être envoyées au modérateur."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**panel discussion** = table ronde ; **panelist** = intervenant."
+      }
+    },
+    {
+      "word": "podium",
+      "ipa": "/ˈpoʊdiəm/",
+      "pos": "nom",
+      "fr": "pupitre, estrade",
+      "def": "A raised platform or stand where a speaker stands.",
+      "examples": [
+        {
+          "en": "The speaker is standing at the **podium**.",
+          "fr": "L’orateur se tient au pupitre."
+        },
+        {
+          "en": "A microphone has been placed on the **podium**.",
+          "fr": "Un micro a été installé sur le pupitre."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Scène classique de la Partie 1. Synonyme : **lectern**."
+      }
+    },
+    {
+      "word": "round-table discussion",
+      "ipa": "/ˈraʊnd teɪbəl dɪˈskʌʃən/",
+      "pos": "nom",
+      "fr": "table ronde",
+      "def": "A discussion in which all participants are treated as equals.",
+      "examples": [
+        {
+          "en": "Experts will take part in a **round-table discussion** on energy.",
+          "fr": "Des experts participeront à une table ronde sur l’énergie."
+        },
+        {
+          "en": "The **round-table discussion** will be broadcast online.",
+          "fr": "La table ronde sera diffusée en ligne."
+        }
+      ]
+    },
+    {
+      "word": "itemize",
+      "ipa": "/ˈaɪtəmaɪz/",
+      "pos": "verbe",
+      "fr": "détailler, énumérer point par point",
+      "def": "To list things separately.",
+      "examples": [
+        {
+          "en": "Please **itemize** your expenses on the form.",
+          "fr": "Merci de détailler vos dépenses sur le formulaire."
+        },
+        {
+          "en": "The **itemized** bill shows each charge separately.",
+          "fr": "La facture détaillée indique chaque frais séparément."
+        }
+      ]
+    },
+    {
+      "word": "tentative",
+      "ipa": "/ˈtentətɪv/",
+      "pos": "adjectif",
+      "fr": "provisoire, non confirmé",
+      "def": "Not definite or certain; may be changed later.",
+      "examples": [
+        {
+          "en": "Here is the **tentative** schedule for the conference.",
+          "fr": "Voici le programme provisoire de la conférence."
+        },
+        {
+          "en": "We’ve made a **tentative** booking for June 3.",
+          "fr": "Nous avons fait une réservation provisoire pour le 3 juin."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : ne veut pas dire « tentative » (= **attempt**)."
+      }
+    }
+  ]
+}

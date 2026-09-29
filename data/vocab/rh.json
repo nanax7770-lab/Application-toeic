@@ -1,0 +1,964 @@
+{
+  "id": "rh",
+  "name": "Recrutement et RH",
+  "short": "RH",
+  "group": "theme",
+  "description": "Offres d’emploi, entretiens, contrats de travail, congés et carrière.",
+  "cards": [
+    {
+      "word": "applicant",
+      "ipa": "/ˈæplɪkənt/",
+      "pos": "nom",
+      "fr": "candidat(e)",
+      "def": "A person who formally asks for a job, a loan or a place.",
+      "examples": [
+        {
+          "en": "All **applicants** must submit a résumé and two references.",
+          "fr": "Tous les candidats doivent fournir un CV et deux références."
+        },
+        {
+          "en": "We received over 300 **applicants** for the position.",
+          "fr": "Nous avons reçu plus de 300 candidatures pour le poste."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **apply for** a job ; nom : **application** (candidature)."
+      }
+    },
+    {
+      "word": "candidate",
+      "ipa": "/ˈkændɪdət/",
+      "pos": "nom",
+      "fr": "candidat(e)",
+      "def": "A person being considered for a job or position.",
+      "examples": [
+        {
+          "en": "The ideal **candidate** will have five years of experience.",
+          "fr": "Le candidat idéal aura cinq ans d’expérience."
+        },
+        {
+          "en": "Three **candidates** have been invited for a second interview.",
+          "fr": "Trois candidats ont été convoqués pour un second entretien."
+        }
+      ]
+    },
+    {
+      "word": "résumé",
+      "ipa": "/ˈrezəmeɪ/",
+      "pos": "nom",
+      "fr": "CV",
+      "def": "A document listing a person’s education and work experience (US).",
+      "examples": [
+        {
+          "en": "Please attach your **résumé** to the online form.",
+          "fr": "Merci de joindre votre CV au formulaire en ligne."
+        },
+        {
+          "en": "Her **résumé** shows strong experience in sales.",
+          "fr": "Son CV montre une solide expérience dans la vente."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami. Britannique : **CV (curriculum vitae)**. Le « résumé » français = **summary**."
+      }
+    },
+    {
+      "word": "cover letter",
+      "ipa": "/ˈkʌvər ˌletər/",
+      "pos": "nom",
+      "fr": "lettre de motivation",
+      "def": "A letter sent with a job application explaining why you are suitable.",
+      "examples": [
+        {
+          "en": "Include a **cover letter** explaining your interest in the job.",
+          "fr": "Joignez une lettre de motivation expliquant votre intérêt pour le poste."
+        },
+        {
+          "en": "Her **cover letter** impressed the hiring manager.",
+          "fr": "Sa lettre de motivation a impressionné le responsable du recrutement."
+        }
+      ]
+    },
+    {
+      "word": "job opening",
+      "ipa": "/dʒɑːb ˈoʊpənɪŋ/",
+      "pos": "nom",
+      "fr": "poste à pourvoir",
+      "def": "A job that is available.",
+      "examples": [
+        {
+          "en": "There is a **job opening** in the marketing department.",
+          "fr": "Il y a un poste à pourvoir au service marketing."
+        },
+        {
+          "en": "**Job openings** are posted on our website every Monday.",
+          "fr": "Les offres d’emploi sont publiées sur notre site chaque lundi."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **vacancy**, **opening**, **position available**."
+      }
+    },
+    {
+      "word": "vacancy",
+      "ipa": "/ˈveɪkənsi/",
+      "pos": "nom",
+      "fr": "poste vacant ; chambre libre",
+      "def": "An empty job to be filled, or an available room in a hotel.",
+      "examples": [
+        {
+          "en": "We have a **vacancy** for a part-time receptionist.",
+          "fr": "Nous avons un poste vacant de réceptionniste à temps partiel."
+        },
+        {
+          "en": "The hotel sign says “No **vacancy**.”",
+          "fr": "Le panneau de l’hôtel indique « Complet »."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : les « vacances » = **vacation** (US) ou **holiday** (UK)."
+      }
+    },
+    {
+      "word": "position",
+      "ipa": "/pəˈzɪʃən/",
+      "pos": "nom",
+      "fr": "poste, fonction",
+      "def": "A job in an organization.",
+      "examples": [
+        {
+          "en": "She has accepted a **position** as a project manager.",
+          "fr": "Elle a accepté un poste de chef de projet."
+        },
+        {
+          "en": "The **position** requires frequent travel.",
+          "fr": "Le poste nécessite de fréquents déplacements."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**apply for a position** = postuler à un poste."
+      }
+    },
+    {
+      "word": "qualifications",
+      "ipa": "/ˌkwɑːlɪfɪˈkeɪʃənz/",
+      "pos": "nom pluriel",
+      "fr": "qualifications, diplômes, compétences",
+      "def": "The skills, experience or diplomas that make you suitable for a job.",
+      "examples": [
+        {
+          "en": "Candidates with the right **qualifications** will be contacted.",
+          "fr": "Les candidats ayant les compétences requises seront contactés."
+        },
+        {
+          "en": "What **qualifications** are required for this job?",
+          "fr": "Quelles qualifications sont exigées pour ce poste ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **qualified for** (qualifié pour)."
+      }
+    },
+    {
+      "word": "requirement",
+      "ipa": "/rɪˈkwaɪərmənt/",
+      "pos": "nom",
+      "fr": "exigence, condition requise",
+      "def": "Something that is needed or demanded.",
+      "examples": [
+        {
+          "en": "Fluency in Spanish is a **requirement** for this job.",
+          "fr": "La maîtrise de l’espagnol est une condition requise pour ce poste."
+        },
+        {
+          "en": "The building meets all safety **requirements**.",
+          "fr": "Le bâtiment répond à toutes les exigences de sécurité."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **require** (+ to do / + that)."
+      }
+    },
+    {
+      "word": "interview",
+      "ipa": "/ˈɪntərvjuː/",
+      "pos": "nom, verbe",
+      "fr": "entretien ; faire passer un entretien",
+      "def": "A formal meeting where someone is asked questions, for example for a job.",
+      "examples": [
+        {
+          "en": "Your **interview** is scheduled for 10 a.m. on Monday.",
+          "fr": "Votre entretien est prévu lundi à 10 h."
+        },
+        {
+          "en": "We **interviewed** eight candidates for the position.",
+          "fr": "Nous avons reçu huit candidats en entretien pour le poste."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne qui pose les questions : **interviewer** ; le candidat : **interviewee**."
+      }
+    },
+    {
+      "word": "hire",
+      "ipa": "/haɪər/",
+      "pos": "verbe",
+      "fr": "embaucher, recruter",
+      "def": "To give someone a job.",
+      "examples": [
+        {
+          "en": "The company plans to **hire** 50 new employees.",
+          "fr": "L’entreprise prévoit d’embaucher 50 nouveaux salariés."
+        },
+        {
+          "en": "She was **hired** as a senior designer.",
+          "fr": "Elle a été recrutée comme designer senior."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**a new hire** = une nouvelle recrue. Aussi « louer » (UK : hire a car)."
+      }
+    },
+    {
+      "word": "recruit",
+      "ipa": "/rɪˈkruːt/",
+      "pos": "verbe, nom",
+      "fr": "recruter ; recrue",
+      "def": "To find new people to join an organization.",
+      "examples": [
+        {
+          "en": "We are **recruiting** engineers for our new plant.",
+          "fr": "Nous recrutons des ingénieurs pour notre nouvelle usine."
+        },
+        {
+          "en": "The new **recruits** start training next week.",
+          "fr": "Les nouvelles recrues commencent leur formation la semaine prochaine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **recruitment** (le recrutement) ; **recruiter** (recruteur)."
+      }
+    },
+    {
+      "word": "reference",
+      "ipa": "/ˈrefərəns/",
+      "pos": "nom",
+      "fr": "référence, recommandation",
+      "def": "A person who can describe your character and work, or their written statement.",
+      "examples": [
+        {
+          "en": "Please provide the names of two professional **references**.",
+          "fr": "Merci d’indiquer le nom de deux références professionnelles."
+        },
+        {
+          "en": "Her former manager wrote her an excellent **reference**.",
+          "fr": "Son ancienne responsable lui a écrit une excellente lettre de recommandation."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**with reference to** = en ce qui concerne."
+      }
+    },
+    {
+      "word": "eligible",
+      "ipa": "/ˈelɪdʒəbəl/",
+      "pos": "adjectif",
+      "fr": "admissible, qui a droit à",
+      "def": "Allowed by the rules to do or receive something.",
+      "examples": [
+        {
+          "en": "Full-time employees are **eligible** for the annual bonus.",
+          "fr": "Les employés à temps plein ont droit à la prime annuelle."
+        },
+        {
+          "en": "New employees are **eligible** to join the pension plan after six months.",
+          "fr": "Les nouveaux employés peuvent adhérer au régime de retraite au bout de six mois."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**eligible for** + nom · **eligible to** + verbe."
+      }
+    },
+    {
+      "word": "benefits",
+      "ipa": "/ˈbenɪfɪts/",
+      "pos": "nom pluriel",
+      "fr": "avantages sociaux",
+      "def": "Extra advantages given to employees in addition to salary, such as health insurance.",
+      "examples": [
+        {
+          "en": "The job offers a competitive salary and excellent **benefits**.",
+          "fr": "Le poste offre un salaire compétitif et d’excellents avantages sociaux."
+        },
+        {
+          "en": "**Benefits** include dental insurance and paid vacation.",
+          "fr": "Les avantages incluent une assurance dentaire et des congés payés."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**benefit from** = profiter de, bénéficier de."
+      }
+    },
+    {
+      "word": "salary",
+      "ipa": "/ˈsæləri/",
+      "pos": "nom",
+      "fr": "salaire (annuel, mensuel)",
+      "def": "A fixed amount of money paid to an employee, usually every month.",
+      "examples": [
+        {
+          "en": "The **salary** will be based on experience.",
+          "fr": "Le salaire dépendra de l’expérience."
+        },
+        {
+          "en": "She negotiated a higher **salary** before accepting the offer.",
+          "fr": "Elle a négocié un salaire plus élevé avant d’accepter l’offre."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Payé à l’heure ou à la semaine : **wage**."
+      }
+    },
+    {
+      "word": "wage",
+      "ipa": "/weɪdʒ/",
+      "pos": "nom",
+      "fr": "salaire (horaire, hebdomadaire)",
+      "def": "Money paid to a worker, usually per hour or per week.",
+      "examples": [
+        {
+          "en": "The minimum **wage** will increase next year.",
+          "fr": "Le salaire minimum augmentera l’an prochain."
+        },
+        {
+          "en": "Factory workers are paid an hourly **wage**.",
+          "fr": "Les ouvriers de l’usine sont payés à l’heure."
+        }
+      ]
+    },
+    {
+      "word": "promotion",
+      "ipa": "/prəˈmoʊʃən/",
+      "pos": "nom",
+      "fr": "promotion (avancement) ; opération promotionnelle",
+      "def": "A move to a higher position at work; also an activity to increase sales.",
+      "examples": [
+        {
+          "en": "Congratulations on your **promotion** to regional manager!",
+          "fr": "Félicitations pour votre promotion au poste de directeur régional !"
+        },
+        {
+          "en": "The store is running a special **promotion** this week.",
+          "fr": "Le magasin propose une offre promotionnelle cette semaine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **be promoted to** (être promu à)."
+      }
+    },
+    {
+      "word": "performance review",
+      "ipa": "/pərˈfɔːrməns rɪˈvjuː/",
+      "pos": "nom",
+      "fr": "entretien annuel d’évaluation",
+      "def": "A meeting in which a manager evaluates an employee’s work.",
+      "examples": [
+        {
+          "en": "**Performance reviews** take place every December.",
+          "fr": "Les entretiens d’évaluation ont lieu chaque décembre."
+        },
+        {
+          "en": "He received positive comments in his **performance review**.",
+          "fr": "Il a reçu des commentaires positifs lors de son évaluation."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **performance appraisal** / **evaluation**."
+      }
+    },
+    {
+      "word": "probation",
+      "ipa": "/proʊˈbeɪʃən/",
+      "pos": "nom",
+      "fr": "période d’essai",
+      "def": "A trial period at the start of a new job.",
+      "examples": [
+        {
+          "en": "New employees are on **probation** for three months.",
+          "fr": "Les nouveaux employés sont en période d’essai pendant trois mois."
+        },
+        {
+          "en": "She passed her **probation** period successfully.",
+          "fr": "Elle a validé sa période d’essai avec succès."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **probationary period**, **trial period**."
+      }
+    },
+    {
+      "word": "trainee",
+      "ipa": "/treɪˈniː/",
+      "pos": "nom",
+      "fr": "stagiaire, apprenti(e)",
+      "def": "A person who is learning to do a job.",
+      "examples": [
+        {
+          "en": "Each **trainee** is paired with an experienced mentor.",
+          "fr": "Chaque stagiaire est associé à un tuteur expérimenté."
+        },
+        {
+          "en": "The bank is looking for management **trainees**.",
+          "fr": "La banque recherche des cadres stagiaires."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Le formateur : **trainer** ; la formation : **training**."
+      }
+    },
+    {
+      "word": "internship",
+      "ipa": "/ˈɪntɜːrnʃɪp/",
+      "pos": "nom",
+      "fr": "stage",
+      "def": "A period of work, often for students, to gain experience.",
+      "examples": [
+        {
+          "en": "She did a six-month **internship** at an advertising agency.",
+          "fr": "Elle a fait un stage de six mois dans une agence de publicité."
+        },
+        {
+          "en": "The **internship** may lead to a full-time position.",
+          "fr": "Le stage peut déboucher sur un poste à temps plein."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne : **intern** (stagiaire)."
+      }
+    },
+    {
+      "word": "orientation",
+      "ipa": "/ˌɔːriənˈteɪʃən/",
+      "pos": "nom",
+      "fr": "séance d’accueil, intégration",
+      "def": "A meeting or training that introduces new employees to an organization.",
+      "examples": [
+        {
+          "en": "New staff must attend **orientation** on their first day.",
+          "fr": "Les nouveaux employés doivent assister à la séance d’accueil le premier jour."
+        },
+        {
+          "en": "The **orientation** includes a tour of the building.",
+          "fr": "L’intégration comprend une visite du bâtiment."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **onboarding**."
+      }
+    },
+    {
+      "word": "personnel",
+      "ipa": "/ˌpɜːrsəˈnel/",
+      "pos": "nom",
+      "fr": "personnel",
+      "def": "The people who work for an organization.",
+      "examples": [
+        {
+          "en": "Only authorized **personnel** may enter this area.",
+          "fr": "Seul le personnel autorisé peut entrer dans cette zone."
+        },
+        {
+          "en": "The company is reducing its **personnel** costs.",
+          "fr": "L’entreprise réduit ses coûts de personnel."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Ne pas confondre avec **personal** (personnel, privé), accentué différemment."
+      }
+    },
+    {
+      "word": "human resources",
+      "ipa": "/ˈhjuːmən ˈriːsɔːrsɪz/",
+      "pos": "nom",
+      "fr": "ressources humaines (RH)",
+      "def": "The department that deals with hiring, training and employee welfare.",
+      "examples": [
+        {
+          "en": "Please contact **human resources** to update your information.",
+          "fr": "Merci de contacter les ressources humaines pour mettre à jour vos informations."
+        },
+        {
+          "en": "She has worked in **human resources** for ten years.",
+          "fr": "Elle travaille dans les ressources humaines depuis dix ans."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Abréviation : **HR**."
+      }
+    },
+    {
+      "word": "full-time",
+      "ipa": "/ˌfʊl ˈtaɪm/",
+      "pos": "adjectif",
+      "fr": "à temps plein",
+      "def": "Working the normal number of hours in a week.",
+      "examples": [
+        {
+          "en": "We are hiring two **full-time** technicians.",
+          "fr": "Nous recrutons deux techniciens à temps plein."
+        },
+        {
+          "en": "She works **full-time** at the hospital.",
+          "fr": "Elle travaille à temps plein à l’hôpital."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **part-time** (à temps partiel)."
+      }
+    },
+    {
+      "word": "part-time",
+      "ipa": "/ˌpɑːrt ˈtaɪm/",
+      "pos": "adjectif",
+      "fr": "à temps partiel",
+      "def": "Working fewer hours than the normal full week.",
+      "examples": [
+        {
+          "en": "The café is looking for **part-time** staff for weekends.",
+          "fr": "Le café recherche du personnel à temps partiel pour le week-end."
+        },
+        {
+          "en": "Many students have **part-time** jobs.",
+          "fr": "Beaucoup d’étudiants ont un emploi à temps partiel."
+        }
+      ]
+    },
+    {
+      "word": "shift",
+      "ipa": "/ʃɪft/",
+      "pos": "nom",
+      "fr": "poste, équipe (horaires de travail)",
+      "def": "A period of work in a place where people work in turns.",
+      "examples": [
+        {
+          "en": "I’m working the night **shift** this week.",
+          "fr": "Je fais l’équipe de nuit cette semaine."
+        },
+        {
+          "en": "Nurses work twelve-hour **shifts**.",
+          "fr": "Les infirmières font des gardes de douze heures."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi un verbe : **shift** = déplacer, changer."
+      }
+    },
+    {
+      "word": "overtime",
+      "ipa": "/ˈoʊvərtaɪm/",
+      "pos": "nom",
+      "fr": "heures supplémentaires",
+      "def": "Time worked beyond normal hours, often paid at a higher rate.",
+      "examples": [
+        {
+          "en": "Employees are paid extra for **overtime**.",
+          "fr": "Les employés sont payés davantage pour les heures supplémentaires."
+        },
+        {
+          "en": "We had to work **overtime** to finish the order.",
+          "fr": "Nous avons dû faire des heures supplémentaires pour terminer la commande."
+        }
+      ]
+    },
+    {
+      "word": "retire",
+      "ipa": "/rɪˈtaɪər/",
+      "pos": "verbe",
+      "fr": "prendre sa retraite",
+      "def": "To stop working, usually because of age.",
+      "examples": [
+        {
+          "en": "Mr. Brown will **retire** at the end of the year.",
+          "fr": "M. Brown prendra sa retraite à la fin de l’année."
+        },
+        {
+          "en": "She **retired** after 35 years with the company.",
+          "fr": "Elle a pris sa retraite après 35 ans dans l’entreprise."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **retirement** ; **retirement party** = pot de départ à la retraite."
+      }
+    },
+    {
+      "word": "resign",
+      "ipa": "/rɪˈzaɪn/",
+      "pos": "verbe",
+      "fr": "démissionner",
+      "def": "To officially leave your job.",
+      "examples": [
+        {
+          "en": "The director **resigned** for personal reasons.",
+          "fr": "Le directeur a démissionné pour des raisons personnelles."
+        },
+        {
+          "en": "She **resigned** from her position last month.",
+          "fr": "Elle a démissionné de son poste le mois dernier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **resignation** ; **letter of resignation** = lettre de démission."
+      }
+    },
+    {
+      "word": "dismiss",
+      "ipa": "/dɪsˈmɪs/",
+      "pos": "verbe",
+      "fr": "licencier, renvoyer ; écarter",
+      "def": "To remove someone from their job; or to reject an idea.",
+      "examples": [
+        {
+          "en": "Two employees were **dismissed** for misconduct.",
+          "fr": "Deux employés ont été licenciés pour faute."
+        },
+        {
+          "en": "The manager **dismissed** the idea as too expensive.",
+          "fr": "Le responsable a écarté l’idée, jugée trop coûteuse."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **fire**, **let go**. Pour raisons économiques : **lay off**."
+      }
+    },
+    {
+      "word": "layoff",
+      "ipa": "/ˈleɪɔːf/",
+      "pos": "nom",
+      "fr": "licenciement (économique)",
+      "def": "The act of ending workers’ jobs because there is not enough work.",
+      "examples": [
+        {
+          "en": "The factory announced 200 **layoffs**.",
+          "fr": "L’usine a annoncé 200 licenciements."
+        },
+        {
+          "en": "**Layoffs** were avoided thanks to new contracts.",
+          "fr": "Les licenciements ont été évités grâce à de nouveaux contrats."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe à particule : **lay off** workers."
+      }
+    },
+    {
+      "word": "workforce",
+      "ipa": "/ˈwɜːrkfɔːrs/",
+      "pos": "nom",
+      "fr": "effectifs, main-d’œuvre",
+      "def": "All the people who work for a company or in a country.",
+      "examples": [
+        {
+          "en": "Women make up half of our **workforce**.",
+          "fr": "Les femmes représentent la moitié de nos effectifs."
+        },
+        {
+          "en": "The company plans to expand its **workforce** by 10 percent.",
+          "fr": "L’entreprise prévoit d’augmenter ses effectifs de 10 %."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **staff**."
+      }
+    },
+    {
+      "word": "staff",
+      "ipa": "/stæf/",
+      "pos": "nom",
+      "fr": "personnel, équipe",
+      "def": "The people who work for an organization.",
+      "examples": [
+        {
+          "en": "All **staff** must attend the safety training.",
+          "fr": "Tout le personnel doit suivre la formation sécurité."
+        },
+        {
+          "en": "The hotel **staff** were very helpful.",
+          "fr": "Le personnel de l’hôtel a été très serviable."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Mot collectif : **a staff member** = un membre du personnel. Verbe **staff** = doter en personnel."
+      }
+    },
+    {
+      "word": "leave",
+      "ipa": "/liːv/",
+      "pos": "nom",
+      "fr": "congé",
+      "def": "Time away from work that is allowed.",
+      "examples": [
+        {
+          "en": "She is on maternity **leave** until March.",
+          "fr": "Elle est en congé maternité jusqu’en mars."
+        },
+        {
+          "en": "Employees receive 25 days of paid **leave** per year.",
+          "fr": "Les employés ont droit à 25 jours de congés payés par an."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**sick leave** = arrêt maladie ; **on leave** = en congé."
+      }
+    },
+    {
+      "word": "credentials",
+      "ipa": "/krəˈdenʃəlz/",
+      "pos": "nom pluriel",
+      "fr": "diplômes, références, titres",
+      "def": "Qualifications and experience that show you are suitable for something.",
+      "examples": [
+        {
+          "en": "The candidate has excellent academic **credentials**.",
+          "fr": "Le candidat a d’excellents diplômes."
+        },
+        {
+          "en": "Please bring your **credentials** to the interview.",
+          "fr": "Merci d’apporter vos justificatifs de diplômes à l’entretien."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : identifiants de connexion (login **credentials**)."
+      }
+    },
+    {
+      "word": "expertise",
+      "ipa": "/ˌekspɜːrˈtiːz/",
+      "pos": "nom",
+      "fr": "expertise, savoir-faire",
+      "def": "Special skill or knowledge in a particular area.",
+      "examples": [
+        {
+          "en": "We need someone with **expertise** in data analysis.",
+          "fr": "Il nous faut quelqu’un qui a une expertise en analyse de données."
+        },
+        {
+          "en": "Her technical **expertise** was essential to the project.",
+          "fr": "Son savoir-faire technique a été essentiel au projet."
+        }
+      ]
+    },
+    {
+      "word": "job fair",
+      "ipa": "/dʒɑːb fer/",
+      "pos": "nom",
+      "fr": "salon de l’emploi",
+      "def": "An event where companies meet people looking for jobs.",
+      "examples": [
+        {
+          "en": "More than 40 employers will attend the **job fair**.",
+          "fr": "Plus de 40 employeurs participeront au salon de l’emploi."
+        },
+        {
+          "en": "I met my current manager at a **job fair**.",
+          "fr": "J’ai rencontré mon responsable actuel à un salon de l’emploi."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **career fair**."
+      }
+    },
+    {
+      "word": "commensurate with",
+      "ipa": "/kəˈmenʃərət wɪð/",
+      "pos": "adjectif",
+      "fr": "proportionnel à, en rapport avec",
+      "def": "Matching in size or amount (formal).",
+      "examples": [
+        {
+          "en": "Salary will be **commensurate with** experience.",
+          "fr": "Le salaire sera en rapport avec l’expérience."
+        },
+        {
+          "en": "Pay is **commensurate with** qualifications.",
+          "fr": "La rémunération dépend des qualifications."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Formule classique des offres d’emploi au TOEIC."
+      }
+    },
+    {
+      "word": "payroll",
+      "ipa": "/ˈpeɪroʊl/",
+      "pos": "nom",
+      "fr": "paie, masse salariale",
+      "def": "The list of employees and the amount each is paid; or the total paid.",
+      "examples": [
+        {
+          "en": "Contact **payroll** if your paycheck is incorrect.",
+          "fr": "Contactez le service paie si votre bulletin de salaire est erroné."
+        },
+        {
+          "en": "The company has 300 people on its **payroll**.",
+          "fr": "L’entreprise compte 300 salariés."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**paycheck** (US) / **payslip** (UK) = fiche de paie."
+      }
+    },
+    {
+      "word": "mentor",
+      "ipa": "/ˈmentɔːr/",
+      "pos": "nom, verbe",
+      "fr": "tuteur, mentor ; encadrer",
+      "def": "An experienced person who advises a less experienced one.",
+      "examples": [
+        {
+          "en": "Each new hire is assigned a **mentor**.",
+          "fr": "Chaque nouvelle recrue se voit attribuer un tuteur."
+        },
+        {
+          "en": "She **mentors** young engineers in her free time.",
+          "fr": "Elle encadre de jeunes ingénieurs pendant son temps libre."
+        }
+      ]
+    },
+    {
+      "word": "supervise",
+      "ipa": "/ˈsuːpərvaɪz/",
+      "pos": "verbe",
+      "fr": "encadrer, superviser",
+      "def": "To be in charge of people or an activity and check it is done correctly.",
+      "examples": [
+        {
+          "en": "He **supervises** a team of twelve technicians.",
+          "fr": "Il encadre une équipe de douze techniciens."
+        },
+        {
+          "en": "Children must be **supervised** at all times.",
+          "fr": "Les enfants doivent être surveillés en permanence."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne : **supervisor**."
+      }
+    },
+    {
+      "word": "appoint",
+      "ipa": "/əˈpɔɪnt/",
+      "pos": "verbe",
+      "fr": "nommer (à un poste)",
+      "def": "To choose someone officially for a job.",
+      "examples": [
+        {
+          "en": "Ms. Chen has been **appointed** head of sales.",
+          "fr": "Mme Chen a été nommée directrice des ventes."
+        },
+        {
+          "en": "The board will **appoint** a new CEO next month.",
+          "fr": "Le conseil nommera un nouveau PDG le mois prochain."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **appointment** = nomination ; aussi rendez-vous."
+      }
+    },
+    {
+      "word": "successor",
+      "ipa": "/səkˈsesər/",
+      "pos": "nom",
+      "fr": "successeur",
+      "def": "A person who takes a job after someone else.",
+      "examples": [
+        {
+          "en": "The board is looking for a **successor** to the retiring president.",
+          "fr": "Le conseil cherche un successeur au président qui part à la retraite."
+        },
+        {
+          "en": "She will train her **successor** before leaving.",
+          "fr": "Elle formera son successeur avant de partir."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Le précédent : **predecessor**."
+      }
+    },
+    {
+      "word": "job description",
+      "ipa": "/dʒɑːb dɪˈskrɪpʃən/",
+      "pos": "nom",
+      "fr": "fiche de poste",
+      "def": "A written list of the duties of a job.",
+      "examples": [
+        {
+          "en": "The **job description** lists the main responsibilities.",
+          "fr": "La fiche de poste énumère les principales responsabilités."
+        },
+        {
+          "en": "Please read the **job description** carefully before applying.",
+          "fr": "Merci de lire attentivement la fiche de poste avant de postuler."
+        }
+      ]
+    },
+    {
+      "word": "responsibilities",
+      "ipa": "/rɪˌspɑːnsəˈbɪlətiz/",
+      "pos": "nom pluriel",
+      "fr": "responsabilités, missions",
+      "def": "The duties that are part of a job.",
+      "examples": [
+        {
+          "en": "Your **responsibilities** will include training new staff.",
+          "fr": "Vos missions incluront la formation des nouveaux employés."
+        },
+        {
+          "en": "She took on more **responsibilities** after her promotion.",
+          "fr": "Elle a pris plus de responsabilités après sa promotion."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**be responsible for + -ing** = être chargé de."
+      }
+    }
+  ]
+}

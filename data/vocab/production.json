@@ -1,0 +1,705 @@
+{
+  "id": "production",
+  "name": "Production et industrie",
+  "short": "Production",
+  "group": "theme",
+  "description": "Usines, fabrication, stocks, qualité et sécurité.",
+  "cards": [
+    {
+      "word": "manufacture",
+      "ipa": "/ˌmænjəˈfæktʃər/",
+      "pos": "verbe, nom",
+      "fr": "fabriquer ; fabrication",
+      "def": "To make goods in large quantities using machines.",
+      "examples": [
+        {
+          "en": "The company **manufactures** car parts.",
+          "fr": "L’entreprise fabrique des pièces automobiles."
+        },
+        {
+          "en": "The **manufacture** of the new model will begin in June.",
+          "fr": "La fabrication du nouveau modèle commencera en juin."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La société : **manufacturer** (fabricant)."
+      }
+    },
+    {
+      "word": "manufacturer",
+      "ipa": "/ˌmænjəˈfæktʃərər/",
+      "pos": "nom",
+      "fr": "fabricant",
+      "def": "A company that makes goods.",
+      "examples": [
+        {
+          "en": "Contact the **manufacturer** for warranty repairs.",
+          "fr": "Contactez le fabricant pour les réparations sous garantie."
+        },
+        {
+          "en": "The **manufacturer** recalled 10,000 cars.",
+          "fr": "Le constructeur a rappelé 10 000 voitures."
+        }
+      ]
+    },
+    {
+      "word": "assembly line",
+      "ipa": "/əˈsembli laɪn/",
+      "pos": "nom",
+      "fr": "chaîne de montage",
+      "def": "A line of workers and machines, each doing one step to build a product.",
+      "examples": [
+        {
+          "en": "Workers on the **assembly line** wear protective gloves.",
+          "fr": "Les ouvriers de la chaîne de montage portent des gants de protection."
+        },
+        {
+          "en": "The new **assembly line** doubled production.",
+          "fr": "La nouvelle chaîne de montage a doublé la production."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **assemble** (assembler, monter ; aussi se réunir)."
+      }
+    },
+    {
+      "word": "plant",
+      "ipa": "/plænt/",
+      "pos": "nom",
+      "fr": "usine ; plante",
+      "def": "A factory; or a living thing that grows in soil.",
+      "examples": [
+        {
+          "en": "The **plant** employs over 800 workers.",
+          "fr": "L’usine emploie plus de 800 ouvriers."
+        },
+        {
+          "en": "The company is building a new power **plant**.",
+          "fr": "L’entreprise construit une nouvelle centrale électrique."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Au TOEIC, **plant** veut souvent dire usine. **power plant** = centrale."
+      }
+    },
+    {
+      "word": "warehouse",
+      "ipa": "/ˈwerhaʊs/",
+      "pos": "nom",
+      "fr": "entrepôt",
+      "def": "A large building where goods are stored.",
+      "examples": [
+        {
+          "en": "The goods are stored in a **warehouse** near the port.",
+          "fr": "Les marchandises sont stockées dans un entrepôt près du port."
+        },
+        {
+          "en": "The **warehouse** is being expanded.",
+          "fr": "L’entrepôt est en cours d’agrandissement."
+        }
+      ]
+    },
+    {
+      "word": "inventory",
+      "ipa": "/ˈɪnvəntɔːri/",
+      "pos": "nom",
+      "fr": "stock ; inventaire",
+      "def": "The goods a company has in stock; or a complete list of them.",
+      "examples": [
+        {
+          "en": "We need to reduce our **inventory** of winter clothing.",
+          "fr": "Nous devons réduire notre stock de vêtements d’hiver."
+        },
+        {
+          "en": "The store will close early to take **inventory**.",
+          "fr": "Le magasin fermera plus tôt pour faire l’inventaire."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme de stock : **stock**."
+      }
+    },
+    {
+      "word": "supplier",
+      "ipa": "/səˈplaɪər/",
+      "pos": "nom",
+      "fr": "fournisseur",
+      "def": "A company that provides goods or materials to another company.",
+      "examples": [
+        {
+          "en": "We are looking for a new paper **supplier**.",
+          "fr": "Nous cherchons un nouveau fournisseur de papier."
+        },
+        {
+          "en": "The **supplier** guaranteed delivery within a week.",
+          "fr": "Le fournisseur a garanti la livraison sous une semaine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **supply** ; nom : **supplies** (fournitures)."
+      }
+    },
+    {
+      "word": "raw materials",
+      "ipa": "/rɔː məˈtɪriəlz/",
+      "pos": "nom pluriel",
+      "fr": "matières premières",
+      "def": "Basic materials used to make products, such as wood, metal or cotton.",
+      "examples": [
+        {
+          "en": "The cost of **raw materials** has increased.",
+          "fr": "Le coût des matières premières a augmenté."
+        },
+        {
+          "en": "We import most of our **raw materials**.",
+          "fr": "Nous importons la plupart de nos matières premières."
+        }
+      ]
+    },
+    {
+      "word": "output",
+      "ipa": "/ˈaʊtpʊt/",
+      "pos": "nom",
+      "fr": "production, rendement",
+      "def": "The amount of goods produced.",
+      "examples": [
+        {
+          "en": "Factory **output** rose by 8 percent last year.",
+          "fr": "La production de l’usine a augmenté de 8 % l’an dernier."
+        },
+        {
+          "en": "The new machines will double our **output**.",
+          "fr": "Les nouvelles machines doubleront notre production."
+        }
+      ]
+    },
+    {
+      "word": "capacity",
+      "ipa": "/kəˈpæsəti/",
+      "pos": "nom",
+      "fr": "capacité",
+      "def": "The maximum amount something can hold or produce.",
+      "examples": [
+        {
+          "en": "The factory is working at full **capacity**.",
+          "fr": "L’usine tourne à plein régime."
+        },
+        {
+          "en": "The hall has a seating **capacity** of 500.",
+          "fr": "La salle peut accueillir 500 personnes assises."
+        }
+      ]
+    },
+    {
+      "word": "quality control",
+      "ipa": "/ˈkwɑːləti kənˈtroʊl/",
+      "pos": "nom",
+      "fr": "contrôle qualité",
+      "def": "The process of checking that products meet a required standard.",
+      "examples": [
+        {
+          "en": "Every item goes through **quality control**.",
+          "fr": "Chaque article passe par le contrôle qualité."
+        },
+        {
+          "en": "She works in the **quality control** department.",
+          "fr": "Elle travaille au service contrôle qualité."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **quality assurance (QA)**."
+      }
+    },
+    {
+      "word": "defect",
+      "ipa": "/ˈdiːfekt/",
+      "pos": "nom",
+      "fr": "défaut",
+      "def": "A fault or problem in a product.",
+      "examples": [
+        {
+          "en": "The **defect** was discovered during testing.",
+          "fr": "Le défaut a été découvert pendant les tests."
+        },
+        {
+          "en": "Products with **defects** are sent back to the factory.",
+          "fr": "Les produits défectueux sont renvoyés à l’usine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **defective** (défectueux)."
+      }
+    },
+    {
+      "word": "recall",
+      "ipa": "/rɪˈkɔːl/",
+      "pos": "verbe, nom",
+      "fr": "rappeler (un produit) ; rappel",
+      "def": "To ask customers to return a faulty product; or to remember.",
+      "examples": [
+        {
+          "en": "The company **recalled** thousands of heaters.",
+          "fr": "L’entreprise a rappelé des milliers de radiateurs."
+        },
+        {
+          "en": "I don’t **recall** the exact date of the meeting.",
+          "fr": "Je ne me souviens pas de la date exacte de la réunion."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Deux sens au TOEIC : rappel de produits / se souvenir."
+      }
+    },
+    {
+      "word": "equipment",
+      "ipa": "/ɪˈkwɪpmənt/",
+      "pos": "nom",
+      "fr": "équipement, matériel",
+      "def": "The tools and machines needed for an activity.",
+      "examples": [
+        {
+          "en": "Safety **equipment** must be worn at all times.",
+          "fr": "L’équipement de sécurité doit être porté en permanence."
+        },
+        {
+          "en": "We invested in new **equipment** last year.",
+          "fr": "Nous avons investi dans de nouveaux équipements l’an dernier."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Indénombrable : **a piece of equipment**."
+      }
+    },
+    {
+      "word": "machinery",
+      "ipa": "/məˈʃiːnəri/",
+      "pos": "nom",
+      "fr": "machines, machinerie",
+      "def": "Machines in general, especially large ones.",
+      "examples": [
+        {
+          "en": "The factory replaced its old **machinery**.",
+          "fr": "L’usine a remplacé ses vieilles machines."
+        },
+        {
+          "en": "Only trained staff may operate heavy **machinery**.",
+          "fr": "Seul le personnel formé peut utiliser les engins lourds."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Indénombrable."
+      }
+    },
+    {
+      "word": "operate",
+      "ipa": "/ˈɑːpəreɪt/",
+      "pos": "verbe",
+      "fr": "faire fonctionner, utiliser ; exploiter",
+      "def": "To use or control a machine; or to run a business.",
+      "examples": [
+        {
+          "en": "Only certified workers can **operate** the crane.",
+          "fr": "Seuls les ouvriers certifiés peuvent manœuvrer la grue."
+        },
+        {
+          "en": "The company **operates** stores in 12 countries.",
+          "fr": "L’entreprise exploite des magasins dans 12 pays."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **operation** ; la personne : **operator**."
+      }
+    },
+    {
+      "word": "safety regulations",
+      "ipa": "/ˈseɪfti ˌreɡjəˈleɪʃənz/",
+      "pos": "nom pluriel",
+      "fr": "consignes de sécurité",
+      "def": "Official rules to keep people safe.",
+      "examples": [
+        {
+          "en": "All visitors must follow the **safety regulations**.",
+          "fr": "Tous les visiteurs doivent respecter les consignes de sécurité."
+        },
+        {
+          "en": "The factory was fined for breaking **safety regulations**.",
+          "fr": "L’usine a reçu une amende pour non-respect des règles de sécurité."
+        }
+      ]
+    },
+    {
+      "word": "protective gear",
+      "ipa": "/prəˈtektɪv ɡɪr/",
+      "pos": "nom",
+      "fr": "équipement de protection",
+      "def": "Clothing or equipment that protects workers from injury.",
+      "examples": [
+        {
+          "en": "Workers must wear **protective gear** such as helmets and goggles.",
+          "fr": "Les ouvriers doivent porter des équipements de protection comme des casques et des lunettes."
+        },
+        {
+          "en": "**Protective gear** is provided at the entrance.",
+          "fr": "L’équipement de protection est fourni à l’entrée."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**safety goggles** = lunettes de protection ; **hard hat** = casque de chantier."
+      }
+    },
+    {
+      "word": "efficiency",
+      "ipa": "/ɪˈfɪʃənsi/",
+      "pos": "nom",
+      "fr": "efficacité, rendement",
+      "def": "The ability to work well without wasting time or energy.",
+      "examples": [
+        {
+          "en": "The new software improved **efficiency** by 30 percent.",
+          "fr": "Le nouveau logiciel a amélioré l’efficacité de 30 %."
+        },
+        {
+          "en": "Energy **efficiency** is a priority for the factory.",
+          "fr": "L’efficacité énergétique est une priorité pour l’usine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **efficient** ; adverbe : **efficiently**."
+      }
+    },
+    {
+      "word": "productivity",
+      "ipa": "/ˌproʊdʌkˈtɪvəti/",
+      "pos": "nom",
+      "fr": "productivité",
+      "def": "How much work is produced in a period of time.",
+      "examples": [
+        {
+          "en": "**Productivity** increased after the training program.",
+          "fr": "La productivité a augmenté après le programme de formation."
+        },
+        {
+          "en": "We are looking for ways to improve **productivity**.",
+          "fr": "Nous cherchons des moyens d’améliorer la productivité."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **productive**."
+      }
+    },
+    {
+      "word": "shipment",
+      "ipa": "/ˈʃɪpmənt/",
+      "pos": "nom",
+      "fr": "livraison, envoi, cargaison",
+      "def": "A quantity of goods sent together.",
+      "examples": [
+        {
+          "en": "The **shipment** of parts arrived this morning.",
+          "fr": "La livraison de pièces est arrivée ce matin."
+        },
+        {
+          "en": "We are expecting a large **shipment** from China.",
+          "fr": "Nous attendons un important envoi de Chine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **ship** (expédier, pas seulement par bateau !)."
+      }
+    },
+    {
+      "word": "component",
+      "ipa": "/kəmˈpoʊnənt/",
+      "pos": "nom",
+      "fr": "composant, pièce",
+      "def": "One of the parts that make up a machine or system.",
+      "examples": [
+        {
+          "en": "We import electronic **components** from Korea.",
+          "fr": "Nous importons des composants électroniques de Corée."
+        },
+        {
+          "en": "Each **component** is tested before assembly.",
+          "fr": "Chaque composant est testé avant l’assemblage."
+        }
+      ]
+    },
+    {
+      "word": "prototype",
+      "ipa": "/ˈproʊtətaɪp/",
+      "pos": "nom",
+      "fr": "prototype",
+      "def": "The first model of a product, used for testing.",
+      "examples": [
+        {
+          "en": "Engineers are testing the **prototype**.",
+          "fr": "Les ingénieurs testent le prototype."
+        },
+        {
+          "en": "The **prototype** will be presented at the trade fair.",
+          "fr": "Le prototype sera présenté au salon professionnel."
+        }
+      ]
+    },
+    {
+      "word": "facility inspection",
+      "ipa": "/fəˈsɪləti ɪnˈspekʃən/",
+      "pos": "nom",
+      "fr": "inspection du site",
+      "def": "An official visit to check a factory or building.",
+      "examples": [
+        {
+          "en": "The **facility inspection** is scheduled for next Tuesday.",
+          "fr": "L’inspection du site est prévue mardi prochain."
+        },
+        {
+          "en": "Please clean all work areas before the **facility inspection**.",
+          "fr": "Merci de nettoyer tous les postes de travail avant l’inspection du site."
+        }
+      ]
+    },
+    {
+      "word": "production schedule",
+      "ipa": "/prəˈdʌkʃən ˈskedʒuːl/",
+      "pos": "nom",
+      "fr": "calendrier de production",
+      "def": "A plan showing when products will be made.",
+      "examples": [
+        {
+          "en": "The **production schedule** has been changed due to delays.",
+          "fr": "Le calendrier de production a été modifié à cause des retards."
+        },
+        {
+          "en": "We are ahead of our **production schedule**.",
+          "fr": "Nous sommes en avance sur notre calendrier de production."
+        }
+      ]
+    },
+    {
+      "word": "batch",
+      "ipa": "/bætʃ/",
+      "pos": "nom",
+      "fr": "lot, série",
+      "def": "A group of things made or dealt with at the same time.",
+      "examples": [
+        {
+          "en": "The first **batch** of products failed inspection.",
+          "fr": "Le premier lot de produits n’a pas passé le contrôle."
+        },
+        {
+          "en": "Orders are processed in **batches**.",
+          "fr": "Les commandes sont traitées par lots."
+        }
+      ]
+    },
+    {
+      "word": "durable",
+      "ipa": "/ˈdʊrəbəl/",
+      "pos": "adjectif",
+      "fr": "résistant, solide",
+      "def": "Able to last a long time without breaking.",
+      "examples": [
+        {
+          "en": "These bags are made from **durable** materials.",
+          "fr": "Ces sacs sont fabriqués dans des matériaux résistants."
+        },
+        {
+          "en": "The new flooring is more **durable**.",
+          "fr": "Le nouveau revêtement de sol est plus résistant."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami partiel : « durable » (écologique) = **sustainable**."
+      }
+    },
+    {
+      "word": "sustainable",
+      "ipa": "/səˈsteɪnəbəl/",
+      "pos": "adjectif",
+      "fr": "durable (écologique)",
+      "def": "Able to continue without harming the environment.",
+      "examples": [
+        {
+          "en": "The company uses **sustainable** packaging.",
+          "fr": "L’entreprise utilise des emballages durables."
+        },
+        {
+          "en": "We are committed to **sustainable** growth.",
+          "fr": "Nous nous engageons en faveur d’une croissance durable."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **sustainability**."
+      }
+    },
+    {
+      "word": "waste",
+      "ipa": "/weɪst/",
+      "pos": "nom, verbe",
+      "fr": "déchets, gaspillage ; gaspiller",
+      "def": "Unwanted materials; or to use something badly.",
+      "examples": [
+        {
+          "en": "The plant recycles most of its **waste**.",
+          "fr": "L’usine recycle la plupart de ses déchets."
+        },
+        {
+          "en": "Don’t **waste** time on unnecessary meetings.",
+          "fr": "Ne perdez pas de temps en réunions inutiles."
+        }
+      ]
+    },
+    {
+      "word": "fabricate",
+      "ipa": "/ˈfæbrɪkeɪt/",
+      "pos": "verbe",
+      "fr": "fabriquer ; inventer (mensonge)",
+      "def": "To make something from different parts; or to invent false information.",
+      "examples": [
+        {
+          "en": "The metal parts are **fabricated** on site.",
+          "fr": "Les pièces métalliques sont fabriquées sur place."
+        },
+        {
+          "en": "The report contained **fabricated** figures.",
+          "fr": "Le rapport contenait des chiffres inventés."
+        }
+      ]
+    },
+    {
+      "word": "industrial",
+      "ipa": "/ɪnˈdʌstriəl/",
+      "pos": "adjectif",
+      "fr": "industriel",
+      "def": "Relating to industry and factories.",
+      "examples": [
+        {
+          "en": "The factory is located in an **industrial** park.",
+          "fr": "L’usine se trouve dans une zone industrielle."
+        },
+        {
+          "en": "**Industrial** production fell last month.",
+          "fr": "La production industrielle a baissé le mois dernier."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Ne pas confondre avec **industrious** (travailleur, assidu)."
+      }
+    },
+    {
+      "word": "automotive",
+      "ipa": "/ˌɔːtəˈmoʊtɪv/",
+      "pos": "adjectif",
+      "fr": "automobile",
+      "def": "Relating to cars and car manufacturing.",
+      "examples": [
+        {
+          "en": "He works in the **automotive** industry.",
+          "fr": "Il travaille dans l’industrie automobile."
+        },
+        {
+          "en": "The plant produces **automotive** parts.",
+          "fr": "L’usine produit des pièces automobiles."
+        }
+      ]
+    },
+    {
+      "word": "maintenance crew",
+      "ipa": "/ˈmeɪntənəns kruː/",
+      "pos": "nom",
+      "fr": "équipe de maintenance",
+      "def": "A team of workers who keep machines and buildings in good condition.",
+      "examples": [
+        {
+          "en": "The **maintenance crew** repaired the conveyor belt overnight.",
+          "fr": "L’équipe de maintenance a réparé le tapis roulant pendant la nuit."
+        },
+        {
+          "en": "Report broken equipment to the **maintenance crew**.",
+          "fr": "Signalez tout équipement cassé à l’équipe de maintenance."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**crew** = équipe (de travail, d’avion)."
+      }
+    },
+    {
+      "word": "conveyor belt",
+      "ipa": "/kənˈveɪər belt/",
+      "pos": "nom",
+      "fr": "tapis roulant, convoyeur",
+      "def": "A moving belt that carries objects from one place to another.",
+      "examples": [
+        {
+          "en": "Boxes are moving along a **conveyor belt**.",
+          "fr": "Des cartons avancent sur un tapis roulant."
+        },
+        {
+          "en": "A worker is removing items from the **conveyor belt**.",
+          "fr": "Un ouvrier retire des articles du tapis roulant."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Scène fréquente en Partie 1."
+      }
+    },
+    {
+      "word": "forklift",
+      "ipa": "/ˈfɔːrklɪft/",
+      "pos": "nom",
+      "fr": "chariot élévateur",
+      "def": "A small vehicle used to lift and move heavy goods.",
+      "examples": [
+        {
+          "en": "A worker is driving a **forklift** in the warehouse.",
+          "fr": "Un ouvrier conduit un chariot élévateur dans l’entrepôt."
+        },
+        {
+          "en": "Only licensed staff may operate a **forklift**.",
+          "fr": "Seul le personnel habilité peut conduire un chariot élévateur."
+        }
+      ]
+    },
+    {
+      "word": "stack",
+      "ipa": "/stæk/",
+      "pos": "verbe, nom",
+      "fr": "empiler ; pile",
+      "def": "To put things one on top of another; or a pile of things.",
+      "examples": [
+        {
+          "en": "Boxes have been **stacked** near the door.",
+          "fr": "Des cartons ont été empilés près de la porte."
+        },
+        {
+          "en": "There is a **stack** of papers on the desk.",
+          "fr": "Il y a une pile de papiers sur le bureau."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Très fréquent en Partie 1 : **stacked**, **piled up**."
+      }
+    }
+  ]
+}

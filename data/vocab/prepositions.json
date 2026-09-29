@@ -1,0 +1,834 @@
+{
+  "id": "prepositions",
+  "name": "Prépositions courantes",
+  "short": "Prépositions",
+  "group": "special",
+  "description": "Les mots et expressions qui imposent une préposition précise : un grand classique de la Partie 5.",
+  "cards": [
+    {
+      "word": "responsible for",
+      "ipa": "/rɪˈspɑːnsəbəl fɔːr/",
+      "pos": "adjectif + préposition",
+      "fr": "responsable de, chargé de",
+      "def": "Having the job or duty of dealing with something.",
+      "examples": [
+        {
+          "en": "Ms. Wong is **responsible for** training new staff.",
+          "fr": "Mme Wong est chargée de former les nouveaux employés."
+        },
+        {
+          "en": "Who is **responsible for** booking the venue?",
+          "fr": "Qui s’occupe de réserver la salle ?"
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**for + -ing** : responsible for training."
+      }
+    },
+    {
+      "word": "interested in",
+      "ipa": "/ˈɪntrəstɪd ɪn/",
+      "pos": "adjectif + préposition",
+      "fr": "intéressé par",
+      "def": "Wanting to know about or do something.",
+      "examples": [
+        {
+          "en": "We are **interested in** your new product line.",
+          "fr": "Votre nouvelle gamme de produits nous intéresse."
+        },
+        {
+          "en": "Anyone **interested in** volunteering should contact Mr. Park.",
+          "fr": "Toute personne souhaitant faire du bénévolat doit contacter M. Park."
+        }
+      ]
+    },
+    {
+      "word": "familiar with",
+      "ipa": "/fəˈmɪljər wɪð/",
+      "pos": "adjectif + préposition",
+      "fr": "qui connaît bien, familiarisé avec",
+      "def": "Knowing something well.",
+      "examples": [
+        {
+          "en": "Are you **familiar with** this software?",
+          "fr": "Connaissez-vous ce logiciel ?"
+        },
+        {
+          "en": "Candidates must be **familiar with** accounting principles.",
+          "fr": "Les candidats doivent maîtriser les principes comptables."
+        }
+      ]
+    },
+    {
+      "word": "capable of",
+      "ipa": "/ˈkeɪpəbəl əv/",
+      "pos": "adjectif + préposition",
+      "fr": "capable de",
+      "def": "Having the ability to do something.",
+      "examples": [
+        {
+          "en": "The new printer is **capable of** printing 60 pages a minute.",
+          "fr": "La nouvelle imprimante peut imprimer 60 pages par minute."
+        },
+        {
+          "en": "She is **capable of** managing a large team.",
+          "fr": "Elle est capable de diriger une grande équipe."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**of + -ing**. À comparer avec **able to + verbe**."
+      }
+    },
+    {
+      "word": "aware of",
+      "ipa": "/əˈwer əv/",
+      "pos": "adjectif + préposition",
+      "fr": "conscient de, au courant de",
+      "def": "Knowing that something exists or is happening.",
+      "examples": [
+        {
+          "en": "Please be **aware of** the new security rules.",
+          "fr": "Merci de prendre connaissance des nouvelles règles de sécurité."
+        },
+        {
+          "en": "We are **aware of** the problem and are working on it.",
+          "fr": "Nous sommes au courant du problème et y travaillons."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **awareness**."
+      }
+    },
+    {
+      "word": "due to",
+      "ipa": "/duː tuː/",
+      "pos": "préposition",
+      "fr": "en raison de, à cause de",
+      "def": "Because of.",
+      "examples": [
+        {
+          "en": "The flight was delayed **due to** bad weather.",
+          "fr": "Le vol a été retardé en raison du mauvais temps."
+        },
+        {
+          "en": "**Due to** high demand, delivery may take longer.",
+          "fr": "En raison d’une forte demande, la livraison peut prendre plus de temps."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **owing to**, **because of**. ! Suivi d’un nom, pas d’une phrase."
+      }
+    },
+    {
+      "word": "according to",
+      "ipa": "/əˈkɔːrdɪŋ tuː/",
+      "pos": "préposition",
+      "fr": "selon, d’après",
+      "def": "As stated by someone or something.",
+      "examples": [
+        {
+          "en": "**According to** the report, sales increased by 5 percent.",
+          "fr": "Selon le rapport, les ventes ont augmenté de 5 %."
+        },
+        {
+          "en": "Everything went **according to** plan.",
+          "fr": "Tout s’est déroulé comme prévu."
+        }
+      ]
+    },
+    {
+      "word": "in accordance with",
+      "ipa": "/ɪn əˈkɔːrdəns wɪð/",
+      "pos": "préposition",
+      "fr": "conformément à",
+      "def": "Following a rule or request.",
+      "examples": [
+        {
+          "en": "All work is done **in accordance with** safety regulations.",
+          "fr": "Tous les travaux sont réalisés conformément aux règles de sécurité."
+        },
+        {
+          "en": "The funds were used **in accordance with** the agreement.",
+          "fr": "Les fonds ont été utilisés conformément à l’accord."
+        }
+      ]
+    },
+    {
+      "word": "on time / in time",
+      "ipa": "/ɑːn taɪm/ · /ɪn taɪm/",
+      "pos": "expressions",
+      "fr": "à l’heure (pile) / à temps (assez tôt)",
+      "def": "**on time** = at the planned time; **in time** = early enough.",
+      "examples": [
+        {
+          "en": "The train arrived **on time**.",
+          "fr": "Le train est arrivé à l’heure."
+        },
+        {
+          "en": "We arrived **in time** to see the opening speech.",
+          "fr": "Nous sommes arrivés à temps pour le discours d’ouverture."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Piège classique : **on time** = ponctuel ; **in time for** = à temps pour."
+      }
+    },
+    {
+      "word": "at the latest",
+      "ipa": "/æt ðə ˈleɪtɪst/",
+      "pos": "expression",
+      "fr": "au plus tard",
+      "def": "No later than the time mentioned.",
+      "examples": [
+        {
+          "en": "Please reply by Friday **at the latest**.",
+          "fr": "Merci de répondre vendredi au plus tard."
+        },
+        {
+          "en": "The package will arrive on Monday **at the latest**.",
+          "fr": "Le colis arrivera lundi au plus tard."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **at the earliest** (au plus tôt)."
+      }
+    },
+    {
+      "word": "by the end of",
+      "ipa": "/baɪ ði end əv/",
+      "pos": "expression",
+      "fr": "d’ici la fin de",
+      "def": "No later than the end of a period.",
+      "examples": [
+        {
+          "en": "The renovation will be finished **by the end of** May.",
+          "fr": "La rénovation sera terminée d’ici la fin mai."
+        },
+        {
+          "en": "Please submit your report **by the end of** the day.",
+          "fr": "Merci de rendre votre rapport avant la fin de la journée."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Ne pas confondre avec **at the end of** (à la fin de)."
+      }
+    },
+    {
+      "word": "in addition to",
+      "ipa": "/ɪn əˈdɪʃən tuː/",
+      "pos": "préposition",
+      "fr": "en plus de",
+      "def": "As well as.",
+      "examples": [
+        {
+          "en": "**In addition to** a salary, the job offers a car.",
+          "fr": "En plus du salaire, le poste offre une voiture."
+        },
+        {
+          "en": "**In addition to** teaching, she writes books.",
+          "fr": "En plus d’enseigner, elle écrit des livres."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**to** est une préposition → **+ -ing** (in addition to teaching)."
+      }
+    },
+    {
+      "word": "instead of",
+      "ipa": "/ɪnˈsted əv/",
+      "pos": "préposition",
+      "fr": "au lieu de, à la place de",
+      "def": "In place of someone or something.",
+      "examples": [
+        {
+          "en": "Let’s meet on Tuesday **instead of** Monday.",
+          "fr": "Voyons-nous mardi au lieu de lundi."
+        },
+        {
+          "en": "You can take the train **instead of** driving.",
+          "fr": "Vous pouvez prendre le train au lieu de conduire."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**+ -ing** après **instead of**."
+      }
+    },
+    {
+      "word": "regardless of",
+      "ipa": "/rɪˈɡɑːrdləs əv/",
+      "pos": "préposition",
+      "fr": "quel que soit, indépendamment de",
+      "def": "Without being affected by something.",
+      "examples": [
+        {
+          "en": "Everyone pays the same price **regardless of** age.",
+          "fr": "Tout le monde paie le même prix, quel que soit son âge."
+        },
+        {
+          "en": "The event will take place **regardless of** the weather.",
+          "fr": "L’événement aura lieu quel que soit le temps."
+        }
+      ]
+    },
+    {
+      "word": "despite",
+      "ipa": "/dɪˈspaɪt/",
+      "pos": "préposition",
+      "fr": "malgré",
+      "def": "Without being prevented by something.",
+      "examples": [
+        {
+          "en": "**Despite** the heavy traffic, the delivery arrived on time.",
+          "fr": "Malgré la circulation dense, la livraison est arrivée à l’heure."
+        },
+        {
+          "en": "Sales grew **despite** the difficult economy.",
+          "fr": "Les ventes ont progressé malgré une conjoncture difficile."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**despite / in spite of + nom** ; **although / even though + sujet + verbe**. Jamais « despite of »."
+      }
+    },
+    {
+      "word": "prior to",
+      "ipa": "/ˈpraɪər tuː/",
+      "pos": "préposition",
+      "fr": "avant, préalablement à",
+      "def": "Before (formal).",
+      "examples": [
+        {
+          "en": "Please arrive 30 minutes **prior to** the interview.",
+          "fr": "Merci d’arriver 30 minutes avant l’entretien."
+        },
+        {
+          "en": "**Prior to** joining us, she worked in Paris.",
+          "fr": "Avant de nous rejoindre, elle travaillait à Paris."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**prior to + -ing**. Adjectif : **prior experience** (expérience préalable)."
+      }
+    },
+    {
+      "word": "apply for / apply to",
+      "ipa": "/əˈplaɪ fɔːr/ · /əˈplaɪ tuː/",
+      "pos": "verbe + préposition",
+      "fr": "postuler à, demander / s’adresser à ; s’appliquer à",
+      "def": "**apply for** a job or loan; **apply to** a company, or be relevant to.",
+      "examples": [
+        {
+          "en": "She **applied for** the manager position.",
+          "fr": "Elle a postulé au poste de responsable."
+        },
+        {
+          "en": "These rules **apply to** all employees.",
+          "fr": "Ces règles s’appliquent à tous les employés."
+        }
+      ]
+    },
+    {
+      "word": "depend on",
+      "ipa": "/dɪˈpend ɑːn/",
+      "pos": "verbe + préposition",
+      "fr": "dépendre de ; compter sur",
+      "def": "To be affected by something; or to rely on someone.",
+      "examples": [
+        {
+          "en": "The price **depends on** the size of the order.",
+          "fr": "Le prix dépend de la taille de la commande."
+        },
+        {
+          "en": "Many families **depend on** tourism.",
+          "fr": "Beaucoup de familles vivent du tourisme."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **dependent on**. ! Pas « depend of »."
+      }
+    },
+    {
+      "word": "focus on",
+      "ipa": "/ˈfoʊkəs ɑːn/",
+      "pos": "verbe + préposition",
+      "fr": "se concentrer sur",
+      "def": "To give your attention to something.",
+      "examples": [
+        {
+          "en": "Today’s meeting will **focus on** the budget.",
+          "fr": "La réunion d’aujourd’hui portera sur le budget."
+        },
+        {
+          "en": "We need to **focus on** customer service.",
+          "fr": "Nous devons nous concentrer sur le service client."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **concentrate on**."
+      }
+    },
+    {
+      "word": "specialize in",
+      "ipa": "/ˈspeʃəlaɪz ɪn/",
+      "pos": "verbe + préposition",
+      "fr": "se spécialiser dans, être spécialisé en",
+      "def": "To concentrate on a particular area of work.",
+      "examples": [
+        {
+          "en": "The firm **specializes in** corporate law.",
+          "fr": "Le cabinet est spécialisé en droit des affaires."
+        },
+        {
+          "en": "We **specialize in** organic products.",
+          "fr": "Nous sommes spécialisés dans les produits bio."
+        }
+      ]
+    },
+    {
+      "word": "consist of",
+      "ipa": "/kənˈsɪst əv/",
+      "pos": "verbe + préposition",
+      "fr": "se composer de",
+      "def": "To be made of several parts.",
+      "examples": [
+        {
+          "en": "The team **consists of** five engineers.",
+          "fr": "L’équipe se compose de cinq ingénieurs."
+        },
+        {
+          "en": "The course **consists of** ten lessons.",
+          "fr": "Le cours comprend dix leçons."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Jamais au passif ni à la forme en -ing progressive."
+      }
+    },
+    {
+      "word": "succeed in",
+      "ipa": "/səkˈsiːd ɪn/",
+      "pos": "verbe + préposition",
+      "fr": "réussir à",
+      "def": "To manage to do something.",
+      "examples": [
+        {
+          "en": "We **succeeded in** reducing costs by 15 percent.",
+          "fr": "Nous avons réussi à réduire les coûts de 15 %."
+        },
+        {
+          "en": "She **succeeded in** winning the contract.",
+          "fr": "Elle a réussi à remporter le contrat."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**succeed in + -ing**. Aussi : **succeed someone** = succéder à qqn."
+      }
+    },
+    {
+      "word": "contribute to",
+      "ipa": "/kənˈtrɪbjuːt tuː/",
+      "pos": "verbe + préposition",
+      "fr": "contribuer à",
+      "def": "To help cause something or give money to it.",
+      "examples": [
+        {
+          "en": "Everyone **contributed to** the project’s success.",
+          "fr": "Tout le monde a contribué au succès du projet."
+        },
+        {
+          "en": "The company **contributes to** local charities.",
+          "fr": "L’entreprise fait des dons à des associations locales."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **contribution**."
+      }
+    },
+    {
+      "word": "refer to",
+      "ipa": "/rɪˈfɜːr tuː/",
+      "pos": "verbe + préposition",
+      "fr": "se référer à, faire référence à ; orienter vers",
+      "def": "To look at for information; to mention; or to send someone to another person.",
+      "examples": [
+        {
+          "en": "Please **refer to** the manual for instructions.",
+          "fr": "Merci de vous reporter au manuel pour les instructions."
+        },
+        {
+          "en": "My doctor **referred** me **to** a specialist.",
+          "fr": "Mon médecin m’a orienté vers un spécialiste."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **reference**, **referral**."
+      }
+    },
+    {
+      "word": "respond to",
+      "ipa": "/rɪˈspɑːnd tuː/",
+      "pos": "verbe + préposition",
+      "fr": "répondre à",
+      "def": "To reply to something or react to it.",
+      "examples": [
+        {
+          "en": "We **respond to** all emails within 24 hours.",
+          "fr": "Nous répondons à tous les e-mails sous 24 heures."
+        },
+        {
+          "en": "Customers **responded** well **to** the new design.",
+          "fr": "Les clients ont bien réagi au nouveau design."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **response**."
+      }
+    },
+    {
+      "word": "subscribe to",
+      "ipa": "/səbˈskraɪb tuː/",
+      "pos": "verbe + préposition",
+      "fr": "s’abonner à",
+      "def": "To pay regularly to receive a magazine or service.",
+      "examples": [
+        {
+          "en": "I **subscribe to** several business magazines.",
+          "fr": "Je suis abonné à plusieurs magazines économiques."
+        },
+        {
+          "en": "**Subscribe to** our newsletter for weekly updates.",
+          "fr": "Abonnez-vous à notre lettre d’information hebdomadaire."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **subscription** ; la personne : **subscriber**."
+      }
+    },
+    {
+      "word": "congratulate on",
+      "ipa": "/kənˈɡrætʃəleɪt ɑːn/",
+      "pos": "verbe + préposition",
+      "fr": "féliciter pour",
+      "def": "To praise someone for an achievement.",
+      "examples": [
+        {
+          "en": "We **congratulate** you **on** your promotion.",
+          "fr": "Nous vous félicitons pour votre promotion."
+        },
+        {
+          "en": "She was **congratulated on** her excellent results.",
+          "fr": "Elle a été félicitée pour ses excellents résultats."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **Congratulations on…!**"
+      }
+    },
+    {
+      "word": "apologize for",
+      "ipa": "/əˈpɑːlədʒaɪz fɔːr/",
+      "pos": "verbe + préposition",
+      "fr": "s’excuser de",
+      "def": "To say you are sorry for something.",
+      "examples": [
+        {
+          "en": "We **apologize for** the inconvenience.",
+          "fr": "Nous vous prions de nous excuser pour la gêne occasionnée."
+        },
+        {
+          "en": "He **apologized for** arriving late.",
+          "fr": "Il s’est excusé d’être arrivé en retard."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**apologize TO someone FOR something**. Nom : **apology**."
+      }
+    },
+    {
+      "word": "satisfied with",
+      "ipa": "/ˈsætɪsfaɪd wɪð/",
+      "pos": "adjectif + préposition",
+      "fr": "satisfait de",
+      "def": "Pleased with something.",
+      "examples": [
+        {
+          "en": "Are you **satisfied with** our service?",
+          "fr": "Êtes-vous satisfait de notre service ?"
+        },
+        {
+          "en": "The client was very **satisfied with** the results.",
+          "fr": "Le client était très satisfait des résultats."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **satisfaction** ; **customer satisfaction survey**."
+      }
+    },
+    {
+      "word": "committed to",
+      "ipa": "/kəˈmɪtɪd tuː/",
+      "pos": "adjectif + préposition",
+      "fr": "engagé à, dévoué à",
+      "def": "Promising to do something or support something.",
+      "examples": [
+        {
+          "en": "We are **committed to** providing excellent service.",
+          "fr": "Nous nous engageons à offrir un excellent service."
+        },
+        {
+          "en": "The company is **committed to** reducing waste.",
+          "fr": "L’entreprise s’engage à réduire ses déchets."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Piège : **committed to + -ing** (providing), pas « to provide »."
+      }
+    },
+    {
+      "word": "in favor of",
+      "ipa": "/ɪn ˈfeɪvər əv/",
+      "pos": "expression",
+      "fr": "en faveur de, pour",
+      "def": "Supporting something.",
+      "examples": [
+        {
+          "en": "Most members voted **in favor of** the proposal.",
+          "fr": "La plupart des membres ont voté en faveur de la proposition."
+        },
+        {
+          "en": "Are you **in favor of** flexible hours?",
+          "fr": "Êtes-vous pour les horaires flexibles ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **in favour of**."
+      }
+    },
+    {
+      "word": "on display",
+      "ipa": "/ɑːn dɪˈspleɪ/",
+      "pos": "expression",
+      "fr": "exposé",
+      "def": "Being shown to the public.",
+      "examples": [
+        {
+          "en": "The new models are **on display** in the showroom.",
+          "fr": "Les nouveaux modèles sont exposés dans la salle d’exposition."
+        },
+        {
+          "en": "Artwork is **on display** in the lobby.",
+          "fr": "Des œuvres d’art sont exposées dans le hall."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Fréquent en Partie 1 : **Items are on display**."
+      }
+    },
+    {
+      "word": "free of charge",
+      "ipa": "/friː əv tʃɑːrdʒ/",
+      "pos": "expression",
+      "fr": "gratuitement",
+      "def": "Without cost.",
+      "examples": [
+        {
+          "en": "Delivery is **free of charge** for members.",
+          "fr": "La livraison est gratuite pour les membres."
+        },
+        {
+          "en": "Parking is available **free of charge**.",
+          "fr": "Le stationnement est gratuit."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **at no cost**, **at no extra charge**, **complimentary**."
+      }
+    },
+    {
+      "word": "in person",
+      "ipa": "/ɪn ˈpɜːrsən/",
+      "pos": "expression",
+      "fr": "en personne",
+      "def": "Physically present, not by phone or email.",
+      "examples": [
+        {
+          "en": "Applications must be submitted **in person**.",
+          "fr": "Les candidatures doivent être déposées en personne."
+        },
+        {
+          "en": "I’d like to thank you **in person**.",
+          "fr": "J’aimerais vous remercier de vive voix."
+        }
+      ]
+    },
+    {
+      "word": "upon request",
+      "ipa": "/əˈpɑːn rɪˈkwest/",
+      "pos": "expression",
+      "fr": "sur demande",
+      "def": "When someone asks for it.",
+      "examples": [
+        {
+          "en": "Vegetarian meals are available **upon request**.",
+          "fr": "Des repas végétariens sont disponibles sur demande."
+        },
+        {
+          "en": "A copy of the contract is available **upon request**.",
+          "fr": "Une copie du contrat est disponible sur demande."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **on request**."
+      }
+    },
+    {
+      "word": "within walking distance",
+      "ipa": "/wɪˈðɪn ˈwɔːkɪŋ ˈdɪstəns/",
+      "pos": "expression",
+      "fr": "à distance de marche, accessible à pied",
+      "def": "Close enough to walk to.",
+      "examples": [
+        {
+          "en": "The hotel is **within walking distance** of the convention center.",
+          "fr": "L’hôtel se trouve à quelques pas du centre de congrès."
+        },
+        {
+          "en": "Several restaurants are **within walking distance**.",
+          "fr": "Plusieurs restaurants sont accessibles à pied."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**within** + durée / distance = dans un délai de, dans un rayon de."
+      }
+    },
+    {
+      "word": "across from",
+      "ipa": "/əˈkrɔːs frəm/",
+      "pos": "préposition",
+      "fr": "en face de",
+      "def": "On the opposite side of a street or room.",
+      "examples": [
+        {
+          "en": "The bank is **across from** the post office.",
+          "fr": "La banque est en face de la poste."
+        },
+        {
+          "en": "She sat **across from** me at the meeting.",
+          "fr": "Elle était assise en face de moi à la réunion."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **opposite**."
+      }
+    },
+    {
+      "word": "on vacation",
+      "ipa": "/ɑːn veɪˈkeɪʃən/",
+      "pos": "expression",
+      "fr": "en vacances",
+      "def": "Away from work for a holiday.",
+      "examples": [
+        {
+          "en": "Mr. Evans is **on vacation** until the 15th.",
+          "fr": "M. Evans est en vacances jusqu’au 15."
+        },
+        {
+          "en": "I’ll be **on vacation** next week.",
+          "fr": "Je serai en vacances la semaine prochaine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **on holiday**."
+      }
+    },
+    {
+      "word": "for sale / on sale",
+      "ipa": "/fɔːr seɪl/ · /ɑːn seɪl/",
+      "pos": "expressions",
+      "fr": "à vendre / en solde ; en vente",
+      "def": "**for sale** = available to buy; **on sale** = at a reduced price (US) or available in stores.",
+      "examples": [
+        {
+          "en": "The building is **for sale**.",
+          "fr": "Le bâtiment est à vendre."
+        },
+        {
+          "en": "Winter jackets are **on sale** this week.",
+          "fr": "Les vestes d’hiver sont en solde cette semaine."
+        }
+      ]
+    },
+    {
+      "word": "by mistake",
+      "ipa": "/baɪ mɪˈsteɪk/",
+      "pos": "expression",
+      "fr": "par erreur",
+      "def": "Without intending to.",
+      "examples": [
+        {
+          "en": "I sent the email to the wrong person **by mistake**.",
+          "fr": "J’ai envoyé l’e-mail à la mauvaise personne par erreur."
+        },
+        {
+          "en": "You were charged twice **by mistake**.",
+          "fr": "Vous avez été débité deux fois par erreur."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **accidentally**."
+      }
+    },
+    {
+      "word": "at your convenience",
+      "ipa": "/æt jʊr kənˈviːniəns/",
+      "pos": "expression",
+      "fr": "quand cela vous convient",
+      "def": "At a time that suits you.",
+      "examples": [
+        {
+          "en": "Please call us back **at your convenience**.",
+          "fr": "Rappelez-nous quand cela vous convient."
+        },
+        {
+          "en": "The documents can be signed **at your convenience**.",
+          "fr": "Les documents peuvent être signés quand vous le souhaitez."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **convenient** (pratique, qui convient)."
+      }
+    }
+  ]
+}

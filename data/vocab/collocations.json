@@ -1,0 +1,945 @@
+{
+  "id": "collocations",
+  "name": "Collocations",
+  "short": "Collocations",
+  "group": "special",
+  "description": "Les mots qui vont toujours ensemble (verbe + nom, adverbe + adjectif) : clé de la Partie 5.",
+  "cards": [
+    {
+      "word": "make a decision",
+      "ipa": "/meɪk ə dɪˈsɪʒən/",
+      "pos": "collocation",
+      "fr": "prendre une décision",
+      "def": "To decide something.",
+      "examples": [
+        {
+          "en": "The board will **make a decision** next week.",
+          "fr": "Le conseil prendra une décision la semaine prochaine."
+        },
+        {
+          "en": "We need more information before **making a decision**.",
+          "fr": "Il nous faut plus d’informations avant de prendre une décision."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "On dit **make**, jamais « take a decision » en anglais américain."
+      }
+    },
+    {
+      "word": "place an order",
+      "ipa": "/pleɪs ən ˈɔːrdər/",
+      "pos": "collocation",
+      "fr": "passer une commande",
+      "def": "To ask a company to supply goods.",
+      "examples": [
+        {
+          "en": "You can **place an order** online or by phone.",
+          "fr": "Vous pouvez passer commande en ligne ou par téléphone."
+        },
+        {
+          "en": "We **placed an order** for 500 units.",
+          "fr": "Nous avons passé une commande de 500 unités."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "L’entreprise, elle, **fills / processes an order** (traite la commande)."
+      }
+    },
+    {
+      "word": "meet the needs",
+      "ipa": "/miːt ðə niːdz/",
+      "pos": "collocation",
+      "fr": "répondre aux besoins",
+      "def": "To provide what someone requires.",
+      "examples": [
+        {
+          "en": "Our services are designed to **meet the needs** of small businesses.",
+          "fr": "Nos services sont conçus pour répondre aux besoins des petites entreprises."
+        },
+        {
+          "en": "The new building will **meet the needs** of our growing staff.",
+          "fr": "Le nouveau bâtiment répondra aux besoins de nos effectifs en hausse."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **meet requirements / expectations / a deadline**."
+      }
+    },
+    {
+      "word": "take place",
+      "ipa": "/teɪk pleɪs/",
+      "pos": "collocation",
+      "fr": "avoir lieu",
+      "def": "To happen, especially as planned.",
+      "examples": [
+        {
+          "en": "The conference will **take place** in Berlin.",
+          "fr": "La conférence aura lieu à Berlin."
+        },
+        {
+          "en": "The interviews **took place** last week.",
+          "fr": "Les entretiens ont eu lieu la semaine dernière."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Jamais au passif : « was taken place » est faux."
+      }
+    },
+    {
+      "word": "take part in",
+      "ipa": "/teɪk pɑːrt ɪn/",
+      "pos": "collocation",
+      "fr": "participer à",
+      "def": "To be involved in an activity.",
+      "examples": [
+        {
+          "en": "Twenty companies **took part in** the job fair.",
+          "fr": "Vingt entreprises ont participé au salon de l’emploi."
+        },
+        {
+          "en": "All staff are invited to **take part in** the survey.",
+          "fr": "Tout le personnel est invité à participer à l’enquête."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **participate in**."
+      }
+    },
+    {
+      "word": "take advantage of",
+      "ipa": "/teɪk ədˈvæntɪdʒ əv/",
+      "pos": "collocation",
+      "fr": "profiter de",
+      "def": "To use an opportunity.",
+      "examples": [
+        {
+          "en": "**Take advantage of** our special summer offer.",
+          "fr": "Profitez de notre offre spéciale d’été."
+        },
+        {
+          "en": "Many employees **take advantage of** the free gym.",
+          "fr": "Beaucoup d’employés profitent de la salle de sport gratuite."
+        }
+      ]
+    },
+    {
+      "word": "pay attention to",
+      "ipa": "/peɪ əˈtenʃən tuː/",
+      "pos": "collocation",
+      "fr": "faire attention à",
+      "def": "To watch, listen or think carefully.",
+      "examples": [
+        {
+          "en": "Please **pay attention to** the safety instructions.",
+          "fr": "Merci de prêter attention aux consignes de sécurité."
+        },
+        {
+          "en": "She **pays** close **attention to** detail.",
+          "fr": "Elle est très attentive aux détails."
+        }
+      ]
+    },
+    {
+      "word": "reach an agreement",
+      "ipa": "/riːtʃ ən əˈɡriːmənt/",
+      "pos": "collocation",
+      "fr": "parvenir à un accord",
+      "def": "To agree after discussion.",
+      "examples": [
+        {
+          "en": "The two companies **reached an agreement** after long talks.",
+          "fr": "Les deux entreprises sont parvenues à un accord après de longues discussions."
+        },
+        {
+          "en": "We hope to **reach an agreement** by Friday.",
+          "fr": "Nous espérons parvenir à un accord d’ici vendredi."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **reach a decision / a conclusion / a goal**."
+      }
+    },
+    {
+      "word": "hold a meeting",
+      "ipa": "/hoʊld ə ˈmiːtɪŋ/",
+      "pos": "collocation",
+      "fr": "tenir une réunion",
+      "def": "To have a meeting.",
+      "examples": [
+        {
+          "en": "We **hold a meeting** every Monday morning.",
+          "fr": "Nous tenons une réunion chaque lundi matin."
+        },
+        {
+          "en": "The event will be **held** at the city hall.",
+          "fr": "L’événement se tiendra à l’hôtel de ville."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**be held** = avoir lieu, se tenir (très fréquent au passif)."
+      }
+    },
+    {
+      "word": "conduct a survey",
+      "ipa": "/kənˈdʌkt ə ˈsɜːrveɪ/",
+      "pos": "collocation",
+      "fr": "réaliser une enquête",
+      "def": "To carry out a survey.",
+      "examples": [
+        {
+          "en": "We **conducted a survey** of 1,000 customers.",
+          "fr": "Nous avons réalisé une enquête auprès de 1 000 clients."
+        },
+        {
+          "en": "The study was **conducted** by a university team.",
+          "fr": "L’étude a été menée par une équipe universitaire."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**conduct** = mener (une étude, un entretien, une inspection)."
+      }
+    },
+    {
+      "word": "run a business",
+      "ipa": "/rʌn ə ˈbɪznəs/",
+      "pos": "collocation",
+      "fr": "diriger une entreprise",
+      "def": "To manage a company.",
+      "examples": [
+        {
+          "en": "She **runs a business** selling organic food.",
+          "fr": "Elle dirige une entreprise de produits bio."
+        },
+        {
+          "en": "**Running a business** requires long hours.",
+          "fr": "Diriger une entreprise demande de longues heures de travail."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**run** = diriger, gérer (a store, a hotel, a program)."
+      }
+    },
+    {
+      "word": "submit an application",
+      "ipa": "/səbˈmɪt ən ˌæplɪˈkeɪʃən/",
+      "pos": "collocation",
+      "fr": "déposer une candidature",
+      "def": "To send a formal request for a job or program.",
+      "examples": [
+        {
+          "en": "Please **submit your application** by March 15.",
+          "fr": "Merci de déposer votre candidature avant le 15 mars."
+        },
+        {
+          "en": "Over 200 people **submitted applications**.",
+          "fr": "Plus de 200 personnes ont déposé une candidature."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**submit** = soumettre, remettre (a report, a form, a proposal)."
+      }
+    },
+    {
+      "word": "give a speech",
+      "ipa": "/ɡɪv ə spiːtʃ/",
+      "pos": "collocation",
+      "fr": "faire un discours",
+      "def": "To speak formally to an audience.",
+      "examples": [
+        {
+          "en": "The mayor will **give a speech** at the opening.",
+          "fr": "Le maire fera un discours lors de l’inauguration."
+        },
+        {
+          "en": "She **gave a speech** about leadership.",
+          "fr": "Elle a fait un discours sur le leadership."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **deliver a speech**."
+      }
+    },
+    {
+      "word": "do business with",
+      "ipa": "/duː ˈbɪznəs wɪð/",
+      "pos": "collocation",
+      "fr": "faire des affaires avec",
+      "def": "To buy from or sell to someone.",
+      "examples": [
+        {
+          "en": "We’ve **done business with** this supplier for years.",
+          "fr": "Nous travaillons avec ce fournisseur depuis des années."
+        },
+        {
+          "en": "Thank you for **doing business with** us.",
+          "fr": "Merci de nous faire confiance."
+        }
+      ]
+    },
+    {
+      "word": "cause a delay",
+      "ipa": "/kɔːz ə dɪˈleɪ/",
+      "pos": "collocation",
+      "fr": "provoquer un retard",
+      "def": "To make something happen later than planned.",
+      "examples": [
+        {
+          "en": "The storm **caused a delay** of three hours.",
+          "fr": "La tempête a provoqué un retard de trois heures."
+        },
+        {
+          "en": "Road work may **cause delays** this weekend.",
+          "fr": "Des travaux pourraient provoquer des retards ce week-end."
+        }
+      ]
+    },
+    {
+      "word": "keep track of",
+      "ipa": "/kiːp træk əv/",
+      "pos": "collocation",
+      "fr": "suivre, garder une trace de",
+      "def": "To stay informed about something or record it.",
+      "examples": [
+        {
+          "en": "This app helps you **keep track of** your expenses.",
+          "fr": "Cette application vous aide à suivre vos dépenses."
+        },
+        {
+          "en": "It’s hard to **keep track of** all the changes.",
+          "fr": "Il est difficile de suivre tous les changements."
+        }
+      ]
+    },
+    {
+      "word": "keep in touch",
+      "ipa": "/kiːp ɪn tʌtʃ/",
+      "pos": "collocation",
+      "fr": "rester en contact",
+      "def": "To continue to communicate with someone.",
+      "examples": [
+        {
+          "en": "Let’s **keep in touch** after the conference.",
+          "fr": "Restons en contact après la conférence."
+        },
+        {
+          "en": "She **keeps in touch** with former colleagues.",
+          "fr": "Elle reste en contact avec d’anciens collègues."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**get in touch with** = prendre contact avec."
+      }
+    },
+    {
+      "word": "set a goal",
+      "ipa": "/set ə ɡoʊl/",
+      "pos": "collocation",
+      "fr": "fixer un objectif",
+      "def": "To decide what you want to achieve.",
+      "examples": [
+        {
+          "en": "We **set a goal** of doubling sales in two years.",
+          "fr": "Nous nous sommes fixé l’objectif de doubler les ventes en deux ans."
+        },
+        {
+          "en": "It’s important to **set** realistic **goals**.",
+          "fr": "Il est important de se fixer des objectifs réalistes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **set a deadline / a target / a record**."
+      }
+    },
+    {
+      "word": "gain experience",
+      "ipa": "/ɡeɪn ɪkˈspɪriəns/",
+      "pos": "collocation",
+      "fr": "acquérir de l’expérience",
+      "def": "To get knowledge by doing something.",
+      "examples": [
+        {
+          "en": "Internships help students **gain experience**.",
+          "fr": "Les stages aident les étudiants à acquérir de l’expérience."
+        },
+        {
+          "en": "She **gained** valuable **experience** abroad.",
+          "fr": "Elle a acquis une expérience précieuse à l’étranger."
+        }
+      ]
+    },
+    {
+      "word": "earn a living",
+      "ipa": "/ɜːrn ə ˈlɪvɪŋ/",
+      "pos": "collocation",
+      "fr": "gagner sa vie",
+      "def": "To make enough money to live.",
+      "examples": [
+        {
+          "en": "He **earns a living** as a freelance designer.",
+          "fr": "Il gagne sa vie comme designer indépendant."
+        },
+        {
+          "en": "It’s hard to **earn a living** from music.",
+          "fr": "Il est difficile de vivre de la musique."
+        }
+      ]
+    },
+    {
+      "word": "catch a flight",
+      "ipa": "/kætʃ ə flaɪt/",
+      "pos": "collocation",
+      "fr": "prendre un vol",
+      "def": "To get on a plane in time.",
+      "examples": [
+        {
+          "en": "I have to **catch a flight** at 6 a.m.",
+          "fr": "Je dois prendre un vol à 6 h."
+        },
+        {
+          "en": "We left early to **catch** our **flight**.",
+          "fr": "Nous sommes partis tôt pour ne pas rater notre vol."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **miss a flight** (rater un vol)."
+      }
+    },
+    {
+      "word": "go out of business",
+      "ipa": "/ɡoʊ aʊt əv ˈbɪznəs/",
+      "pos": "collocation",
+      "fr": "fermer (faire faillite)",
+      "def": "To stop operating because of financial problems.",
+      "examples": [
+        {
+          "en": "The bookstore **went out of business** last year.",
+          "fr": "La librairie a fermé l’an dernier."
+        },
+        {
+          "en": "Many small shops have **gone out of business**.",
+          "fr": "Beaucoup de petits commerces ont fermé."
+        }
+      ]
+    },
+    {
+      "word": "go on strike",
+      "ipa": "/ɡoʊ ɑːn straɪk/",
+      "pos": "collocation",
+      "fr": "se mettre en grève",
+      "def": "To stop working as a protest.",
+      "examples": [
+        {
+          "en": "Train workers **went on strike** for higher pay.",
+          "fr": "Les cheminots se sont mis en grève pour obtenir une hausse de salaire."
+        },
+        {
+          "en": "Flights were canceled because pilots **went on strike**.",
+          "fr": "Des vols ont été annulés à cause de la grève des pilotes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**on strike** = en grève."
+      }
+    },
+    {
+      "word": "open an account",
+      "ipa": "/ˈoʊpən ən əˈkaʊnt/",
+      "pos": "collocation",
+      "fr": "ouvrir un compte",
+      "def": "To start using a bank or service account.",
+      "examples": [
+        {
+          "en": "You need two IDs to **open an account**.",
+          "fr": "Il faut deux pièces d’identité pour ouvrir un compte."
+        },
+        {
+          "en": "She **opened a** savings **account** last month.",
+          "fr": "Elle a ouvert un compte épargne le mois dernier."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**account** = compte ; **accounting** = comptabilité."
+      }
+    },
+    {
+      "word": "follow instructions",
+      "ipa": "/ˈfɑːloʊ ɪnˈstrʌkʃənz/",
+      "pos": "collocation",
+      "fr": "suivre les instructions",
+      "def": "To do what the instructions say.",
+      "examples": [
+        {
+          "en": "Please **follow the instructions** on the screen.",
+          "fr": "Merci de suivre les instructions à l’écran."
+        },
+        {
+          "en": "**Follow** the assembly **instructions** carefully.",
+          "fr": "Suivez attentivement la notice de montage."
+        }
+      ]
+    },
+    {
+      "word": "make progress",
+      "ipa": "/meɪk ˈprɑːɡres/",
+      "pos": "collocation",
+      "fr": "progresser, avancer",
+      "def": "To improve or move forward.",
+      "examples": [
+        {
+          "en": "The team is **making** good **progress** on the project.",
+          "fr": "L’équipe avance bien sur le projet."
+        },
+        {
+          "en": "Negotiations are **making progress**.",
+          "fr": "Les négociations progressent."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**progress** est indénombrable : pas de « a progress »."
+      }
+    },
+    {
+      "word": "make a profit",
+      "ipa": "/meɪk ə ˈprɑːfɪt/",
+      "pos": "collocation",
+      "fr": "faire des bénéfices",
+      "def": "To earn more money than you spend.",
+      "examples": [
+        {
+          "en": "The store **made a profit** in its first year.",
+          "fr": "Le magasin a été rentable dès sa première année."
+        },
+        {
+          "en": "We need to **make a profit** to survive.",
+          "fr": "Nous devons faire des bénéfices pour survivre."
+        }
+      ]
+    },
+    {
+      "word": "do research",
+      "ipa": "/duː ˈriːsɜːrtʃ/",
+      "pos": "collocation",
+      "fr": "faire des recherches",
+      "def": "To study a subject to discover facts.",
+      "examples": [
+        {
+          "en": "We **did research** on customer habits.",
+          "fr": "Nous avons fait des recherches sur les habitudes des clients."
+        },
+        {
+          "en": "She is **doing research** for her thesis.",
+          "fr": "Elle fait des recherches pour sa thèse."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**research** est indénombrable. Aussi : **conduct research**."
+      }
+    },
+    {
+      "word": "draw attention to",
+      "ipa": "/drɔː əˈtenʃən tuː/",
+      "pos": "collocation",
+      "fr": "attirer l’attention sur",
+      "def": "To make people notice something.",
+      "examples": [
+        {
+          "en": "I’d like to **draw** your **attention to** page 5.",
+          "fr": "J’aimerais attirer votre attention sur la page 5."
+        },
+        {
+          "en": "The campaign **drew attention to** the issue.",
+          "fr": "La campagne a attiré l’attention sur le problème."
+        }
+      ]
+    },
+    {
+      "word": "leave a message",
+      "ipa": "/liːv ə ˈmesɪdʒ/",
+      "pos": "collocation",
+      "fr": "laisser un message",
+      "def": "To give information to be passed on.",
+      "examples": [
+        {
+          "en": "Would you like to **leave a message**?",
+          "fr": "Voulez-vous laisser un message ?"
+        },
+        {
+          "en": "Please **leave a message** after the tone.",
+          "fr": "Veuillez laisser un message après le bip."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **take a message** (prendre un message)."
+      }
+    },
+    {
+      "word": "return a call",
+      "ipa": "/rɪˈtɜːrn ə kɔːl/",
+      "pos": "collocation",
+      "fr": "rappeler",
+      "def": "To phone someone who called you.",
+      "examples": [
+        {
+          "en": "I’m **returning** your **call** from this morning.",
+          "fr": "Je vous rappelle suite à votre appel de ce matin."
+        },
+        {
+          "en": "She hasn’t **returned** my **calls**.",
+          "fr": "Elle ne m’a pas rappelé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **call back**."
+      }
+    },
+    {
+      "word": "highly recommended",
+      "ipa": "/ˈhaɪli ˌrekəˈmendɪd/",
+      "pos": "collocation",
+      "fr": "vivement recommandé",
+      "def": "Strongly advised or praised.",
+      "examples": [
+        {
+          "en": "Reservations are **highly recommended**.",
+          "fr": "Il est vivement conseillé de réserver."
+        },
+        {
+          "en": "This restaurant comes **highly recommended**.",
+          "fr": "Ce restaurant est très bien recommandé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Autres : **highly qualified**, **highly successful**, **highly competitive**."
+      }
+    },
+    {
+      "word": "widely used",
+      "ipa": "/ˈwaɪdli juːzd/",
+      "pos": "collocation",
+      "fr": "largement utilisé, répandu",
+      "def": "Used by many people or in many places.",
+      "examples": [
+        {
+          "en": "This software is **widely used** in banks.",
+          "fr": "Ce logiciel est très utilisé dans les banques."
+        },
+        {
+          "en": "English is **widely used** in business.",
+          "fr": "L’anglais est largement utilisé dans les affaires."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Autres : **widely available**, **widely known**, **widely recognized**."
+      }
+    },
+    {
+      "word": "strongly suggest",
+      "ipa": "/ˈstrɔːŋli səˈdʒest/",
+      "pos": "collocation",
+      "fr": "conseiller vivement",
+      "def": "To advise firmly.",
+      "examples": [
+        {
+          "en": "We **strongly suggest** booking in advance.",
+          "fr": "Nous vous conseillons vivement de réserver à l’avance."
+        },
+        {
+          "en": "I **strongly suggest** that you read the contract.",
+          "fr": "Je vous recommande fortement de lire le contrat."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**suggest + -ing** ou **suggest that + sujet + verbe à la base**."
+      }
+    },
+    {
+      "word": "greatly appreciated",
+      "ipa": "/ˈɡreɪtli əˈpriːʃieɪtɪd/",
+      "pos": "collocation",
+      "fr": "très apprécié",
+      "def": "Valued very much.",
+      "examples": [
+        {
+          "en": "Your help is **greatly appreciated**.",
+          "fr": "Votre aide est très appréciée."
+        },
+        {
+          "en": "Any feedback would be **greatly appreciated**.",
+          "fr": "Tout commentaire serait le bienvenu."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Formule de politesse très fréquente dans les e-mails."
+      }
+    },
+    {
+      "word": "sincerely apologize",
+      "ipa": "/sɪnˈsɪrli əˈpɑːlədʒaɪz/",
+      "pos": "collocation",
+      "fr": "présenter ses sincères excuses",
+      "def": "To say you are really sorry.",
+      "examples": [
+        {
+          "en": "We **sincerely apologize** for the inconvenience.",
+          "fr": "Nous vous présentons nos sincères excuses pour la gêne occasionnée."
+        },
+        {
+          "en": "I **sincerely apologize** for the error.",
+          "fr": "Je vous prie sincèrement de m’excuser pour cette erreur."
+        }
+      ]
+    },
+    {
+      "word": "fully refundable",
+      "ipa": "/ˈfʊli rɪˈfʌndəbəl/",
+      "pos": "collocation",
+      "fr": "intégralement remboursable",
+      "def": "Can be completely paid back.",
+      "examples": [
+        {
+          "en": "This ticket is **fully refundable**.",
+          "fr": "Ce billet est intégralement remboursable."
+        },
+        {
+          "en": "Deposits are **fully refundable** until May 1.",
+          "fr": "Les acomptes sont intégralement remboursables jusqu’au 1er mai."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Autres : **fully booked**, **fully equipped**, **fully furnished**."
+      }
+    },
+    {
+      "word": "readily available",
+      "ipa": "/ˈredɪli əˈveɪləbəl/",
+      "pos": "collocation",
+      "fr": "facilement disponible",
+      "def": "Easy to get or find.",
+      "examples": [
+        {
+          "en": "Spare parts are **readily available**.",
+          "fr": "Les pièces détachées sont facilement disponibles."
+        },
+        {
+          "en": "Information about the program is **readily available** online.",
+          "fr": "Les informations sur le programme sont facilement accessibles en ligne."
+        }
+      ]
+    },
+    {
+      "word": "conveniently located",
+      "ipa": "/kənˈviːniəntli ˈloʊkeɪtɪd/",
+      "pos": "collocation",
+      "fr": "idéalement situé",
+      "def": "In a place that is easy to reach.",
+      "examples": [
+        {
+          "en": "The hotel is **conveniently located** near the airport.",
+          "fr": "L’hôtel est idéalement situé près de l’aéroport."
+        },
+        {
+          "en": "Our office is **conveniently located** downtown.",
+          "fr": "Notre bureau est idéalement situé en centre-ville."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Formule classique des annonces immobilières et hôtelières."
+      }
+    },
+    {
+      "word": "newly renovated",
+      "ipa": "/ˈnuːli ˈrenəveɪtɪd/",
+      "pos": "collocation",
+      "fr": "récemment rénové",
+      "def": "Recently repaired and improved.",
+      "examples": [
+        {
+          "en": "The **newly renovated** lobby opens on Monday.",
+          "fr": "Le hall récemment rénové ouvre lundi."
+        },
+        {
+          "en": "We stayed in a **newly renovated** hotel.",
+          "fr": "Nous avons séjourné dans un hôtel récemment rénové."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Autres : **newly hired**, **newly appointed**, **newly built**."
+      }
+    },
+    {
+      "word": "tentatively scheduled",
+      "ipa": "/ˈtentətɪvli ˈskedʒuːld/",
+      "pos": "collocation",
+      "fr": "prévu provisoirement",
+      "def": "Planned but not yet confirmed.",
+      "examples": [
+        {
+          "en": "The meeting is **tentatively scheduled** for June 5.",
+          "fr": "La réunion est provisoirement prévue le 5 juin."
+        },
+        {
+          "en": "The launch is **tentatively scheduled** for spring.",
+          "fr": "Le lancement est provisoirement prévu au printemps."
+        }
+      ]
+    },
+    {
+      "word": "carefully reviewed",
+      "ipa": "/ˈkerfəli rɪˈvjuːd/",
+      "pos": "collocation",
+      "fr": "soigneusement examiné",
+      "def": "Examined with great attention.",
+      "examples": [
+        {
+          "en": "All applications will be **carefully reviewed**.",
+          "fr": "Toutes les candidatures seront examinées avec attention."
+        },
+        {
+          "en": "The contract was **carefully reviewed** by our lawyers.",
+          "fr": "Le contrat a été soigneusement examiné par nos avocats."
+        }
+      ]
+    },
+    {
+      "word": "closely monitor",
+      "ipa": "/ˈkloʊsli ˈmɑːnɪtər/",
+      "pos": "collocation",
+      "fr": "surveiller de près",
+      "def": "To watch something carefully over time.",
+      "examples": [
+        {
+          "en": "We **closely monitor** the quality of our products.",
+          "fr": "Nous surveillons de près la qualité de nos produits."
+        },
+        {
+          "en": "Sales will be **closely monitored**.",
+          "fr": "Les ventes seront suivies de près."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **work closely with** = travailler en étroite collaboration avec."
+      }
+    },
+    {
+      "word": "relatively inexpensive",
+      "ipa": "/ˈrelətɪvli ˌɪnɪkˈspensɪv/",
+      "pos": "collocation",
+      "fr": "relativement bon marché",
+      "def": "Quite cheap compared to others.",
+      "examples": [
+        {
+          "en": "The hotel is **relatively inexpensive** for the area.",
+          "fr": "L’hôtel est relativement bon marché pour le quartier."
+        },
+        {
+          "en": "Solar panels are now **relatively inexpensive**.",
+          "fr": "Les panneaux solaires sont aujourd’hui relativement abordables."
+        }
+      ]
+    },
+    {
+      "word": "significantly increase",
+      "ipa": "/sɪɡˈnɪfɪkəntli ɪnˈkriːs/",
+      "pos": "collocation",
+      "fr": "augmenter considérablement",
+      "def": "To rise by a large amount.",
+      "examples": [
+        {
+          "en": "Sales **significantly increased** after the campaign.",
+          "fr": "Les ventes ont considérablement augmenté après la campagne."
+        },
+        {
+          "en": "The new machines will **significantly increase** output.",
+          "fr": "Les nouvelles machines augmenteront nettement la production."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Autres : **sharply**, **dramatically**, **steadily** (régulièrement)."
+      }
+    },
+    {
+      "word": "extend an invitation",
+      "ipa": "/ɪkˈstend ən ˌɪnvɪˈteɪʃən/",
+      "pos": "collocation",
+      "fr": "adresser une invitation",
+      "def": "To invite someone formally.",
+      "examples": [
+        {
+          "en": "We would like to **extend an invitation** to all members.",
+          "fr": "Nous souhaitons adresser une invitation à tous les membres."
+        },
+        {
+          "en": "The mayor **extended an invitation** to the delegation.",
+          "fr": "Le maire a adressé une invitation à la délégation."
+        }
+      ]
+    },
+    {
+      "word": "express interest in",
+      "ipa": "/ɪkˈspres ˈɪntrəst ɪn/",
+      "pos": "collocation",
+      "fr": "manifester de l’intérêt pour",
+      "def": "To say you are interested in something.",
+      "examples": [
+        {
+          "en": "Several investors have **expressed interest in** the project.",
+          "fr": "Plusieurs investisseurs ont manifesté leur intérêt pour le projet."
+        },
+        {
+          "en": "Thank you for **expressing interest in** our company.",
+          "fr": "Merci de l’intérêt que vous portez à notre entreprise."
+        }
+      ]
+    },
+    {
+      "word": "raise awareness",
+      "ipa": "/reɪz əˈwernəs/",
+      "pos": "collocation",
+      "fr": "sensibiliser",
+      "def": "To make more people know about an issue.",
+      "examples": [
+        {
+          "en": "The campaign aims to **raise awareness** of recycling.",
+          "fr": "La campagne vise à sensibiliser au recyclage."
+        },
+        {
+          "en": "The event **raised awareness** about heart disease.",
+          "fr": "L’événement a sensibilisé le public aux maladies cardiaques."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **raise funds / money** = collecter des fonds."
+      }
+    }
+  ]
+}

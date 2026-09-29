@@ -1,0 +1,681 @@
+{
+  "id": "idiomes",
+  "name": "Expressions du business",
+  "short": "Expressions",
+  "group": "special",
+  "description": "Expressions idiomatiques entendues en réunion et au téléphone (Parties 2, 3 et 4).",
+  "cards": [
+    {
+      "word": "on short notice",
+      "ipa": "/ɑːn ʃɔːrt ˈnoʊtɪs/",
+      "pos": "expression",
+      "fr": "au dernier moment, dans un délai très court",
+      "def": "With very little warning or time to prepare.",
+      "examples": [
+        {
+          "en": "Thank you for coming **on short notice**.",
+          "fr": "Merci d’être venu au pied levé."
+        },
+        {
+          "en": "The meeting was canceled **on short notice**.",
+          "fr": "La réunion a été annulée au dernier moment."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **at short notice**."
+      }
+    },
+    {
+      "word": "behind schedule",
+      "ipa": "/bɪˈhaɪnd ˈskedʒuːl/",
+      "pos": "expression",
+      "fr": "en retard (sur le planning)",
+      "def": "Later than planned.",
+      "examples": [
+        {
+          "en": "The construction project is two weeks **behind schedule**.",
+          "fr": "Le chantier a deux semaines de retard."
+        },
+        {
+          "en": "We are **behind schedule**, so let’s work faster.",
+          "fr": "Nous sommes en retard, alors accélérons."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **ahead of schedule**."
+      }
+    },
+    {
+      "word": "ahead of schedule",
+      "ipa": "/əˈhed əv ˈskedʒuːl/",
+      "pos": "expression",
+      "fr": "en avance (sur le planning)",
+      "def": "Earlier than planned.",
+      "examples": [
+        {
+          "en": "The new store opened **ahead of schedule**.",
+          "fr": "Le nouveau magasin a ouvert en avance."
+        },
+        {
+          "en": "We finished the project a week **ahead of schedule**.",
+          "fr": "Nous avons terminé le projet avec une semaine d’avance."
+        }
+      ]
+    },
+    {
+      "word": "out of the office",
+      "ipa": "/aʊt əv ði ˈɔːfɪs/",
+      "pos": "expression",
+      "fr": "absent du bureau",
+      "def": "Not at work, for example on vacation or traveling.",
+      "examples": [
+        {
+          "en": "I will be **out of the office** until Monday.",
+          "fr": "Je serai absent du bureau jusqu’à lundi."
+        },
+        {
+          "en": "Ms. Tan is **out of the office** today; can I take a message?",
+          "fr": "Mme Tan est absente aujourd’hui ; puis-je prendre un message ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Message automatique : **out-of-office reply**."
+      }
+    },
+    {
+      "word": "touch base",
+      "ipa": "/tʌtʃ beɪs/",
+      "pos": "expression",
+      "fr": "faire le point, reprendre contact",
+      "def": "To contact someone briefly to exchange information.",
+      "examples": [
+        {
+          "en": "Let’s **touch base** next week about the project.",
+          "fr": "Faisons le point sur le projet la semaine prochaine."
+        },
+        {
+          "en": "I just wanted to **touch base** before the meeting.",
+          "fr": "Je voulais juste faire un point avant la réunion."
+        }
+      ]
+    },
+    {
+      "word": "on the same page",
+      "ipa": "/ɑːn ðə seɪm peɪdʒ/",
+      "pos": "expression",
+      "fr": "sur la même longueur d’onde, d’accord",
+      "def": "Agreeing about something or understanding it the same way.",
+      "examples": [
+        {
+          "en": "Let’s make sure we’re all **on the same page**.",
+          "fr": "Assurons-nous que nous sommes tous d’accord."
+        },
+        {
+          "en": "The team is finally **on the same page** about the budget.",
+          "fr": "L’équipe est enfin d’accord sur le budget."
+        }
+      ]
+    },
+    {
+      "word": "get the ball rolling",
+      "ipa": "/ɡet ðə bɔːl ˈroʊlɪŋ/",
+      "pos": "expression",
+      "fr": "lancer (les choses), démarrer",
+      "def": "To start an activity or process.",
+      "examples": [
+        {
+          "en": "Let’s **get the ball rolling** with a quick introduction.",
+          "fr": "Commençons par une brève présentation."
+        },
+        {
+          "en": "We need a first client to **get the ball rolling**.",
+          "fr": "Il nous faut un premier client pour lancer l’activité."
+        }
+      ]
+    },
+    {
+      "word": "in charge of",
+      "ipa": "/ɪn tʃɑːrdʒ əv/",
+      "pos": "expression",
+      "fr": "responsable de, chargé de",
+      "def": "Having control of or responsibility for something.",
+      "examples": [
+        {
+          "en": "Mr. Hill is **in charge of** the sales team.",
+          "fr": "M. Hill est responsable de l’équipe commerciale."
+        },
+        {
+          "en": "Who is **in charge of** ordering supplies?",
+          "fr": "Qui s’occupe de commander les fournitures ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Question très fréquente en Partie 2 : **Who’s in charge of…?**"
+      }
+    },
+    {
+      "word": "keep someone posted",
+      "ipa": "/kiːp ˈsʌmwʌn ˈpoʊstɪd/",
+      "pos": "expression",
+      "fr": "tenir quelqu’un au courant",
+      "def": "To regularly give someone the latest news.",
+      "examples": [
+        {
+          "en": "Please **keep** me **posted** on the negotiations.",
+          "fr": "Merci de me tenir au courant des négociations."
+        },
+        {
+          "en": "I’ll **keep** you **posted** if anything changes.",
+          "fr": "Je vous tiens au courant si quelque chose change."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **keep someone informed / updated**."
+      }
+    },
+    {
+      "word": "up to date",
+      "ipa": "/ʌp tə deɪt/",
+      "pos": "expression",
+      "fr": "à jour ; moderne",
+      "def": "Containing the latest information; modern.",
+      "examples": [
+        {
+          "en": "Please keep your contact information **up to date**.",
+          "fr": "Merci de garder vos coordonnées à jour."
+        },
+        {
+          "en": "The hotel has **up-to-date** equipment.",
+          "fr": "L’hôtel dispose d’équipements modernes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **out of date** (périmé, dépassé)."
+      }
+    },
+    {
+      "word": "in the long run",
+      "ipa": "/ɪn ðə lɔːŋ rʌn/",
+      "pos": "expression",
+      "fr": "à long terme",
+      "def": "Over a long period of time.",
+      "examples": [
+        {
+          "en": "The new system will save money **in the long run**.",
+          "fr": "Le nouveau système permettra de faire des économies à long terme."
+        },
+        {
+          "en": "Training staff pays off **in the long run**.",
+          "fr": "Former le personnel est rentable à long terme."
+        }
+      ]
+    },
+    {
+      "word": "cut corners",
+      "ipa": "/kʌt ˈkɔːrnərz/",
+      "pos": "expression",
+      "fr": "bâcler, rogner sur la qualité",
+      "def": "To do something badly or cheaply to save time or money.",
+      "examples": [
+        {
+          "en": "We never **cut corners** on safety.",
+          "fr": "Nous ne transigeons jamais sur la sécurité."
+        },
+        {
+          "en": "The contractor **cut corners** and the roof leaked.",
+          "fr": "L’entrepreneur a bâclé le travail et le toit fuyait."
+        }
+      ]
+    },
+    {
+      "word": "think outside the box",
+      "ipa": "/θɪŋk ˌaʊtsaɪd ðə bɑːks/",
+      "pos": "expression",
+      "fr": "sortir des sentiers battus",
+      "def": "To think in a creative, original way.",
+      "examples": [
+        {
+          "en": "We need to **think outside the box** to attract new customers.",
+          "fr": "Nous devons sortir des sentiers battus pour attirer de nouveaux clients."
+        },
+        {
+          "en": "The workshop encourages employees to **think outside the box**.",
+          "fr": "L’atelier encourage les employés à penser différemment."
+        }
+      ]
+    },
+    {
+      "word": "a win-win situation",
+      "ipa": "/ə ˌwɪn ˈwɪn ˌsɪtʃuˈeɪʃən/",
+      "pos": "expression",
+      "fr": "une situation gagnant-gagnant",
+      "def": "A situation that benefits everyone involved.",
+      "examples": [
+        {
+          "en": "The partnership is **a win-win situation** for both companies.",
+          "fr": "Le partenariat est gagnant-gagnant pour les deux entreprises."
+        },
+        {
+          "en": "Flexible hours are **a win-win** for staff and managers.",
+          "fr": "Les horaires flexibles profitent à la fois au personnel et aux managers."
+        }
+      ]
+    },
+    {
+      "word": "back to square one",
+      "ipa": "/bæk tə skwer wʌn/",
+      "pos": "expression",
+      "fr": "retour à la case départ",
+      "def": "Back to the beginning because a plan has failed.",
+      "examples": [
+        {
+          "en": "The client rejected the design, so we’re **back to square one**.",
+          "fr": "Le client a refusé le design : retour à la case départ."
+        },
+        {
+          "en": "If the funding falls through, we’ll be **back to square one**.",
+          "fr": "Si le financement tombe à l’eau, on reprend tout à zéro."
+        }
+      ]
+    },
+    {
+      "word": "call it a day",
+      "ipa": "/kɔːl ɪt ə deɪ/",
+      "pos": "expression",
+      "fr": "s’arrêter là (pour aujourd’hui)",
+      "def": "To stop working for the day.",
+      "examples": [
+        {
+          "en": "It’s late; let’s **call it a day**.",
+          "fr": "Il est tard, arrêtons-nous là pour aujourd’hui."
+        },
+        {
+          "en": "We finished the report and **called it a day**.",
+          "fr": "Nous avons terminé le rapport et nous sommes arrêtés là."
+        }
+      ]
+    },
+    {
+      "word": "up and running",
+      "ipa": "/ʌp ənd ˈrʌnɪŋ/",
+      "pos": "expression",
+      "fr": "opérationnel",
+      "def": "Working normally.",
+      "examples": [
+        {
+          "en": "The new website is finally **up and running**.",
+          "fr": "Le nouveau site est enfin opérationnel."
+        },
+        {
+          "en": "The system should be **up and running** by noon.",
+          "fr": "Le système devrait être opérationnel d’ici midi."
+        }
+      ]
+    },
+    {
+      "word": "learn the ropes",
+      "ipa": "/lɜːrn ðə roʊps/",
+      "pos": "expression",
+      "fr": "apprendre les ficelles du métier",
+      "def": "To learn how to do a new job.",
+      "examples": [
+        {
+          "en": "It takes a few weeks to **learn the ropes**.",
+          "fr": "Il faut quelques semaines pour apprendre les ficelles du métier."
+        },
+        {
+          "en": "Sam will **show you the ropes** on your first day.",
+          "fr": "Sam vous montrera comment tout fonctionne le premier jour."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**show someone the ropes** = mettre quelqu’un au courant."
+      }
+    },
+    {
+      "word": "in the pipeline",
+      "ipa": "/ɪn ðə ˈpaɪplaɪn/",
+      "pos": "expression",
+      "fr": "en préparation, en cours",
+      "def": "Being planned or developed.",
+      "examples": [
+        {
+          "en": "We have several new products **in the pipeline**.",
+          "fr": "Nous avons plusieurs nouveaux produits en préparation."
+        },
+        {
+          "en": "A new branch is **in the pipeline** for next year.",
+          "fr": "Une nouvelle agence est en projet pour l’an prochain."
+        }
+      ]
+    },
+    {
+      "word": "hit the ground running",
+      "ipa": "/hɪt ðə ɡraʊnd ˈrʌnɪŋ/",
+      "pos": "expression",
+      "fr": "être immédiatement opérationnel",
+      "def": "To start a new job or activity quickly and successfully.",
+      "examples": [
+        {
+          "en": "We need someone who can **hit the ground running**.",
+          "fr": "Il nous faut quelqu’un d’immédiatement opérationnel."
+        },
+        {
+          "en": "The new manager **hit the ground running**.",
+          "fr": "Le nouveau responsable a été efficace dès le premier jour."
+        }
+      ]
+    },
+    {
+      "word": "the bottom line",
+      "ipa": "/ðə ˈbɑːtəm laɪn/",
+      "pos": "expression",
+      "fr": "l’essentiel ; le résultat net",
+      "def": "The most important fact; or a company’s final profit or loss.",
+      "examples": [
+        {
+          "en": "**The bottom line** is that we need more customers.",
+          "fr": "L’essentiel, c’est que nous avons besoin de plus de clients."
+        },
+        {
+          "en": "The new costs will affect **the bottom line**.",
+          "fr": "Les nouveaux coûts vont peser sur le résultat."
+        }
+      ]
+    },
+    {
+      "word": "from scratch",
+      "ipa": "/frəm skrætʃ/",
+      "pos": "expression",
+      "fr": "à partir de zéro",
+      "def": "From the very beginning, without using anything existing.",
+      "examples": [
+        {
+          "en": "She built the company **from scratch**.",
+          "fr": "Elle a bâti l’entreprise à partir de rien."
+        },
+        {
+          "en": "We had to rewrite the program **from scratch**.",
+          "fr": "Nous avons dû réécrire le programme depuis le début."
+        }
+      ]
+    },
+    {
+      "word": "fall through",
+      "ipa": "/fɔːl θruː/",
+      "pos": "verbe à particule",
+      "fr": "échouer, tomber à l’eau",
+      "def": "To fail to happen.",
+      "examples": [
+        {
+          "en": "The deal **fell through** at the last minute.",
+          "fr": "L’accord est tombé à l’eau à la dernière minute."
+        },
+        {
+          "en": "Our plans to expand **fell through**.",
+          "fr": "Nos projets d’expansion n’ont pas abouti."
+        }
+      ]
+    },
+    {
+      "word": "up in the air",
+      "ipa": "/ʌp ɪn ði er/",
+      "pos": "expression",
+      "fr": "incertain, pas encore décidé",
+      "def": "Not yet decided.",
+      "examples": [
+        {
+          "en": "The date of the launch is still **up in the air**.",
+          "fr": "La date du lancement n’est pas encore fixée."
+        },
+        {
+          "en": "Our travel plans are **up in the air**.",
+          "fr": "Nos projets de voyage sont encore incertains."
+        }
+      ]
+    },
+    {
+      "word": "be on the right track",
+      "ipa": "/bi ɑːn ðə raɪt træk/",
+      "pos": "expression",
+      "fr": "être sur la bonne voie",
+      "def": "To be doing something in a way that will lead to success.",
+      "examples": [
+        {
+          "en": "Sales are growing, so we’re **on the right track**.",
+          "fr": "Les ventes progressent : nous sommes sur la bonne voie."
+        },
+        {
+          "en": "Your proposal is **on the right track**.",
+          "fr": "Votre proposition va dans la bonne direction."
+        }
+      ]
+    },
+    {
+      "word": "run late",
+      "ipa": "/rʌn leɪt/",
+      "pos": "expression",
+      "fr": "être en retard",
+      "def": "To be later than planned.",
+      "examples": [
+        {
+          "en": "Sorry, I’m **running late**; I’ll be there in ten minutes.",
+          "fr": "Désolé, je suis en retard ; j’arrive dans dix minutes."
+        },
+        {
+          "en": "The meeting is **running late**.",
+          "fr": "La réunion prend du retard."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Réponse typique en Partie 2."
+      }
+    },
+    {
+      "word": "take into account",
+      "ipa": "/teɪk ˈɪntuː əˈkaʊnt/",
+      "pos": "expression",
+      "fr": "prendre en compte",
+      "def": "To consider something when making a decision.",
+      "examples": [
+        {
+          "en": "We will **take** your comments **into account**.",
+          "fr": "Nous tiendrons compte de vos remarques."
+        },
+        {
+          "en": "The price **takes into account** delivery costs.",
+          "fr": "Le prix tient compte des frais de livraison."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **take into consideration**."
+      }
+    },
+    {
+      "word": "make ends meet",
+      "ipa": "/meɪk endz miːt/",
+      "pos": "expression",
+      "fr": "joindre les deux bouts",
+      "def": "To have just enough money to pay for what you need.",
+      "examples": [
+        {
+          "en": "Many small businesses struggle to **make ends meet**.",
+          "fr": "Beaucoup de petites entreprises ont du mal à joindre les deux bouts."
+        },
+        {
+          "en": "He took a second job to **make ends meet**.",
+          "fr": "Il a pris un second emploi pour joindre les deux bouts."
+        }
+      ]
+    },
+    {
+      "word": "a ballpark figure",
+      "ipa": "/ə ˈbɔːlpɑːrk ˈfɪɡjər/",
+      "pos": "expression",
+      "fr": "un chiffre approximatif",
+      "def": "A rough estimate.",
+      "examples": [
+        {
+          "en": "Can you give me **a ballpark figure** for the repairs?",
+          "fr": "Pouvez-vous me donner une estimation approximative des réparations ?"
+        },
+        {
+          "en": "**A ballpark figure** would be around $10,000.",
+          "fr": "Un ordre de grandeur serait d’environ 10 000 $."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **a rough estimate**."
+      }
+    },
+    {
+      "word": "at the last minute",
+      "ipa": "/æt ðə læst ˈmɪnɪt/",
+      "pos": "expression",
+      "fr": "à la dernière minute",
+      "def": "At the latest possible time.",
+      "examples": [
+        {
+          "en": "The speaker canceled **at the last minute**.",
+          "fr": "L’intervenant a annulé à la dernière minute."
+        },
+        {
+          "en": "Don’t leave your packing until **the last minute**.",
+          "fr": "Ne faites pas vos bagages à la dernière minute."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **last-minute changes**."
+      }
+    },
+    {
+      "word": "by word of mouth",
+      "ipa": "/baɪ wɜːrd əv maʊθ/",
+      "pos": "expression",
+      "fr": "par le bouche-à-oreille",
+      "def": "Through people telling each other.",
+      "examples": [
+        {
+          "en": "Most of our customers find us **by word of mouth**.",
+          "fr": "La plupart de nos clients nous connaissent par le bouche-à-oreille."
+        },
+        {
+          "en": "News of the sale spread **by word of mouth**.",
+          "fr": "La nouvelle des soldes s’est répandue par le bouche-à-oreille."
+        }
+      ]
+    },
+    {
+      "word": "get the go-ahead",
+      "ipa": "/ɡet ðə ˈɡoʊ əˌhed/",
+      "pos": "expression",
+      "fr": "obtenir le feu vert",
+      "def": "To receive permission to start something.",
+      "examples": [
+        {
+          "en": "We finally **got the go-ahead** from the board.",
+          "fr": "Nous avons enfin obtenu le feu vert du conseil."
+        },
+        {
+          "en": "The project **got the go-ahead** last week.",
+          "fr": "Le projet a reçu le feu vert la semaine dernière."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **get the green light**."
+      }
+    },
+    {
+      "word": "off the record",
+      "ipa": "/ɔːf ðə ˈrekərd/",
+      "pos": "expression",
+      "fr": "officieusement, entre nous",
+      "def": "Not official and not to be published.",
+      "examples": [
+        {
+          "en": "**Off the record**, the deal is almost done.",
+          "fr": "Officieusement, l’accord est presque conclu."
+        },
+        {
+          "en": "He spoke to the journalist **off the record**.",
+          "fr": "Il a parlé au journaliste sous couvert d’anonymat."
+        }
+      ]
+    },
+    {
+      "word": "it’s up to you",
+      "ipa": "/ɪts ʌp tə juː/",
+      "pos": "expression",
+      "fr": "c’est à vous de voir",
+      "def": "You can decide.",
+      "examples": [
+        {
+          "en": "“Should we meet today or tomorrow?” — “**It’s up to you**.”",
+          "fr": "« On se voit aujourd’hui ou demain ? » — « C’est comme vous voulez. »"
+        },
+        {
+          "en": "**It’s up to** the manager to approve the request.",
+          "fr": "C’est au responsable d’approuver la demande."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Réponse indirecte très fréquente en Partie 2."
+      }
+    },
+    {
+      "word": "I’d be happy to",
+      "ipa": "/aɪd bi ˈhæpi tuː/",
+      "pos": "expression",
+      "fr": "avec plaisir",
+      "def": "A polite way to accept a request.",
+      "examples": [
+        {
+          "en": "“Could you help me with this report?” — “**I’d be happy to**.”",
+          "fr": "« Pourriez-vous m’aider avec ce rapport ? » — « Avec plaisir. »"
+        },
+        {
+          "en": "**I’d be happy to** show you around the office.",
+          "fr": "Je vous ferai volontiers visiter les bureaux."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "En Partie 2, c’est souvent la bonne réponse à une demande polie."
+      }
+    },
+    {
+      "word": "not that I know of",
+      "ipa": "/nɑːt ðæt aɪ noʊ əv/",
+      "pos": "expression",
+      "fr": "pas à ma connaissance",
+      "def": "As far as I know, no.",
+      "examples": [
+        {
+          "en": "“Is the meeting canceled?” — “**Not that I know of**.”",
+          "fr": "« La réunion est annulée ? » — « Pas à ma connaissance. »"
+        },
+        {
+          "en": "“Has the shipment arrived?” — “**Not that I know of**.”",
+          "fr": "« La livraison est arrivée ? » — « Pas que je sache. »"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Réponse indirecte typique de la Partie 2."
+      }
+    }
+  ]
+}

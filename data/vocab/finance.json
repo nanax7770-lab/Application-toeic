@@ -1,0 +1,981 @@
+{
+  "id": "finance",
+  "name": "Finance et comptabilité",
+  "short": "Finance",
+  "group": "theme",
+  "description": "Budgets, factures, comptes et résultats : le vocabulaire des chiffres.",
+  "cards": [
+    {
+      "word": "revenue",
+      "ipa": "/ˈrevənuː/",
+      "pos": "nom",
+      "fr": "chiffre d’affaires, recettes",
+      "def": "The money a company receives from selling its goods or services.",
+      "examples": [
+        {
+          "en": "Annual **revenue** rose by 12 percent thanks to strong overseas sales.",
+          "fr": "Le chiffre d’affaires annuel a progressé de 12 % grâce à de bonnes ventes à l’étranger."
+        },
+        {
+          "en": "The new service is expected to generate additional **revenue** next quarter.",
+          "fr": "Le nouveau service devrait générer des recettes supplémentaires au prochain trimestre."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : le « revenu » d’une personne se dit **income**."
+      }
+    },
+    {
+      "word": "invoice",
+      "ipa": "/ˈɪnvɔɪs/",
+      "pos": "nom, verbe",
+      "fr": "facture ; facturer",
+      "def": "A document that lists goods or services provided and the amount the customer must pay.",
+      "examples": [
+        {
+          "en": "Please find attached the **invoice** for last month’s consulting services.",
+          "fr": "Veuillez trouver ci-joint la facture des services de conseil du mois dernier."
+        },
+        {
+          "en": "All **invoices** must be paid within 30 days of receipt.",
+          "fr": "Toutes les factures doivent être réglées dans les 30 jours suivant leur réception."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi un verbe : **invoice a client** = facturer un client."
+      }
+    },
+    {
+      "word": "budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "pos": "nom, verbe",
+      "fr": "budget ; prévoir (dans un budget)",
+      "def": "A plan showing how much money is available and how it will be spent.",
+      "examples": [
+        {
+          "en": "The marketing department has exceeded its **budget** for the year.",
+          "fr": "Le service marketing a dépassé son budget pour l’année."
+        },
+        {
+          "en": "We have **budgeted** $5,000 for the new office furniture.",
+          "fr": "Nous avons prévu 5 000 $ pour le nouveau mobilier de bureau."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Expressions fréquentes : **within budget** (dans les limites du budget), **over budget** (hors budget)."
+      }
+    },
+    {
+      "word": "expense",
+      "ipa": "/ɪkˈspens/",
+      "pos": "nom",
+      "fr": "dépense, frais",
+      "def": "Money spent on something, especially as part of running a business.",
+      "examples": [
+        {
+          "en": "Travel **expenses** will be reimbursed upon submission of receipts.",
+          "fr": "Les frais de déplacement seront remboursés sur présentation des reçus."
+        },
+        {
+          "en": "Rent is our largest monthly **expense**.",
+          "fr": "Le loyer est notre plus grosse dépense mensuelle."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**at the company’s expense** = aux frais de l’entreprise."
+      }
+    },
+    {
+      "word": "expenditure",
+      "ipa": "/ɪkˈspendɪtʃər/",
+      "pos": "nom",
+      "fr": "dépenses (totales)",
+      "def": "The total amount of money spent by a person, company or government.",
+      "examples": [
+        {
+          "en": "Capital **expenditure** increased as the firm opened two new factories.",
+          "fr": "Les dépenses d’investissement ont augmenté avec l’ouverture de deux nouvelles usines."
+        },
+        {
+          "en": "The board approved the proposed **expenditure** on research.",
+          "fr": "Le conseil d’administration a approuvé les dépenses prévues pour la recherche."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Plus formel que **expense** ; souvent au singulier."
+      }
+    },
+    {
+      "word": "profit",
+      "ipa": "/ˈprɑːfɪt/",
+      "pos": "nom",
+      "fr": "bénéfice",
+      "def": "The money a business earns after all costs have been paid.",
+      "examples": [
+        {
+          "en": "The company reported a net **profit** of $2 million this year.",
+          "fr": "L’entreprise a annoncé un bénéfice net de 2 millions de dollars cette année."
+        },
+        {
+          "en": "Higher prices helped the store increase its **profits**.",
+          "fr": "La hausse des prix a permis au magasin d’augmenter ses bénéfices."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **profitable** = rentable."
+      }
+    },
+    {
+      "word": "loss",
+      "ipa": "/lɔːs/",
+      "pos": "nom",
+      "fr": "perte",
+      "def": "Money that a business loses when its costs are higher than its income.",
+      "examples": [
+        {
+          "en": "The airline posted a **loss** for the third consecutive quarter.",
+          "fr": "La compagnie aérienne a enregistré une perte pour le troisième trimestre consécutif."
+        },
+        {
+          "en": "The store sold the old models at a **loss**.",
+          "fr": "Le magasin a vendu les anciens modèles à perte."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **lose** (lost, lost). Ne pas confondre avec **loose** (lâche, desserré)."
+      }
+    },
+    {
+      "word": "audit",
+      "ipa": "/ˈɔːdɪt/",
+      "pos": "nom, verbe",
+      "fr": "audit, vérification des comptes ; vérifier",
+      "def": "An official examination of a company’s financial records.",
+      "examples": [
+        {
+          "en": "An external firm will conduct the annual **audit** in March.",
+          "fr": "Un cabinet externe réalisera l’audit annuel en mars."
+        },
+        {
+          "en": "Our accounts are **audited** every year.",
+          "fr": "Nos comptes sont vérifiés chaque année."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne : **auditor** = auditeur, commissaire aux comptes."
+      }
+    },
+    {
+      "word": "accountant",
+      "ipa": "/əˈkaʊntənt/",
+      "pos": "nom",
+      "fr": "comptable",
+      "def": "A person whose job is to keep or examine financial records.",
+      "examples": [
+        {
+          "en": "Please send your expense report to the **accountant** by Friday.",
+          "fr": "Veuillez envoyer votre note de frais au comptable d’ici vendredi."
+        },
+        {
+          "en": "She works as a senior **accountant** at a law firm.",
+          "fr": "Elle travaille comme comptable principale dans un cabinet d’avocats."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "L’activité : **accounting** = comptabilité ; le service : **the accounting department**."
+      }
+    },
+    {
+      "word": "fiscal year",
+      "ipa": "/ˈfɪskəl jɪr/",
+      "pos": "nom",
+      "fr": "exercice (financier)",
+      "def": "A twelve-month period used by a company for accounting purposes.",
+      "examples": [
+        {
+          "en": "Sales for the **fiscal year** ending June 30 were higher than expected.",
+          "fr": "Les ventes de l’exercice clos le 30 juin ont été plus élevées que prévu."
+        },
+        {
+          "en": "The new budget will take effect at the start of the next **fiscal year**.",
+          "fr": "Le nouveau budget entrera en vigueur au début du prochain exercice."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme britannique : **financial year**."
+      }
+    },
+    {
+      "word": "quarter",
+      "ipa": "/ˈkwɔːrtər/",
+      "pos": "nom",
+      "fr": "trimestre",
+      "def": "A period of three months, especially in business reports.",
+      "examples": [
+        {
+          "en": "Profits rose sharply in the second **quarter**.",
+          "fr": "Les bénéfices ont fortement augmenté au deuxième trimestre."
+        },
+        {
+          "en": "The results will be announced at the end of the **quarter**.",
+          "fr": "Les résultats seront annoncés à la fin du trimestre."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **quarterly** = trimestriel (a quarterly report)."
+      }
+    },
+    {
+      "word": "forecast",
+      "ipa": "/ˈfɔːrkæst/",
+      "pos": "nom, verbe",
+      "fr": "prévision ; prévoir",
+      "def": "A statement about what is expected to happen, especially with numbers.",
+      "examples": [
+        {
+          "en": "The sales **forecast** for next year looks very positive.",
+          "fr": "Les prévisions de ventes pour l’an prochain sont très positives."
+        },
+        {
+          "en": "Analysts **forecast** a slight drop in demand.",
+          "fr": "Les analystes prévoient une légère baisse de la demande."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Au passé : **forecast** (forme identique) ou **forecasted**."
+      }
+    },
+    {
+      "word": "estimate",
+      "ipa": "/ˈestɪmət/",
+      "pos": "nom",
+      "fr": "estimation, devis",
+      "def": "An approximate calculation of a cost, size or value.",
+      "examples": [
+        {
+          "en": "The contractor gave us an **estimate** of $8,000 for the repairs.",
+          "fr": "L’entrepreneur nous a fait un devis de 8 000 $ pour les réparations."
+        },
+        {
+          "en": "According to early **estimates**, attendance doubled this year.",
+          "fr": "Selon les premières estimations, la fréquentation a doublé cette année."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Le verbe se prononce /ˈestɪmeɪt/ : **estimate the cost** = estimer le coût."
+      }
+    },
+    {
+      "word": "asset",
+      "ipa": "/ˈæset/",
+      "pos": "nom",
+      "fr": "actif, atout",
+      "def": "Something valuable owned by a company or person; also a useful quality.",
+      "examples": [
+        {
+          "en": "The company’s **assets** include three buildings and a fleet of trucks.",
+          "fr": "Les actifs de l’entreprise comprennent trois bâtiments et une flotte de camions."
+        },
+        {
+          "en": "Her language skills are a real **asset** to the team.",
+          "fr": "Ses compétences en langues sont un véritable atout pour l’équipe."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire comptable : **liability** (passif, dette)."
+      }
+    },
+    {
+      "word": "liability",
+      "ipa": "/ˌlaɪəˈbɪləti/",
+      "pos": "nom",
+      "fr": "passif, dette ; responsabilité (légale)",
+      "def": "Money a company owes; or legal responsibility for something.",
+      "examples": [
+        {
+          "en": "The firm’s **liabilities** exceed its assets.",
+          "fr": "Les dettes de l’entreprise dépassent ses actifs."
+        },
+        {
+          "en": "The hotel accepts no **liability** for items left in the rooms.",
+          "fr": "L’hôtel décline toute responsabilité pour les objets laissés dans les chambres."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **liable for** = responsable de."
+      }
+    },
+    {
+      "word": "shareholder",
+      "ipa": "/ˈʃerhoʊldər/",
+      "pos": "nom",
+      "fr": "actionnaire",
+      "def": "A person or organization that owns shares in a company.",
+      "examples": [
+        {
+          "en": "The **shareholders** will vote on the merger next month.",
+          "fr": "Les actionnaires voteront sur la fusion le mois prochain."
+        },
+        {
+          "en": "Dividends are paid to **shareholders** twice a year.",
+          "fr": "Les dividendes sont versés aux actionnaires deux fois par an."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **stockholder**. Une action : **a share**."
+      }
+    },
+    {
+      "word": "dividend",
+      "ipa": "/ˈdɪvɪdend/",
+      "pos": "nom",
+      "fr": "dividende",
+      "def": "A part of a company’s profits paid to its shareholders.",
+      "examples": [
+        {
+          "en": "The board announced a higher **dividend** for this year.",
+          "fr": "Le conseil a annoncé un dividende plus élevé pour cette année."
+        },
+        {
+          "en": "Investors expect the **dividend** to be paid in December.",
+          "fr": "Les investisseurs s’attendent à ce que le dividende soit versé en décembre."
+        }
+      ]
+    },
+    {
+      "word": "investment",
+      "ipa": "/ɪnˈvestmənt/",
+      "pos": "nom",
+      "fr": "investissement",
+      "def": "Money put into a business or project in order to make a profit.",
+      "examples": [
+        {
+          "en": "The new factory represents a major **investment** for the company.",
+          "fr": "La nouvelle usine représente un investissement important pour l’entreprise."
+        },
+        {
+          "en": "We are looking for **investment** in renewable energy.",
+          "fr": "Nous recherchons des investissements dans les énergies renouvelables."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **invest in** something (préposition **in**)."
+      }
+    },
+    {
+      "word": "interest rate",
+      "ipa": "/ˈɪntrəst reɪt/",
+      "pos": "nom",
+      "fr": "taux d’intérêt",
+      "def": "The percentage charged by a lender for borrowing money.",
+      "examples": [
+        {
+          "en": "The bank raised its **interest rates** by half a percent.",
+          "fr": "La banque a relevé ses taux d’intérêt d’un demi-point."
+        },
+        {
+          "en": "Low **interest rates** encourage companies to borrow.",
+          "fr": "Des taux d’intérêt bas encouragent les entreprises à emprunter."
+        }
+      ]
+    },
+    {
+      "word": "loan",
+      "ipa": "/loʊn/",
+      "pos": "nom",
+      "fr": "prêt",
+      "def": "An amount of money that is borrowed and must be paid back.",
+      "examples": [
+        {
+          "en": "The company applied for a **loan** to expand its warehouse.",
+          "fr": "L’entreprise a demandé un prêt pour agrandir son entrepôt."
+        },
+        {
+          "en": "The **loan** must be repaid within five years.",
+          "fr": "Le prêt doit être remboursé dans un délai de cinq ans."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbes : **lend** (prêter) / **borrow** (emprunter)."
+      }
+    },
+    {
+      "word": "debt",
+      "ipa": "/det/",
+      "pos": "nom",
+      "fr": "dette",
+      "def": "Money that is owed to someone else.",
+      "examples": [
+        {
+          "en": "The firm managed to reduce its **debt** by selling some property.",
+          "fr": "L’entreprise a réussi à réduire sa dette en vendant une partie de ses biens."
+        },
+        {
+          "en": "The company is now completely free of **debt**.",
+          "fr": "L’entreprise n’a désormais plus aucune dette."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Le **b** ne se prononce pas : /det/."
+      }
+    },
+    {
+      "word": "reimburse",
+      "ipa": "/ˌriːɪmˈbɜːrs/",
+      "pos": "verbe",
+      "fr": "rembourser (des frais)",
+      "def": "To pay back money that someone has spent.",
+      "examples": [
+        {
+          "en": "Employees will be **reimbursed** for all business travel costs.",
+          "fr": "Les employés seront remboursés de tous leurs frais de déplacement professionnel."
+        },
+        {
+          "en": "Please keep your receipts so that we can **reimburse** you.",
+          "fr": "Veuillez conserver vos reçus pour que nous puissions vous rembourser."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **reimbursement**. Pour un client mécontent, on parle plutôt de **refund**."
+      }
+    },
+    {
+      "word": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "pos": "nom",
+      "fr": "reçu, ticket de caisse ; réception",
+      "def": "A document showing that money has been paid; also the act of receiving something.",
+      "examples": [
+        {
+          "en": "Keep the **receipt** in case you need to return the item.",
+          "fr": "Gardez le ticket de caisse au cas où vous devriez rapporter l’article."
+        },
+        {
+          "en": "Please confirm **receipt** of this email.",
+          "fr": "Merci de confirmer la réception de cet e-mail."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Le **p** ne se prononce pas : /rɪˈsiːt/."
+      }
+    },
+    {
+      "word": "balance",
+      "ipa": "/ˈbæləns/",
+      "pos": "nom",
+      "fr": "solde ; équilibre",
+      "def": "The amount of money in an account or still owed.",
+      "examples": [
+        {
+          "en": "The remaining **balance** is due upon delivery.",
+          "fr": "Le solde restant est à régler à la livraison."
+        },
+        {
+          "en": "You can check your account **balance** online.",
+          "fr": "Vous pouvez consulter le solde de votre compte en ligne."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**balance sheet** = bilan comptable."
+      }
+    },
+    {
+      "word": "outstanding",
+      "ipa": "/aʊtˈstændɪŋ/",
+      "pos": "adjectif",
+      "fr": "impayé, en suspens ; remarquable",
+      "def": "Not yet paid or done; also excellent.",
+      "examples": [
+        {
+          "en": "Please settle the **outstanding** amount by the end of the month.",
+          "fr": "Merci de régler le montant impayé d’ici la fin du mois."
+        },
+        {
+          "en": "She received an award for her **outstanding** performance.",
+          "fr": "Elle a reçu un prix pour ses résultats remarquables."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Deux sens très différents au TOEIC : regardez le contexte (argent ou compliment)."
+      }
+    },
+    {
+      "word": "overdue",
+      "ipa": "/ˌoʊvərˈduː/",
+      "pos": "adjectif",
+      "fr": "en retard (paiement)",
+      "def": "Not paid or done by the expected time.",
+      "examples": [
+        {
+          "en": "This invoice is now two weeks **overdue**.",
+          "fr": "Cette facture a maintenant deux semaines de retard."
+        },
+        {
+          "en": "A reminder was sent about the **overdue** payment.",
+          "fr": "Un rappel a été envoyé concernant le paiement en retard."
+        }
+      ]
+    },
+    {
+      "word": "installment",
+      "ipa": "/ɪnˈstɔːlmənt/",
+      "pos": "nom",
+      "fr": "versement, mensualité",
+      "def": "One of several payments made over a period of time.",
+      "examples": [
+        {
+          "en": "You can pay for the laptop in twelve monthly **installments**.",
+          "fr": "Vous pouvez payer l’ordinateur en douze mensualités."
+        },
+        {
+          "en": "The first **installment** is due on March 1.",
+          "fr": "Le premier versement est dû le 1er mars."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Orthographe britannique : **instalment**."
+      }
+    },
+    {
+      "word": "deposit",
+      "ipa": "/dɪˈpɑːzɪt/",
+      "pos": "nom, verbe",
+      "fr": "acompte, caution ; dépôt ; déposer",
+      "def": "Money paid in advance or placed in a bank account.",
+      "examples": [
+        {
+          "en": "A 20 percent **deposit** is required to confirm the order.",
+          "fr": "Un acompte de 20 % est exigé pour confirmer la commande."
+        },
+        {
+          "en": "The funds were **deposited** into your account this morning.",
+          "fr": "Les fonds ont été déposés sur votre compte ce matin."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **withdraw** (retirer de l’argent)."
+      }
+    },
+    {
+      "word": "withdraw",
+      "ipa": "/wɪðˈdrɔː/",
+      "pos": "verbe",
+      "fr": "retirer (de l’argent) ; se retirer",
+      "def": "To take money out of an account; to stop taking part in something.",
+      "examples": [
+        {
+          "en": "You can **withdraw** cash at any branch.",
+          "fr": "Vous pouvez retirer des espèces dans n’importe quelle agence."
+        },
+        {
+          "en": "Two companies **withdrew** from the bidding process.",
+          "fr": "Deux entreprises se sont retirées de l’appel d’offres."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Irrégulier : withdraw, **withdrew**, **withdrawn**. Nom : **withdrawal**."
+      }
+    },
+    {
+      "word": "transaction",
+      "ipa": "/trænˈzækʃən/",
+      "pos": "nom",
+      "fr": "opération, transaction",
+      "def": "A single act of buying, selling or moving money.",
+      "examples": [
+        {
+          "en": "Every **transaction** is recorded in the system.",
+          "fr": "Chaque opération est enregistrée dans le système."
+        },
+        {
+          "en": "A small fee is charged for international **transactions**.",
+          "fr": "Des frais modiques sont appliqués aux opérations internationales."
+        }
+      ]
+    },
+    {
+      "word": "currency",
+      "ipa": "/ˈkɜːrənsi/",
+      "pos": "nom",
+      "fr": "monnaie, devise",
+      "def": "The system of money used in a particular country.",
+      "examples": [
+        {
+          "en": "Prices are shown in the local **currency**.",
+          "fr": "Les prix sont indiqués dans la monnaie locale."
+        },
+        {
+          "en": "You can exchange **currency** at the airport.",
+          "fr": "Vous pouvez changer des devises à l’aéroport."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**exchange rate** = taux de change."
+      }
+    },
+    {
+      "word": "financial statement",
+      "ipa": "/faɪˈnænʃəl ˈsteɪtmənt/",
+      "pos": "nom",
+      "fr": "état financier, relevé",
+      "def": "An official document showing a company’s financial situation.",
+      "examples": [
+        {
+          "en": "The **financial statements** are published every quarter.",
+          "fr": "Les états financiers sont publiés chaque trimestre."
+        },
+        {
+          "en": "The bank asked to see our latest **financial statement**.",
+          "fr": "La banque a demandé à voir notre dernier état financier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**bank statement** = relevé de compte bancaire."
+      }
+    },
+    {
+      "word": "cost-effective",
+      "ipa": "/ˌkɔːst ɪˈfektɪv/",
+      "pos": "adjectif",
+      "fr": "rentable, économique",
+      "def": "Giving good results for the amount of money spent.",
+      "examples": [
+        {
+          "en": "Online advertising is a **cost-effective** way to reach customers.",
+          "fr": "La publicité en ligne est un moyen économique de toucher les clients."
+        },
+        {
+          "en": "We need a more **cost-effective** shipping solution.",
+          "fr": "Il nous faut une solution d’expédition plus rentable."
+        }
+      ]
+    },
+    {
+      "word": "allocate",
+      "ipa": "/ˈæləkeɪt/",
+      "pos": "verbe",
+      "fr": "allouer, attribuer",
+      "def": "To give an amount of money or resources for a particular purpose.",
+      "examples": [
+        {
+          "en": "The government **allocated** $2 million to the project.",
+          "fr": "Le gouvernement a alloué 2 millions de dollars au projet."
+        },
+        {
+          "en": "Each team is **allocated** a budget at the start of the year.",
+          "fr": "Chaque équipe se voit attribuer un budget en début d’année."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **allocation**. Construction : **allocate something to/for**."
+      }
+    },
+    {
+      "word": "funds",
+      "ipa": "/fʌndz/",
+      "pos": "nom",
+      "fr": "fonds, capitaux",
+      "def": "Money that is available to be spent for a purpose.",
+      "examples": [
+        {
+          "en": "The charity is raising **funds** for a new hospital wing.",
+          "fr": "L’association collecte des fonds pour une nouvelle aile d’hôpital."
+        },
+        {
+          "en": "Due to a lack of **funds**, the project was canceled.",
+          "fr": "Faute de fonds, le projet a été annulé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe **fund** = financer : the project is **funded** by a grant."
+      }
+    },
+    {
+      "word": "overhead",
+      "ipa": "/ˈoʊvərhed/",
+      "pos": "nom",
+      "fr": "frais généraux",
+      "def": "The regular costs of running a business, such as rent and electricity.",
+      "examples": [
+        {
+          "en": "Moving to a smaller office will reduce our **overhead**.",
+          "fr": "Déménager dans un bureau plus petit réduira nos frais généraux."
+        },
+        {
+          "en": "High **overhead** costs are affecting profits.",
+          "fr": "Des frais généraux élevés pèsent sur les bénéfices."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **overheads**. Adjectif : **overhead compartment** (compartiment à bagages)."
+      }
+    },
+    {
+      "word": "earnings",
+      "ipa": "/ˈɜːrnɪŋz/",
+      "pos": "nom pluriel",
+      "fr": "bénéfices, revenus",
+      "def": "The profit of a company, or the money a person earns.",
+      "examples": [
+        {
+          "en": "The company’s **earnings** exceeded analysts’ expectations.",
+          "fr": "Les bénéfices de l’entreprise ont dépassé les attentes des analystes."
+        },
+        {
+          "en": "Quarterly **earnings** will be released on Tuesday.",
+          "fr": "Les résultats trimestriels seront publiés mardi."
+        }
+      ]
+    },
+    {
+      "word": "merger",
+      "ipa": "/ˈmɜːrdʒər/",
+      "pos": "nom",
+      "fr": "fusion",
+      "def": "The joining of two companies into one.",
+      "examples": [
+        {
+          "en": "The **merger** will create the largest bank in the region.",
+          "fr": "La fusion donnera naissance à la plus grande banque de la région."
+        },
+        {
+          "en": "Employees were informed of the **merger** yesterday.",
+          "fr": "Les employés ont été informés de la fusion hier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **merge with**. Proche : **acquisition** (rachat)."
+      }
+    },
+    {
+      "word": "acquisition",
+      "ipa": "/ˌækwɪˈzɪʃən/",
+      "pos": "nom",
+      "fr": "acquisition, rachat",
+      "def": "The act of buying another company or a large asset.",
+      "examples": [
+        {
+          "en": "The **acquisition** of the software firm was completed in May.",
+          "fr": "Le rachat de l’éditeur de logiciels a été finalisé en mai."
+        },
+        {
+          "en": "The company plans further **acquisitions** in Asia.",
+          "fr": "L’entreprise prévoit d’autres acquisitions en Asie."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **acquire**."
+      }
+    },
+    {
+      "word": "tax",
+      "ipa": "/tæks/",
+      "pos": "nom",
+      "fr": "impôt, taxe",
+      "def": "Money paid to the government, based on income, sales or property.",
+      "examples": [
+        {
+          "en": "All prices include sales **tax**.",
+          "fr": "Tous les prix incluent la taxe sur les ventes."
+        },
+        {
+          "en": "The new law will lower **taxes** for small businesses.",
+          "fr": "La nouvelle loi réduira les impôts des petites entreprises."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**tax return** = déclaration de revenus ; **tax-free** = exonéré d’impôts."
+      }
+    },
+    {
+      "word": "deduct",
+      "ipa": "/dɪˈdʌkt/",
+      "pos": "verbe",
+      "fr": "déduire, prélever",
+      "def": "To take away an amount from a total.",
+      "examples": [
+        {
+          "en": "The cost of the uniform will be **deducted** from your first paycheck.",
+          "fr": "Le coût de l’uniforme sera déduit de votre première paie."
+        },
+        {
+          "en": "A 10 percent fee is **deducted** from each payment.",
+          "fr": "Des frais de 10 % sont prélevés sur chaque paiement."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **deduction**."
+      }
+    },
+    {
+      "word": "bankrupt",
+      "ipa": "/ˈbæŋkrʌpt/",
+      "pos": "adjectif",
+      "fr": "en faillite",
+      "def": "Unable to pay debts, and officially declared so by a court.",
+      "examples": [
+        {
+          "en": "The retailer went **bankrupt** after years of falling sales.",
+          "fr": "L’enseigne a fait faillite après des années de baisse des ventes."
+        },
+        {
+          "en": "Several suppliers were affected when the company went **bankrupt**.",
+          "fr": "Plusieurs fournisseurs ont été touchés par la faillite de l’entreprise."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **bankruptcy** (faillite)."
+      }
+    },
+    {
+      "word": "financial",
+      "ipa": "/faɪˈnænʃəl/",
+      "pos": "adjectif",
+      "fr": "financier",
+      "def": "Relating to money or how money is managed.",
+      "examples": [
+        {
+          "en": "The company is in a strong **financial** position.",
+          "fr": "L’entreprise est dans une situation financière solide."
+        },
+        {
+          "en": "She hired a **financial** advisor to plan her retirement.",
+          "fr": "Elle a engagé un conseiller financier pour préparer sa retraite."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adverbe : **financially**. Verbe : **finance** (financer)."
+      }
+    },
+    {
+      "word": "spreadsheet",
+      "ipa": "/ˈspredʃiːt/",
+      "pos": "nom",
+      "fr": "tableur, feuille de calcul",
+      "def": "A computer document that organizes numbers in rows and columns.",
+      "examples": [
+        {
+          "en": "I’ve updated the **spreadsheet** with this month’s figures.",
+          "fr": "J’ai mis à jour le tableur avec les chiffres de ce mois-ci."
+        },
+        {
+          "en": "The budget is tracked in a shared **spreadsheet**.",
+          "fr": "Le budget est suivi dans une feuille de calcul partagée."
+        }
+      ]
+    },
+    {
+      "word": "figures",
+      "ipa": "/ˈfɪɡjərz/",
+      "pos": "nom pluriel",
+      "fr": "chiffres",
+      "def": "Numbers, especially official data about amounts or results.",
+      "examples": [
+        {
+          "en": "The sales **figures** for May were disappointing.",
+          "fr": "Les chiffres de ventes de mai ont été décevants."
+        },
+        {
+          "en": "Please double-check these **figures** before the meeting.",
+          "fr": "Merci de revérifier ces chiffres avant la réunion."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**figure** ne veut pas dire « visage » en anglais (visage = **face**)."
+      }
+    },
+    {
+      "word": "fee",
+      "ipa": "/fiː/",
+      "pos": "nom",
+      "fr": "frais, honoraires, cotisation",
+      "def": "An amount of money paid for a service or to join something.",
+      "examples": [
+        {
+          "en": "There is no **fee** for opening an account.",
+          "fr": "L’ouverture d’un compte est gratuite."
+        },
+        {
+          "en": "The consultant’s **fees** are paid by the hour.",
+          "fr": "Les honoraires du consultant sont payés à l’heure."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**registration fee** = frais d’inscription ; **late fee** = pénalité de retard."
+      }
+    },
+    {
+      "word": "statement",
+      "ipa": "/ˈsteɪtmənt/",
+      "pos": "nom",
+      "fr": "déclaration ; relevé (de compte)",
+      "def": "A written or spoken announcement; also a document listing account activity.",
+      "examples": [
+        {
+          "en": "The CEO issued a **statement** about the recall.",
+          "fr": "Le PDG a publié un communiqué au sujet du rappel de produits."
+        },
+        {
+          "en": "Your monthly **statement** is available online.",
+          "fr": "Votre relevé mensuel est disponible en ligne."
+        }
+      ]
+    },
+    {
+      "word": "lucrative",
+      "ipa": "/ˈluːkrətɪv/",
+      "pos": "adjectif",
+      "fr": "lucratif, rentable",
+      "def": "Producing a lot of money.",
+      "examples": [
+        {
+          "en": "The firm won a **lucrative** contract with the city.",
+          "fr": "L’entreprise a remporté un contrat lucratif avec la ville."
+        },
+        {
+          "en": "Online sales have become a **lucrative** market.",
+          "fr": "La vente en ligne est devenue un marché lucratif."
+        }
+      ]
+    }
+  ]
+}

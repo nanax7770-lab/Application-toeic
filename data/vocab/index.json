@@ -1,0 +1,23 @@
+{
+  "decks": [
+    "bureau.json",
+    "reunions.json",
+    "rh.json",
+    "finance.json",
+    "marketing.json",
+    "voyages.json",
+    "restaurants.json",
+    "logement.json",
+    "sante.json",
+    "technologie.json",
+    "production.json",
+    "transport.json",
+    "juridique.json",
+    "phrasal.json",
+    "idiomes.json",
+    "fauxamis.json",
+    "confondus.json",
+    "prepositions.json",
+    "collocations.json"
+  ]
+}

@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F2F2F7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="TOEIC 990">
+<meta name="description" content="Préparer le TOEIC : flashcards à répétition espacée, vocabulaire professionnel, audio US, UK et AU.">
+<title>TOEIC 990</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- Icônes fines (tracés Lucide, style SF Symbols) -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+  <symbol id="i-house" viewBox="0 0 24 24"><path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/><path d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></symbol>
+  <symbol id="i-layers" viewBox="0 0 24 24"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83Z"/><path d="m22 17.65-9.17 4.16a2 2 0 0 1-1.66 0L2 17.65"/><path d="m22 12.65-9.17 4.16a2 2 0 0 1-1.66 0L2 12.65"/></symbol>
+  <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></symbol>
+  <symbol id="i-timer" viewBox="0 0 24 24"><line x1="10" x2="14" y1="2" y2="2"/><line x1="12" x2="15" y1="14" y2="11"/><circle cx="12" cy="14" r="8"/></symbol>
+  <symbol id="i-chart" viewBox="0 0 24 24"><path d="M3 3v16a2 2 0 0 0 2 2h16"/><path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/></symbol>
+  <symbol id="i-chev-r" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></symbol>
+  <symbol id="i-chev-l" viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></symbol>
+  <symbol id="i-flame" viewBox="0 0 24 24"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></symbol>
+  <symbol id="i-vol" viewBox="0 0 24 24"><path d="M11 4.702a.705.705 0 0 0-1.203-.498L6.413 7.587A1.4 1.4 0 0 1 5.416 8H3a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h2.416a1.4 1.4 0 0 1 .997.413l3.383 3.384A.705.705 0 0 0 11 19.298z"/><path d="M16 9a5 5 0 0 1 0 6"/><path d="M19.364 18.364a9 9 0 0 0 0-12.728"/></symbol>
+  <symbol id="i-more" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><circle cx="7.5" cy="12" r=".6"/><circle cx="12" cy="12" r=".6"/><circle cx="16.5" cy="12" r=".6"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></symbol>
+  <symbol id="i-x-circle" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 7v14"/><path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/></symbol>
+  <symbol id="i-rotate" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></symbol>
+  <symbol id="i-headphones" viewBox="0 0 24 24"><path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"/></symbol>
+  <symbol id="i-alert" viewBox="0 0 24 24"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"/><path d="M12 9v4"/><path d="M12 17h.01"/></symbol>
+  <symbol id="i-bulb" viewBox="0 0 24 24"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><path d="M9 18h6"/><path d="M10 22h4"/></symbol>
+  <symbol id="i-user" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M20 21a8 8 0 0 0-16 0"/></symbol>
+  <symbol id="i-zap" viewBox="0 0 24 24"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="M12 5v14"/></symbol>
+  <symbol id="i-minus" viewBox="0 0 24 24"><path d="M5 12h14"/></symbol>
+  <symbol id="i-download" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/></symbol>
+  <symbol id="i-upload" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" x2="12" y1="3" y2="15"/></symbol>
+  <symbol id="i-trash" viewBox="0 0 24 24"><path d="M3 6h18"/><path d="M19 6v14c0 1-1 2-2 2H7c-1 0-2-1-2-2V6"/><path d="M8 6V4c0-1 1-2 2-2h4c1 0 2 1 2 2v2"/></symbol>
+  <symbol id="i-award" viewBox="0 0 24 24"><path d="m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.526"/><circle cx="12" cy="8" r="6"/></symbol>
+</defs></svg>
+
+<div id="app">
+  <div class="boot" id="boot">Chargement…</div>
+
+  <!-- ============ ACCUEIL ============ -->
+  <section class="page root active" data-page="home" data-title="Accueil">
+    <header class="nav"><div class="nav-inner"><div></div><div class="nav-title">Aujourd’hui</div><div class="nav-right"></div></div></header>
+    <main class="scroll">
+      <div class="lt">
+        <div><p class="eyebrow" id="today-date"></p><h1 class="large-title">Aujourd’hui</h1></div>
+        <button class="avatar" data-action="settings" aria-label="Réglages"><svg class="ic"><use href="#i-user"/></svg></button>
+      </div>
+      <div id="home"></div>
+    </main>
+  </section>
+
+  <!-- ============ CARTES ============ -->
+  <section class="page root" data-page="cards" data-title="Cartes">
+    <header class="nav"><div class="nav-inner"><div></div><div class="nav-title">Cartes</div><div class="nav-right"></div></div></header>
+    <main class="scroll">
+      <div class="lt"><h1 class="large-title">Cartes</h1></div>
+      <label class="search">
+        <svg class="ic"><use href="#i-search"/></svg>
+        <input id="search" type="search" placeholder="Rechercher un mot (anglais ou français)" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+        <button class="search-clear" id="search-clear" hidden aria-label="Effacer"><svg class="ic"><use href="#i-x-circle"/></svg></button>
+      </label>
+      <div id="search-results" hidden></div>
+      <div id="decks"></div>
+    </main>
+  </section>
+
+  <!-- ============ ENTRAÎNEMENT ============ -->
+  <section class="page root" data-page="train" data-title="Entraînement">
+    <header class="nav"><div class="nav-inner"><div></div><div class="nav-title">Entraînement</div><div class="nav-right"></div></div></header>
+    <main class="scroll">
+      <div class="lt"><h1 class="large-title">Entraînement</h1></div>
+      <div id="train"></div>
+    </main>
+  </section>
+
+  <!-- ============ EXAMENS ============ -->
+  <section class="page root" data-page="exams" data-title="Examens">
+    <header class="nav"><div class="nav-inner"><div></div><div class="nav-title">Examens</div><div class="nav-right"></div></div></header>
+    <main class="scroll">
+      <div class="lt"><h1 class="large-title">Examens</h1></div>
+      <div id="exams"></div>
+    </main>
+  </section>
+
+  <!-- ============ PROGRÈS ============ -->
+  <section class="page root" data-page="stats" data-title="Progrès">
+    <header class="nav"><div class="nav-inner"><div></div><div class="nav-title">Progrès</div><div class="nav-right"></div></div></header>
+    <main class="scroll">
+      <div class="lt"><h1 class="large-title">Progrès</h1></div>
+      <div id="stats"></div>
+    </main>
+  </section>
+
+  <!-- ============ PAGE D'UN PAQUET ============ -->
+  <section class="page pushed" data-page="deck" data-title="Paquet">
+    <header class="nav"><div class="nav-inner">
+      <button class="nav-back" data-pop><svg class="ic"><use href="#i-chev-l"/></svg><span class="back-label">Cartes</span></button>
+      <div class="nav-title" id="deck-nav-title"></div><div class="nav-right"></div>
+    </div></header>
+    <main class="scroll"><div id="deck"></div></main>
+  </section>
+
+  <!-- ============ SESSION DE FLASHCARDS ============ -->
+  <section class="page pushed" data-page="flash" data-title="Session">
+    <header class="nav always"><div class="nav-inner">
+      <button class="nav-back" data-pop><svg class="ic"><use href="#i-chev-l"/></svg><span class="back-label">Accueil</span></button>
+      <div class="nav-title" id="fc-title">Session</div>
+      <div class="nav-right"><button class="nav-btn" data-action="fc-options" aria-label="Options"><svg class="ic"><use href="#i-more"/></svg></button></div>
+    </div></header>
+    <div class="fc-body">
+      <div class="fc-progress"><div class="pbar"><i id="fc-bar"></i></div><span class="fc-count" id="fc-count"></span></div>
+      <div class="fc-stage">
+        <div class="fc-ghost" id="fc-ghost"></div>
+        <div class="fc-card" id="fc-card"></div>
+      </div>
+      <div class="fc-footer" id="fc-footer">
+        <div class="fc-pre">
+          <button class="btn primary" data-action="flip">Afficher la réponse</button>
+          <p class="fc-hint">Glissez → si vous saviez, ← sinon, ↑ si c’était difficile</p>
+        </div>
+        <div class="fc-answers">
+          <button class="ans again" data-ans="again"><span>Je ne savais pas</span><small id="ivl-again"></small></button>
+          <button class="ans hard" data-ans="hard"><span>Difficile</span><small id="ivl-hard"></small></button>
+          <button class="ans good" data-ans="good"><span>Je savais</span><small id="ivl-good"></small></button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Barre d’onglets -->
+  <nav class="tabbar" id="tabbar">
+    <button class="tab active" data-tab="home"><svg class="ic"><use href="#i-house"/></svg><span>Aujourd’hui</span></button>
+    <button class="tab" data-tab="cards"><svg class="ic"><use href="#i-layers"/></svg><span>Cartes</span></button>
+    <button class="tab" data-tab="train"><svg class="ic"><use href="#i-target"/></svg><span>Entraînement</span></button>
+    <button class="tab" data-tab="exams"><svg class="ic"><use href="#i-timer"/></svg><span>Examens</span></button>
+    <button class="tab" data-tab="stats"><svg class="ic"><use href="#i-chart"/></svg><span>Progrès</span></button>
+  </nav>
+
+  <div class="backdrop" id="backdrop"></div>
+  <div class="sheet" id="sheet" role="dialog" aria-modal="true"></div>
+  <div class="toast" id="toast" role="status"></div>
+  <input type="file" id="import-file" accept=".json,application/json" hidden>
+</div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

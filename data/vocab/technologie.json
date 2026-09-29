@@ -1,0 +1,743 @@
+{
+  "id": "technologie",
+  "name": "Technologie",
+  "short": "Technologie",
+  "group": "theme",
+  "description": "Informatique, logiciels, internet et support technique.",
+  "cards": [
+    {
+      "word": "software",
+      "ipa": "/ˈsɔːftwer/",
+      "pos": "nom",
+      "fr": "logiciel",
+      "def": "Programs used by a computer.",
+      "examples": [
+        {
+          "en": "The new accounting **software** will be installed on Monday.",
+          "fr": "Le nouveau logiciel de comptabilité sera installé lundi."
+        },
+        {
+          "en": "Please update your **software** regularly.",
+          "fr": "Merci de mettre à jour vos logiciels régulièrement."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Indénombrable : **a piece of software**, jamais « a software »."
+      }
+    },
+    {
+      "word": "hardware",
+      "ipa": "/ˈhɑːrdwer/",
+      "pos": "nom",
+      "fr": "matériel (informatique) ; quincaillerie",
+      "def": "The physical parts of a computer; also tools sold in a hardware store.",
+      "examples": [
+        {
+          "en": "The IT team replaced the old **hardware**.",
+          "fr": "L’équipe informatique a remplacé le vieux matériel."
+        },
+        {
+          "en": "You can buy screws at the **hardware** store.",
+          "fr": "Vous pouvez acheter des vis à la quincaillerie."
+        }
+      ]
+    },
+    {
+      "word": "install",
+      "ipa": "/ɪnˈstɔːl/",
+      "pos": "verbe",
+      "fr": "installer",
+      "def": "To put software or equipment in place so it can be used.",
+      "examples": [
+        {
+          "en": "A technician will **install** the new printer tomorrow.",
+          "fr": "Un technicien installera la nouvelle imprimante demain."
+        },
+        {
+          "en": "Please **install** the latest security update.",
+          "fr": "Merci d’installer la dernière mise à jour de sécurité."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **installation**."
+      }
+    },
+    {
+      "word": "system upgrade",
+      "ipa": "/ˈsɪstəm ˈʌpɡreɪd/",
+      "pos": "nom",
+      "fr": "mise à niveau (système)",
+      "def": "An improvement to a computer system or software.",
+      "examples": [
+        {
+          "en": "The **system upgrade** will take place this weekend.",
+          "fr": "La mise à niveau du système aura lieu ce week-end."
+        },
+        {
+          "en": "The **upgrade** includes faster processors.",
+          "fr": "La mise à niveau comprend des processeurs plus rapides."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi en voyage : surclassement."
+      }
+    },
+    {
+      "word": "password",
+      "ipa": "/ˈpæswɜːrd/",
+      "pos": "nom",
+      "fr": "mot de passe",
+      "def": "A secret word used to access a computer or account.",
+      "examples": [
+        {
+          "en": "Change your **password** every three months.",
+          "fr": "Changez votre mot de passe tous les trois mois."
+        },
+        {
+          "en": "I forgot my **password** and was locked out.",
+          "fr": "J’ai oublié mon mot de passe et mon compte a été bloqué."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**reset a password** = réinitialiser un mot de passe."
+      }
+    },
+    {
+      "word": "log in",
+      "ipa": "/lɔːɡ ɪn/",
+      "pos": "verbe à particule",
+      "fr": "se connecter",
+      "def": "To enter your name and password to use a computer system.",
+      "examples": [
+        {
+          "en": "**Log in** with your employee ID number.",
+          "fr": "Connectez-vous avec votre numéro d’employé."
+        },
+        {
+          "en": "I can’t **log in** to my email account.",
+          "fr": "Je n’arrive pas à me connecter à ma messagerie."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **log on**, **sign in**. Contraire : **log out**."
+      }
+    },
+    {
+      "word": "download",
+      "ipa": "/ˈdaʊnloʊd/",
+      "pos": "verbe, nom",
+      "fr": "télécharger ; téléchargement",
+      "def": "To copy files from the internet to your computer.",
+      "examples": [
+        {
+          "en": "You can **download** the form from our website.",
+          "fr": "Vous pouvez télécharger le formulaire sur notre site."
+        },
+        {
+          "en": "The **download** will take a few minutes.",
+          "fr": "Le téléchargement prendra quelques minutes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **upload** (envoyer en ligne)."
+      }
+    },
+    {
+      "word": "upload",
+      "ipa": "/ˈʌploʊd/",
+      "pos": "verbe",
+      "fr": "mettre en ligne, téléverser",
+      "def": "To send files from your computer to the internet.",
+      "examples": [
+        {
+          "en": "Please **upload** your documents before Friday.",
+          "fr": "Merci de mettre en ligne vos documents avant vendredi."
+        },
+        {
+          "en": "The video was **uploaded** yesterday.",
+          "fr": "La vidéo a été publiée hier."
+        }
+      ]
+    },
+    {
+      "word": "database",
+      "ipa": "/ˈdeɪtəbeɪs/",
+      "pos": "nom",
+      "fr": "base de données",
+      "def": "An organized collection of information stored on a computer.",
+      "examples": [
+        {
+          "en": "Customer details are stored in a secure **database**.",
+          "fr": "Les coordonnées des clients sont stockées dans une base de données sécurisée."
+        },
+        {
+          "en": "We need to update the **database**.",
+          "fr": "Nous devons mettre à jour la base de données."
+        }
+      ]
+    },
+    {
+      "word": "network",
+      "ipa": "/ˈnetwɜːrk/",
+      "pos": "nom, verbe",
+      "fr": "réseau ; réseauter",
+      "def": "A system of connected computers; or to meet people for professional contacts.",
+      "examples": [
+        {
+          "en": "The **network** will be down for maintenance tonight.",
+          "fr": "Le réseau sera coupé pour maintenance ce soir."
+        },
+        {
+          "en": "Conferences are a good place to **network**.",
+          "fr": "Les conférences sont un bon endroit pour développer son réseau."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **networking** (réseautage)."
+      }
+    },
+    {
+      "word": "technical support",
+      "ipa": "/ˈteknɪkəl səˈpɔːrt/",
+      "pos": "nom",
+      "fr": "assistance technique, support",
+      "def": "A service that helps users solve problems with technology.",
+      "examples": [
+        {
+          "en": "Contact **technical support** if the problem continues.",
+          "fr": "Contactez l’assistance technique si le problème persiste."
+        },
+        {
+          "en": "**Technical support** is available 24 hours a day.",
+          "fr": "Le support technique est disponible 24 h sur 24."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Abrégé : **tech support**. Le service : **IT department / help desk**."
+      }
+    },
+    {
+      "word": "malfunction",
+      "ipa": "/mælˈfʌŋkʃən/",
+      "pos": "nom, verbe",
+      "fr": "dysfonctionnement, panne ; mal fonctionner",
+      "def": "A failure to work correctly.",
+      "examples": [
+        {
+          "en": "A computer **malfunction** delayed all flights.",
+          "fr": "Une panne informatique a retardé tous les vols."
+        },
+        {
+          "en": "The scanner has been **malfunctioning** all week.",
+          "fr": "Le scanner fonctionne mal toute la semaine."
+        }
+      ]
+    },
+    {
+      "word": "out of order",
+      "ipa": "/aʊt əv ˈɔːrdər/",
+      "pos": "expression",
+      "fr": "en panne, hors service",
+      "def": "Not working (for a machine).",
+      "examples": [
+        {
+          "en": "The elevator is **out of order**.",
+          "fr": "L’ascenseur est en panne."
+        },
+        {
+          "en": "The vending machine has been **out of order** since Monday.",
+          "fr": "Le distributeur est hors service depuis lundi."
+        }
+      ]
+    },
+    {
+      "word": "device",
+      "ipa": "/dɪˈvaɪs/",
+      "pos": "nom",
+      "fr": "appareil",
+      "def": "A machine or tool made for a particular purpose, such as a phone or tablet.",
+      "examples": [
+        {
+          "en": "Please turn off all electronic **devices**.",
+          "fr": "Merci d’éteindre tous les appareils électroniques."
+        },
+        {
+          "en": "The app works on any mobile **device**.",
+          "fr": "L’application fonctionne sur tous les appareils mobiles."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : un « devis » se dit **estimate** ou **quote**."
+      }
+    },
+    {
+      "word": "user-friendly",
+      "ipa": "/ˌjuːzər ˈfrendli/",
+      "pos": "adjectif",
+      "fr": "facile à utiliser, convivial",
+      "def": "Easy for people to use.",
+      "examples": [
+        {
+          "en": "The new website is much more **user-friendly**.",
+          "fr": "Le nouveau site est beaucoup plus facile à utiliser."
+        },
+        {
+          "en": "We chose this software because it is **user-friendly**.",
+          "fr": "Nous avons choisi ce logiciel parce qu’il est simple d’utilisation."
+        }
+      ]
+    },
+    {
+      "word": "cutting-edge",
+      "ipa": "/ˌkʌtɪŋ ˈedʒ/",
+      "pos": "adjectif",
+      "fr": "de pointe, dernier cri",
+      "def": "The most modern and advanced.",
+      "examples": [
+        {
+          "en": "The lab uses **cutting-edge** technology.",
+          "fr": "Le laboratoire utilise une technologie de pointe."
+        },
+        {
+          "en": "The company is known for its **cutting-edge** designs.",
+          "fr": "L’entreprise est réputée pour ses designs avant-gardistes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **state-of-the-art**, **advanced**."
+      }
+    },
+    {
+      "word": "state-of-the-art",
+      "ipa": "/ˌsteɪt əv ði ˈɑːrt/",
+      "pos": "adjectif",
+      "fr": "ultramoderne, dernier cri",
+      "def": "Using the newest ideas and methods.",
+      "examples": [
+        {
+          "en": "The hospital has **state-of-the-art** equipment.",
+          "fr": "L’hôpital dispose d’équipements ultramodernes."
+        },
+        {
+          "en": "Our new factory is **state-of-the-art**.",
+          "fr": "Notre nouvelle usine est à la pointe de la technologie."
+        }
+      ]
+    },
+    {
+      "word": "innovation",
+      "ipa": "/ˌɪnəˈveɪʃən/",
+      "pos": "nom",
+      "fr": "innovation",
+      "def": "A new idea, method or product.",
+      "examples": [
+        {
+          "en": "The company won an award for **innovation**.",
+          "fr": "L’entreprise a reçu un prix de l’innovation."
+        },
+        {
+          "en": "Technological **innovations** have changed the industry.",
+          "fr": "Les innovations technologiques ont transformé le secteur."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **innovative**."
+      }
+    },
+    {
+      "word": "backup",
+      "ipa": "/ˈbækʌp/",
+      "pos": "nom",
+      "fr": "sauvegarde ; renfort",
+      "def": "A copy of files kept in case the originals are lost; or extra support.",
+      "examples": [
+        {
+          "en": "Make a **backup** of your files every week.",
+          "fr": "Faites une sauvegarde de vos fichiers chaque semaine."
+        },
+        {
+          "en": "We have a **backup** generator in case of power failure.",
+          "fr": "Nous avons un générateur de secours en cas de coupure de courant."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe à particule : **back up** files."
+      }
+    },
+    {
+      "word": "encrypt",
+      "ipa": "/ɪnˈkrɪpt/",
+      "pos": "verbe",
+      "fr": "chiffrer, crypter",
+      "def": "To change information into a code so others cannot read it.",
+      "examples": [
+        {
+          "en": "All payment data is **encrypted**.",
+          "fr": "Toutes les données de paiement sont chiffrées."
+        },
+        {
+          "en": "Please **encrypt** files that contain personal information.",
+          "fr": "Merci de chiffrer les fichiers contenant des informations personnelles."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **encryption**."
+      }
+    },
+    {
+      "word": "browser",
+      "ipa": "/ˈbraʊzər/",
+      "pos": "nom",
+      "fr": "navigateur",
+      "def": "A program used to view websites.",
+      "examples": [
+        {
+          "en": "Clear your **browser** history if the page doesn’t load.",
+          "fr": "Videz l’historique de votre navigateur si la page ne se charge pas."
+        },
+        {
+          "en": "The site works best in a recent **browser**.",
+          "fr": "Le site fonctionne mieux dans un navigateur récent."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **browse** (naviguer, parcourir, flâner)."
+      }
+    },
+    {
+      "word": "compatible",
+      "ipa": "/kəmˈpætəbəl/",
+      "pos": "adjectif",
+      "fr": "compatible",
+      "def": "Able to be used together with another system or device.",
+      "examples": [
+        {
+          "en": "The app is **compatible** with both iPhone and Android.",
+          "fr": "L’application est compatible avec iPhone et Android."
+        },
+        {
+          "en": "Is this charger **compatible** with my laptop?",
+          "fr": "Ce chargeur est-il compatible avec mon ordinateur portable ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **compatibility**."
+      }
+    },
+    {
+      "word": "troubleshoot",
+      "ipa": "/ˈtrʌbəlʃuːt/",
+      "pos": "verbe",
+      "fr": "dépanner, diagnostiquer",
+      "def": "To find and solve problems in a system or machine.",
+      "examples": [
+        {
+          "en": "The IT team is **troubleshooting** the network issue.",
+          "fr": "L’équipe informatique cherche l’origine du problème de réseau."
+        },
+        {
+          "en": "This guide explains how to **troubleshoot** common errors.",
+          "fr": "Ce guide explique comment résoudre les erreurs courantes."
+        }
+      ]
+    },
+    {
+      "word": "bug",
+      "ipa": "/bʌɡ/",
+      "pos": "nom",
+      "fr": "bogue, erreur",
+      "def": "An error in a computer program.",
+      "examples": [
+        {
+          "en": "The developers fixed the **bug** in the latest version.",
+          "fr": "Les développeurs ont corrigé le bogue dans la dernière version."
+        },
+        {
+          "en": "A software **bug** caused the system to crash.",
+          "fr": "Un bogue logiciel a fait planter le système."
+        }
+      ]
+    },
+    {
+      "word": "crash",
+      "ipa": "/kræʃ/",
+      "pos": "verbe, nom",
+      "fr": "planter ; plantage",
+      "def": "To suddenly stop working (for a computer).",
+      "examples": [
+        {
+          "en": "My computer **crashed** and I lost my work.",
+          "fr": "Mon ordinateur a planté et j’ai perdu mon travail."
+        },
+        {
+          "en": "The website **crash** lasted two hours.",
+          "fr": "La panne du site a duré deux heures."
+        }
+      ]
+    },
+    {
+      "word": "wireless",
+      "ipa": "/ˈwaɪərləs/",
+      "pos": "adjectif",
+      "fr": "sans fil",
+      "def": "Using radio signals instead of wires.",
+      "examples": [
+        {
+          "en": "**Wireless** internet access is available throughout the hotel.",
+          "fr": "L’accès internet sans fil est disponible dans tout l’hôtel."
+        },
+        {
+          "en": "I bought a **wireless** mouse.",
+          "fr": "J’ai acheté une souris sans fil."
+        }
+      ]
+    },
+    {
+      "word": "storage",
+      "ipa": "/ˈstɔːrɪdʒ/",
+      "pos": "nom",
+      "fr": "stockage, rangement",
+      "def": "Space for keeping data or objects.",
+      "examples": [
+        {
+          "en": "The phone has 256 GB of **storage**.",
+          "fr": "Le téléphone dispose de 256 Go de stockage."
+        },
+        {
+          "en": "The boxes are kept in a **storage** room.",
+          "fr": "Les cartons sont gardés dans un local de rangement."
+        }
+      ]
+    },
+    {
+      "word": "screen",
+      "ipa": "/skriːn/",
+      "pos": "nom, verbe",
+      "fr": "écran ; filtrer, présélectionner",
+      "def": "The flat surface of a computer or TV; or to check people or things to choose some.",
+      "examples": [
+        {
+          "en": "The **screen** on my laptop is cracked.",
+          "fr": "L’écran de mon ordinateur portable est fissuré."
+        },
+        {
+          "en": "All applicants are **screened** before the interview.",
+          "fr": "Tous les candidats sont présélectionnés avant l’entretien."
+        }
+      ]
+    },
+    {
+      "word": "keyboard",
+      "ipa": "/ˈkiːbɔːrd/",
+      "pos": "nom",
+      "fr": "clavier",
+      "def": "The set of keys used to type on a computer.",
+      "examples": [
+        {
+          "en": "The man is typing on a **keyboard**.",
+          "fr": "L’homme tape sur un clavier."
+        },
+        {
+          "en": "Please do not eat near the **keyboards**.",
+          "fr": "Merci de ne pas manger près des claviers."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Scène fréquente en Partie 1."
+      }
+    },
+    {
+      "word": "cloud",
+      "ipa": "/klaʊd/",
+      "pos": "nom",
+      "fr": "nuage ; le cloud (stockage en ligne)",
+      "def": "Internet servers used to store data and run programs.",
+      "examples": [
+        {
+          "en": "All documents are saved in the **cloud**.",
+          "fr": "Tous les documents sont enregistrés dans le cloud."
+        },
+        {
+          "en": "**Cloud** storage allows you to work from anywhere.",
+          "fr": "Le stockage en ligne vous permet de travailler de n’importe où."
+        }
+      ]
+    },
+    {
+      "word": "automate",
+      "ipa": "/ˈɔːtəmeɪt/",
+      "pos": "verbe",
+      "fr": "automatiser",
+      "def": "To make a process work by machine without people.",
+      "examples": [
+        {
+          "en": "We have **automated** the billing process.",
+          "fr": "Nous avons automatisé le processus de facturation."
+        },
+        {
+          "en": "Many factory tasks are now **automated**.",
+          "fr": "De nombreuses tâches en usine sont désormais automatisées."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **automation**."
+      }
+    },
+    {
+      "word": "access",
+      "ipa": "/ˈækses/",
+      "pos": "nom, verbe",
+      "fr": "accès ; accéder à",
+      "def": "The right or ability to use or enter something.",
+      "examples": [
+        {
+          "en": "Employees have **access** to the shared drive.",
+          "fr": "Les employés ont accès au disque partagé."
+        },
+        {
+          "en": "You can **access** your account from any computer.",
+          "fr": "Vous pouvez accéder à votre compte depuis n’importe quel ordinateur."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Verbe sans préposition : **access a file**. Nom : **access to**."
+      }
+    },
+    {
+      "word": "functionality",
+      "ipa": "/ˌfʌŋkʃəˈnæləti/",
+      "pos": "nom",
+      "fr": "fonctionnalités",
+      "def": "The range of things a program or device can do.",
+      "examples": [
+        {
+          "en": "The latest version adds new **functionality** for sharing files.",
+          "fr": "La dernière version ajoute de nouvelles fonctionnalités de partage de fichiers."
+        },
+        {
+          "en": "Some **functionality** is only available to premium users.",
+          "fr": "Certaines fonctionnalités sont réservées aux utilisateurs premium."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Une fonction précise : **a feature**."
+      }
+    },
+    {
+      "word": "application",
+      "ipa": "/ˌæplɪˈkeɪʃən/",
+      "pos": "nom",
+      "fr": "application (logiciel) ; candidature",
+      "def": "A computer program; or a formal request for a job, loan, etc.",
+      "examples": [
+        {
+          "en": "Download our mobile **application** to track your order.",
+          "fr": "Téléchargez notre application mobile pour suivre votre commande."
+        },
+        {
+          "en": "Your **application** for the position has been received.",
+          "fr": "Votre candidature au poste a bien été reçue."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Deux sens très fréquents au TOEIC ! Abrégé pour le logiciel : **app**."
+      }
+    },
+    {
+      "word": "IT department",
+      "ipa": "/ˌaɪ ˈtiː dɪˈpɑːrtmənt/",
+      "pos": "nom",
+      "fr": "service informatique",
+      "def": "The department that manages computers and networks in a company.",
+      "examples": [
+        {
+          "en": "Contact the **IT department** if you need a new laptop.",
+          "fr": "Contactez le service informatique si vous avez besoin d’un nouvel ordinateur portable."
+        },
+        {
+          "en": "The **IT department** will be moving to the fourth floor.",
+          "fr": "Le service informatique va déménager au quatrième étage."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**IT** = information technology."
+      }
+    },
+    {
+      "word": "cybersecurity",
+      "ipa": "/ˌsaɪbərsɪˈkjʊrəti/",
+      "pos": "nom",
+      "fr": "cybersécurité",
+      "def": "The protection of computer systems from attacks.",
+      "examples": [
+        {
+          "en": "All employees must complete **cybersecurity** training.",
+          "fr": "Tous les employés doivent suivre une formation à la cybersécurité."
+        },
+        {
+          "en": "The bank invests heavily in **cybersecurity**.",
+          "fr": "La banque investit beaucoup dans la cybersécurité."
+        }
+      ]
+    },
+    {
+      "word": "glitch",
+      "ipa": "/ɡlɪtʃ/",
+      "pos": "nom",
+      "fr": "petit problème technique, bug",
+      "def": "A small technical problem.",
+      "examples": [
+        {
+          "en": "A **glitch** in the system caused billing errors.",
+          "fr": "Un problème technique dans le système a entraîné des erreurs de facturation."
+        },
+        {
+          "en": "We apologize for the technical **glitch**.",
+          "fr": "Nous vous prions d’excuser ce petit problème technique."
+        }
+      ]
+    },
+    {
+      "word": "specifications",
+      "ipa": "/ˌspesɪfɪˈkeɪʃənz/",
+      "pos": "nom pluriel",
+      "fr": "caractéristiques techniques, cahier des charges",
+      "def": "Detailed technical descriptions of a product.",
+      "examples": [
+        {
+          "en": "The product **specifications** are listed on the box.",
+          "fr": "Les caractéristiques techniques du produit sont indiquées sur la boîte."
+        },
+        {
+          "en": "The parts were made to the client’s **specifications**.",
+          "fr": "Les pièces ont été fabriquées selon le cahier des charges du client."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Abrégé : **specs**."
+      }
+    }
+  ]
+}

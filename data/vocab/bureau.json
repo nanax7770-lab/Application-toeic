@@ -1,0 +1,927 @@
+{
+  "id": "bureau",
+  "name": "Bureau et emails",
+  "short": "Bureau",
+  "group": "theme",
+  "description": "La vie au bureau et les e-mails professionnels, omniprésents en Partie 7.",
+  "cards": [
+    {
+      "word": "attachment",
+      "ipa": "/əˈtætʃmənt/",
+      "pos": "nom",
+      "fr": "pièce jointe",
+      "def": "A file sent together with an email.",
+      "examples": [
+        {
+          "en": "Please see the **attachment** for the full schedule.",
+          "fr": "Veuillez consulter la pièce jointe pour le planning complet."
+        },
+        {
+          "en": "The **attachment** was too large to open on my phone.",
+          "fr": "La pièce jointe était trop lourde pour s’ouvrir sur mon téléphone."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **attach** → « Please find **attached** the report » = Veuillez trouver ci-joint le rapport."
+      }
+    },
+    {
+      "word": "forward",
+      "ipa": "/ˈfɔːrwərd/",
+      "pos": "verbe",
+      "fr": "transférer, faire suivre",
+      "def": "To send an email or letter you have received to another person.",
+      "examples": [
+        {
+          "en": "Could you **forward** me the client’s message?",
+          "fr": "Pourriez-vous me transférer le message du client ?"
+        },
+        {
+          "en": "Our mail will be **forwarded** to the new address.",
+          "fr": "Notre courrier sera réexpédié à la nouvelle adresse."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**look forward to + -ing** = avoir hâte de (I look forward to hearing from you)."
+      }
+    },
+    {
+      "word": "recipient",
+      "ipa": "/rɪˈsɪpiənt/",
+      "pos": "nom",
+      "fr": "destinataire ; lauréat",
+      "def": "A person who receives something, such as an email or an award.",
+      "examples": [
+        {
+          "en": "Check the list of **recipients** before sending the message.",
+          "fr": "Vérifiez la liste des destinataires avant d’envoyer le message."
+        },
+        {
+          "en": "She was the **recipient** of this year’s leadership award.",
+          "fr": "Elle a été la lauréate du prix du leadership de cette année."
+        }
+      ]
+    },
+    {
+      "word": "memo",
+      "ipa": "/ˈmemoʊ/",
+      "pos": "nom",
+      "fr": "note de service",
+      "def": "A short written message sent to people within an organization.",
+      "examples": [
+        {
+          "en": "A **memo** was sent to all staff about the new parking rules.",
+          "fr": "Une note de service a été envoyée à tout le personnel sur les nouvelles règles de stationnement."
+        },
+        {
+          "en": "According to the **memo**, the office will close early on Friday.",
+          "fr": "D’après la note de service, le bureau fermera plus tôt vendredi."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Forme complète : **memorandum**."
+      }
+    },
+    {
+      "word": "stationery",
+      "ipa": "/ˈsteɪʃəneri/",
+      "pos": "nom",
+      "fr": "fournitures de bureau, papeterie",
+      "def": "Paper, envelopes, pens and other materials used for writing.",
+      "examples": [
+        {
+          "en": "Order more **stationery** before we run out of envelopes.",
+          "fr": "Commandez des fournitures avant que nous soyons à court d’enveloppes."
+        },
+        {
+          "en": "The company logo is printed on all our **stationery**.",
+          "fr": "Le logo de l’entreprise est imprimé sur toute notre papeterie."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Ne pas confondre avec **stationary** (immobile), qui se prononce pareil."
+      }
+    },
+    {
+      "word": "office supplies",
+      "ipa": "/ˈɔːfɪs səˌplaɪz/",
+      "pos": "nom pluriel",
+      "fr": "fournitures de bureau",
+      "def": "Items used in an office, such as paper, pens, folders and ink.",
+      "examples": [
+        {
+          "en": "**Office supplies** are kept in the cabinet near the printer.",
+          "fr": "Les fournitures de bureau sont rangées dans l’armoire près de l’imprimante."
+        },
+        {
+          "en": "Please submit your request for **office supplies** by Thursday.",
+          "fr": "Merci d’envoyer votre demande de fournitures avant jeudi."
+        }
+      ]
+    },
+    {
+      "word": "photocopier",
+      "ipa": "/ˈfoʊtoʊˌkɑːpiər/",
+      "pos": "nom",
+      "fr": "photocopieuse",
+      "def": "A machine that makes paper copies of documents.",
+      "examples": [
+        {
+          "en": "The **photocopier** on the third floor is out of order.",
+          "fr": "La photocopieuse du troisième étage est en panne."
+        },
+        {
+          "en": "A technician is coming to repair the **photocopier**.",
+          "fr": "Un technicien vient réparer la photocopieuse."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "On dit aussi **copier** ou **copy machine**. « Faire des copies » = **make copies**."
+      }
+    },
+    {
+      "word": "file",
+      "ipa": "/faɪl/",
+      "pos": "nom, verbe",
+      "fr": "dossier, fichier ; classer, déposer",
+      "def": "A collection of documents; or to store documents in order, or to submit officially.",
+      "examples": [
+        {
+          "en": "Please **file** these invoices in alphabetical order.",
+          "fr": "Merci de classer ces factures par ordre alphabétique."
+        },
+        {
+          "en": "The customer **filed** a complaint about the late delivery.",
+          "fr": "Le client a déposé une réclamation pour la livraison en retard."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**file a complaint / a report / a claim** = déposer une plainte / un rapport / une demande."
+      }
+    },
+    {
+      "word": "folder",
+      "ipa": "/ˈfoʊldər/",
+      "pos": "nom",
+      "fr": "chemise, classeur ; dossier (informatique)",
+      "def": "A folded cover for papers, or a place to store files on a computer.",
+      "examples": [
+        {
+          "en": "The contracts are in the blue **folder** on my desk.",
+          "fr": "Les contrats sont dans la chemise bleue sur mon bureau."
+        },
+        {
+          "en": "Save the photos in the shared **folder**.",
+          "fr": "Enregistrez les photos dans le dossier partagé."
+        }
+      ]
+    },
+    {
+      "word": "cubicle",
+      "ipa": "/ˈkjuːbɪkəl/",
+      "pos": "nom",
+      "fr": "box, poste de travail cloisonné",
+      "def": "A small work area separated by low walls in an open office.",
+      "examples": [
+        {
+          "en": "Each employee has a **cubicle** with a desk and a phone.",
+          "fr": "Chaque employé dispose d’un box avec un bureau et un téléphone."
+        },
+        {
+          "en": "The new hire will sit in the **cubicle** next to mine.",
+          "fr": "Le nouvel employé s’installera dans le box à côté du mien."
+        }
+      ]
+    },
+    {
+      "word": "extension",
+      "ipa": "/ɪkˈstenʃən/",
+      "pos": "nom",
+      "fr": "poste (téléphonique) ; prolongation",
+      "def": "A phone line inside an organization; or extra time given.",
+      "examples": [
+        {
+          "en": "You can reach me at **extension** 245.",
+          "fr": "Vous pouvez me joindre au poste 245."
+        },
+        {
+          "en": "We requested an **extension** on the project deadline.",
+          "fr": "Nous avons demandé une prolongation du délai du projet."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **extend** (prolonger)."
+      }
+    },
+    {
+      "word": "voicemail",
+      "ipa": "/ˈvɔɪsmeɪl/",
+      "pos": "nom",
+      "fr": "messagerie vocale, message vocal",
+      "def": "A system that records phone messages when no one answers.",
+      "examples": [
+        {
+          "en": "I left a **voicemail** for Mr. Ortiz this morning.",
+          "fr": "J’ai laissé un message vocal à M. Ortiz ce matin."
+        },
+        {
+          "en": "Please check your **voicemail** regularly.",
+          "fr": "Merci de consulter régulièrement votre messagerie vocale."
+        }
+      ]
+    },
+    {
+      "word": "correspondence",
+      "ipa": "/ˌkɔːrəˈspɑːndəns/",
+      "pos": "nom",
+      "fr": "correspondance, courrier",
+      "def": "Letters and emails sent and received.",
+      "examples": [
+        {
+          "en": "All **correspondence** should be addressed to the head office.",
+          "fr": "Tout courrier doit être adressé au siège."
+        },
+        {
+          "en": "She handles the director’s **correspondence**.",
+          "fr": "Elle gère la correspondance du directeur."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Indénombrable : pas de **s**."
+      }
+    },
+    {
+      "word": "enclosed",
+      "ipa": "/ɪnˈkloʊzd/",
+      "pos": "adjectif",
+      "fr": "ci-joint (dans une lettre)",
+      "def": "Included in the same envelope or package.",
+      "examples": [
+        {
+          "en": "**Enclosed** is a copy of the signed agreement.",
+          "fr": "Vous trouverez ci-joint une copie de l’accord signé."
+        },
+        {
+          "en": "Please return the **enclosed** form by May 15.",
+          "fr": "Merci de renvoyer le formulaire ci-joint avant le 15 mai."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**enclosed** pour une lettre papier, **attached** pour un e-mail."
+      }
+    },
+    {
+      "word": "letterhead",
+      "ipa": "/ˈletərhed/",
+      "pos": "nom",
+      "fr": "papier à en-tête",
+      "def": "Paper with a company’s name and address printed at the top.",
+      "examples": [
+        {
+          "en": "The offer must be printed on official **letterhead**.",
+          "fr": "L’offre doit être imprimée sur papier à en-tête officiel."
+        },
+        {
+          "en": "We are redesigning our **letterhead** with the new logo.",
+          "fr": "Nous refaisons notre papier à en-tête avec le nouveau logo."
+        }
+      ]
+    },
+    {
+      "word": "courier",
+      "ipa": "/ˈkʊriər/",
+      "pos": "nom",
+      "fr": "coursier, service de messagerie",
+      "def": "A person or company that delivers documents and packages quickly.",
+      "examples": [
+        {
+          "en": "The contracts were sent by **courier** this morning.",
+          "fr": "Les contrats ont été envoyés par coursier ce matin."
+        },
+        {
+          "en": "A **courier** will pick up the package at 3 p.m.",
+          "fr": "Un coursier récupérera le colis à 15 h."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Ne veut pas dire « courrier » (courrier = **mail**)."
+      }
+    },
+    {
+      "word": "notify",
+      "ipa": "/ˈnoʊtɪfaɪ/",
+      "pos": "verbe",
+      "fr": "informer, avertir",
+      "def": "To officially tell someone about something.",
+      "examples": [
+        {
+          "en": "Please **notify** us of any change of address.",
+          "fr": "Merci de nous informer de tout changement d’adresse."
+        },
+        {
+          "en": "Winners will be **notified** by email.",
+          "fr": "Les gagnants seront avertis par e-mail."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Construction : **notify someone of something**. Nom : **notification**."
+      }
+    },
+    {
+      "word": "inquiry",
+      "ipa": "/ˈɪnkwəri/",
+      "pos": "nom",
+      "fr": "demande de renseignements",
+      "def": "A question asked to get information.",
+      "examples": [
+        {
+          "en": "Thank you for your **inquiry** about our services.",
+          "fr": "Merci pour votre demande de renseignements sur nos services."
+        },
+        {
+          "en": "We receive hundreds of customer **inquiries** each week.",
+          "fr": "Nous recevons des centaines de demandes de clients chaque semaine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **inquire about**. Britannique : **enquiry**."
+      }
+    },
+    {
+      "word": "reminder",
+      "ipa": "/rɪˈmaɪndər/",
+      "pos": "nom",
+      "fr": "rappel",
+      "def": "A message that helps someone remember something.",
+      "examples": [
+        {
+          "en": "This is a friendly **reminder** that the report is due tomorrow.",
+          "fr": "Petit rappel : le rapport est à rendre demain."
+        },
+        {
+          "en": "I set a **reminder** on my phone for the meeting.",
+          "fr": "J’ai programmé un rappel sur mon téléphone pour la réunion."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **remind someone to do / of something**. ! **remind** ≠ **remember**."
+      }
+    },
+    {
+      "word": "acknowledge",
+      "ipa": "/əkˈnɑːlɪdʒ/",
+      "pos": "verbe",
+      "fr": "accuser réception ; reconnaître",
+      "def": "To confirm that you have received something; or to accept that something is true.",
+      "examples": [
+        {
+          "en": "Please **acknowledge** receipt of this letter.",
+          "fr": "Merci d’accuser réception de cette lettre."
+        },
+        {
+          "en": "The manager **acknowledged** that the deadline was too short.",
+          "fr": "Le responsable a reconnu que le délai était trop court."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **acknowledgment**."
+      }
+    },
+    {
+      "word": "regarding",
+      "ipa": "/rɪˈɡɑːrdɪŋ/",
+      "pos": "préposition",
+      "fr": "concernant, au sujet de",
+      "def": "About; on the subject of.",
+      "examples": [
+        {
+          "en": "I am writing **regarding** your recent order.",
+          "fr": "Je vous écris au sujet de votre récente commande."
+        },
+        {
+          "en": "Please contact HR with any questions **regarding** your benefits.",
+          "fr": "Contactez les RH pour toute question concernant vos avantages sociaux."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes TOEIC : **concerning**, **with regard to**, **as for**."
+      }
+    },
+    {
+      "word": "at your earliest convenience",
+      "ipa": "/æt jʊr ˈɜːrliəst kənˈviːniəns/",
+      "pos": "expression",
+      "fr": "dès que possible, dans les meilleurs délais",
+      "def": "As soon as you are able to (polite and formal).",
+      "examples": [
+        {
+          "en": "Please reply **at your earliest convenience**.",
+          "fr": "Merci de répondre dans les meilleurs délais."
+        },
+        {
+          "en": "Kindly return the signed form **at your earliest convenience**.",
+          "fr": "Merci de renvoyer le formulaire signé dès que possible."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Version courante : **as soon as possible (ASAP)**."
+      }
+    },
+    {
+      "word": "subject line",
+      "ipa": "/ˈsʌbdʒɪkt laɪn/",
+      "pos": "nom",
+      "fr": "objet (d’un e-mail)",
+      "def": "The short title of an email that tells what it is about.",
+      "examples": [
+        {
+          "en": "Write your order number in the **subject line**.",
+          "fr": "Indiquez votre numéro de commande dans l’objet de l’e-mail."
+        },
+        {
+          "en": "A clear **subject line** helps people prioritize their emails.",
+          "fr": "Un objet clair aide chacun à hiérarchiser ses e-mails."
+        }
+      ]
+    },
+    {
+      "word": "distribute",
+      "ipa": "/dɪˈstrɪbjuːt/",
+      "pos": "verbe",
+      "fr": "distribuer, diffuser",
+      "def": "To give or send something to several people.",
+      "examples": [
+        {
+          "en": "The agenda will be **distributed** before the meeting.",
+          "fr": "L’ordre du jour sera distribué avant la réunion."
+        },
+        {
+          "en": "Please **distribute** these flyers to all departments.",
+          "fr": "Merci de distribuer ces prospectus à tous les services."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **distribution** ; **distributor** = distributeur."
+      }
+    },
+    {
+      "word": "supervisor",
+      "ipa": "/ˈsuːpərvaɪzər/",
+      "pos": "nom",
+      "fr": "responsable, superviseur",
+      "def": "A person who manages workers or activities.",
+      "examples": [
+        {
+          "en": "Report any problem to your **supervisor**.",
+          "fr": "Signalez tout problème à votre responsable."
+        },
+        {
+          "en": "Her **supervisor** approved her vacation request.",
+          "fr": "Sa responsable a approuvé sa demande de congés."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **supervise**. Synonymes : **manager**, **boss**."
+      }
+    },
+    {
+      "word": "colleague",
+      "ipa": "/ˈkɑːliːɡ/",
+      "pos": "nom",
+      "fr": "collègue",
+      "def": "A person you work with.",
+      "examples": [
+        {
+          "en": "I’d like to introduce my **colleague**, Ms. Park.",
+          "fr": "J’aimerais vous présenter ma collègue, Mme Park."
+        },
+        {
+          "en": "He is well respected by his **colleagues**.",
+          "fr": "Il est très respecté par ses collègues."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **coworker**, **associate**."
+      }
+    },
+    {
+      "word": "assignment",
+      "ipa": "/əˈsaɪnmənt/",
+      "pos": "nom",
+      "fr": "mission, tâche",
+      "def": "A piece of work given to someone as part of their job.",
+      "examples": [
+        {
+          "en": "Her first **assignment** was to reorganize the archives.",
+          "fr": "Sa première mission a été de réorganiser les archives."
+        },
+        {
+          "en": "The reporter is on **assignment** in Tokyo.",
+          "fr": "Le journaliste est en reportage à Tokyo."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **assign someone to** (affecter quelqu’un à)."
+      }
+    },
+    {
+      "word": "workload",
+      "ipa": "/ˈwɜːrkloʊd/",
+      "pos": "nom",
+      "fr": "charge de travail",
+      "def": "The amount of work a person or team has to do.",
+      "examples": [
+        {
+          "en": "We hired two assistants to reduce the **workload**.",
+          "fr": "Nous avons embauché deux assistants pour réduire la charge de travail."
+        },
+        {
+          "en": "Her **workload** increases at the end of each quarter.",
+          "fr": "Sa charge de travail augmente à la fin de chaque trimestre."
+        }
+      ]
+    },
+    {
+      "word": "deadline",
+      "ipa": "/ˈdedlaɪn/",
+      "pos": "nom",
+      "fr": "date limite, échéance",
+      "def": "The latest time by which something must be done.",
+      "examples": [
+        {
+          "en": "The **deadline** for applications is June 30.",
+          "fr": "La date limite de candidature est le 30 juin."
+        },
+        {
+          "en": "We worked late to meet the **deadline**.",
+          "fr": "Nous avons travaillé tard pour respecter l’échéance."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**meet a deadline** = respecter ; **miss a deadline** = dépasser."
+      }
+    },
+    {
+      "word": "clerical",
+      "ipa": "/ˈklerɪkəl/",
+      "pos": "adjectif",
+      "fr": "administratif, de bureau",
+      "def": "Relating to office work such as typing and filing.",
+      "examples": [
+        {
+          "en": "The position involves mostly **clerical** tasks.",
+          "fr": "Le poste comporte surtout des tâches administratives."
+        },
+        {
+          "en": "A **clerical** error caused the delay in payment.",
+          "fr": "Une erreur administrative a causé le retard de paiement."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne : **clerk** (employé de bureau, guichetier)."
+      }
+    },
+    {
+      "word": "paperwork",
+      "ipa": "/ˈpeɪpərwɜːrk/",
+      "pos": "nom",
+      "fr": "formalités, papiers",
+      "def": "Documents and forms that must be completed.",
+      "examples": [
+        {
+          "en": "New employees must complete their **paperwork** on the first day.",
+          "fr": "Les nouveaux employés doivent remplir leurs formalités dès le premier jour."
+        },
+        {
+          "en": "The **paperwork** for the loan took two weeks.",
+          "fr": "Les démarches pour le prêt ont pris deux semaines."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Indénombrable."
+      }
+    },
+    {
+      "word": "filing cabinet",
+      "ipa": "/ˈfaɪlɪŋ ˌkæbɪnət/",
+      "pos": "nom",
+      "fr": "classeur (meuble)",
+      "def": "A piece of office furniture with drawers for storing documents.",
+      "examples": [
+        {
+          "en": "The old contracts are stored in the **filing cabinet**.",
+          "fr": "Les anciens contrats sont rangés dans le classeur."
+        },
+        {
+          "en": "Please lock the **filing cabinet** before you leave.",
+          "fr": "Merci de fermer le classeur à clé avant de partir."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Scène typique de la Partie 1 : « A woman is opening a drawer of a **filing cabinet**. »"
+      }
+    },
+    {
+      "word": "inbox",
+      "ipa": "/ˈɪnbɑːks/",
+      "pos": "nom",
+      "fr": "boîte de réception",
+      "def": "The place where new emails arrive.",
+      "examples": [
+        {
+          "en": "My **inbox** is full after the holiday.",
+          "fr": "Ma boîte de réception est pleine après les vacances."
+        },
+        {
+          "en": "Check your **inbox** for the confirmation email.",
+          "fr": "Vérifiez votre boîte de réception pour l’e-mail de confirmation."
+        }
+      ]
+    },
+    {
+      "word": "draft",
+      "ipa": "/dræft/",
+      "pos": "nom, verbe",
+      "fr": "brouillon, ébauche ; rédiger",
+      "def": "An early version of a document; or to write that version.",
+      "examples": [
+        {
+          "en": "I’ve attached a **draft** of the proposal for your review.",
+          "fr": "J’ai joint une ébauche de la proposition pour relecture."
+        },
+        {
+          "en": "Could you **draft** a reply to the client?",
+          "fr": "Pourriez-vous rédiger une réponse au client ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**final draft** = version définitive."
+      }
+    },
+    {
+      "word": "proofread",
+      "ipa": "/ˈpruːfriːd/",
+      "pos": "verbe",
+      "fr": "relire, corriger",
+      "def": "To read a text carefully to find and correct mistakes.",
+      "examples": [
+        {
+          "en": "Please **proofread** the brochure before it is printed.",
+          "fr": "Merci de relire la brochure avant son impression."
+        },
+        {
+          "en": "All reports are **proofread** by two editors.",
+          "fr": "Tous les rapports sont relus par deux correcteurs."
+        }
+      ]
+    },
+    {
+      "word": "revise",
+      "ipa": "/rɪˈvaɪz/",
+      "pos": "verbe",
+      "fr": "réviser, modifier",
+      "def": "To change a document or plan to improve or correct it.",
+      "examples": [
+        {
+          "en": "The schedule has been **revised** to include a lunch break.",
+          "fr": "Le programme a été modifié pour inclure une pause déjeuner."
+        },
+        {
+          "en": "Please send me the **revised** version by noon.",
+          "fr": "Merci de m’envoyer la version modifiée avant midi."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "En anglais, « réviser un examen » se dit plutôt **review** (US) ou **revise** (UK)."
+      }
+    },
+    {
+      "word": "approval",
+      "ipa": "/əˈpruːvəl/",
+      "pos": "nom",
+      "fr": "approbation, accord",
+      "def": "Official permission or agreement.",
+      "examples": [
+        {
+          "en": "The budget requires the director’s **approval**.",
+          "fr": "Le budget nécessite l’accord du directeur."
+        },
+        {
+          "en": "We are waiting for **approval** from the city.",
+          "fr": "Nous attendons l’autorisation de la ville."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **approve** (sans préposition pour autoriser : approve a plan)."
+      }
+    },
+    {
+      "word": "authorize",
+      "ipa": "/ˈɔːθəraɪz/",
+      "pos": "verbe",
+      "fr": "autoriser",
+      "def": "To give official permission for something.",
+      "examples": [
+        {
+          "en": "Only managers can **authorize** refunds.",
+          "fr": "Seuls les responsables peuvent autoriser les remboursements."
+        },
+        {
+          "en": "Access is restricted to **authorized** personnel.",
+          "fr": "L’accès est réservé au personnel autorisé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **authorization**."
+      }
+    },
+    {
+      "word": "on behalf of",
+      "ipa": "/ɑːn bɪˈhæf əv/",
+      "pos": "préposition",
+      "fr": "au nom de, de la part de",
+      "def": "As a representative of someone.",
+      "examples": [
+        {
+          "en": "I am writing **on behalf of** the entire team.",
+          "fr": "Je vous écris au nom de toute l’équipe."
+        },
+        {
+          "en": "She accepted the award **on behalf of** the company.",
+          "fr": "Elle a reçu le prix au nom de l’entreprise."
+        }
+      ]
+    },
+    {
+      "word": "in advance",
+      "ipa": "/ɪn ədˈvæns/",
+      "pos": "expression",
+      "fr": "à l’avance, par avance",
+      "def": "Before the time when something happens.",
+      "examples": [
+        {
+          "en": "Please register at least one week **in advance**.",
+          "fr": "Merci de vous inscrire au moins une semaine à l’avance."
+        },
+        {
+          "en": "Thank you **in advance** for your help.",
+          "fr": "Merci d’avance pour votre aide."
+        }
+      ]
+    },
+    {
+      "word": "follow up",
+      "ipa": "/ˈfɑːloʊ ʌp/",
+      "pos": "verbe à particule",
+      "fr": "assurer le suivi, relancer",
+      "def": "To contact someone again or take further action after something.",
+      "examples": [
+        {
+          "en": "I’m writing to **follow up** on our conversation last week.",
+          "fr": "Je vous écris pour faire suite à notre conversation de la semaine dernière."
+        },
+        {
+          "en": "Please **follow up** with the client tomorrow.",
+          "fr": "Merci de relancer le client demain."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **a follow-up** (un suivi, une relance)."
+      }
+    },
+    {
+      "word": "urgent",
+      "ipa": "/ˈɜːrdʒənt/",
+      "pos": "adjectif",
+      "fr": "urgent",
+      "def": "Needing attention immediately.",
+      "examples": [
+        {
+          "en": "This is an **urgent** matter that needs your attention.",
+          "fr": "C’est une affaire urgente qui requiert votre attention."
+        },
+        {
+          "en": "We need an **urgent** reply from the supplier.",
+          "fr": "Il nous faut une réponse urgente du fournisseur."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **urgency**."
+      }
+    },
+    {
+      "word": "promptly",
+      "ipa": "/ˈprɑːmptli/",
+      "pos": "adverbe",
+      "fr": "rapidement ; à l’heure pile",
+      "def": "Quickly and without delay; or exactly at the stated time.",
+      "examples": [
+        {
+          "en": "Thank you for responding so **promptly**.",
+          "fr": "Merci d’avoir répondu si rapidement."
+        },
+        {
+          "en": "The meeting will start **promptly** at 9 a.m.",
+          "fr": "La réunion commencera à 9 h précises."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **prompt** (rapide)."
+      }
+    },
+    {
+      "word": "receptionist",
+      "ipa": "/rɪˈsepʃənɪst/",
+      "pos": "nom",
+      "fr": "réceptionniste, standardiste",
+      "def": "A person who greets visitors and answers the phone.",
+      "examples": [
+        {
+          "en": "Please sign in with the **receptionist** when you arrive.",
+          "fr": "Merci de vous présenter à la réceptionniste à votre arrivée."
+        },
+        {
+          "en": "The **receptionist** will direct you to the conference room.",
+          "fr": "La réceptionniste vous indiquera la salle de conférence."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Le lieu : **reception desk** / **front desk**."
+      }
+    },
+    {
+      "word": "update",
+      "ipa": "/ˈʌpdeɪt/",
+      "pos": "nom, verbe",
+      "fr": "mise à jour, point ; mettre à jour",
+      "def": "New information about something; or to make something more current.",
+      "examples": [
+        {
+          "en": "I’ll give you an **update** on the project on Monday.",
+          "fr": "Je vous ferai un point sur le projet lundi."
+        },
+        {
+          "en": "Please **update** your contact details in the system.",
+          "fr": "Merci de mettre à jour vos coordonnées dans le système."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Le verbe s’accentue /ʌpˈdeɪt/."
+      }
+    },
+    {
+      "word": "confidential",
+      "ipa": "/ˌkɑːnfɪˈdenʃəl/",
+      "pos": "adjectif",
+      "fr": "confidentiel",
+      "def": "Intended to be kept secret.",
+      "examples": [
+        {
+          "en": "This information is strictly **confidential**.",
+          "fr": "Ces informations sont strictement confidentielles."
+        },
+        {
+          "en": "Salaries are kept **confidential**.",
+          "fr": "Les salaires restent confidentiels."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **confidentiality**."
+      }
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "id": "juridique",
+  "name": "Contrats et juridique",
+  "short": "Juridique",
+  "group": "theme",
+  "description": "Contrats, accords, règlements et négociations.",
+  "cards": [
+    {
+      "word": "contract",
+      "ipa": "/ˈkɑːntrækt/",
+      "pos": "nom",
+      "fr": "contrat",
+      "def": "A written legal agreement between people or companies.",
+      "examples": [
+        {
+          "en": "Please sign the **contract** and return it by Friday.",
+          "fr": "Merci de signer le contrat et de le renvoyer avant vendredi."
+        },
+        {
+          "en": "The company won a **contract** to build the new bridge.",
+          "fr": "L’entreprise a décroché un contrat pour construire le nouveau pont."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**renew a contract** = renouveler un contrat ; **terminate** = résilier."
+      }
+    },
+    {
+      "word": "agreement",
+      "ipa": "/əˈɡriːmənt/",
+      "pos": "nom",
+      "fr": "accord, contrat",
+      "def": "An arrangement between people or companies about what to do.",
+      "examples": [
+        {
+          "en": "Both parties signed the **agreement**.",
+          "fr": "Les deux parties ont signé l’accord."
+        },
+        {
+          "en": "We reached an **agreement** on the price.",
+          "fr": "Nous sommes parvenus à un accord sur le prix."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**in agreement with** = d’accord avec."
+      }
+    },
+    {
+      "word": "terms",
+      "ipa": "/tɜːrmz/",
+      "pos": "nom pluriel",
+      "fr": "conditions (d’un contrat)",
+      "def": "The conditions of an agreement.",
+      "examples": [
+        {
+          "en": "Please read the **terms** and conditions carefully.",
+          "fr": "Merci de lire attentivement les conditions générales."
+        },
+        {
+          "en": "The **terms** of the lease allow pets.",
+          "fr": "Les conditions du bail autorisent les animaux."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**payment terms** = conditions de paiement."
+      }
+    },
+    {
+      "word": "clause",
+      "ipa": "/klɔːz/",
+      "pos": "nom",
+      "fr": "clause",
+      "def": "A part of a legal document.",
+      "examples": [
+        {
+          "en": "The contract includes a confidentiality **clause**.",
+          "fr": "Le contrat comporte une clause de confidentialité."
+        },
+        {
+          "en": "Our lawyer asked us to remove the last **clause**.",
+          "fr": "Notre avocat nous a demandé de supprimer la dernière clause."
+        }
+      ]
+    },
+    {
+      "word": "negotiate",
+      "ipa": "/nɪˈɡoʊʃieɪt/",
+      "pos": "verbe",
+      "fr": "négocier",
+      "def": "To discuss something in order to reach an agreement.",
+      "examples": [
+        {
+          "en": "We are **negotiating** a new contract with the supplier.",
+          "fr": "Nous négocions un nouveau contrat avec le fournisseur."
+        },
+        {
+          "en": "She **negotiated** a lower price.",
+          "fr": "Elle a négocié un prix plus bas."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **negotiation** ; adjectif : **negotiable** (négociable)."
+      }
+    },
+    {
+      "word": "sign",
+      "ipa": "/saɪn/",
+      "pos": "verbe",
+      "fr": "signer",
+      "def": "To write your name on a document to show you agree.",
+      "examples": [
+        {
+          "en": "Please **sign** at the bottom of the page.",
+          "fr": "Merci de signer en bas de la page."
+        },
+        {
+          "en": "The deal was **signed** yesterday.",
+          "fr": "L’accord a été signé hier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **signature**. **sign up for** = s’inscrire à."
+      }
+    },
+    {
+      "word": "signature",
+      "ipa": "/ˈsɪɡnətʃər/",
+      "pos": "nom",
+      "fr": "signature",
+      "def": "Your name written in your own special way.",
+      "examples": [
+        {
+          "en": "The document requires two **signatures**.",
+          "fr": "Le document nécessite deux signatures."
+        },
+        {
+          "en": "Please add your **signature** here.",
+          "fr": "Merci d’apposer votre signature ici."
+        }
+      ]
+    },
+    {
+      "word": "legal",
+      "ipa": "/ˈliːɡəl/",
+      "pos": "adjectif",
+      "fr": "juridique, légal",
+      "def": "Relating to the law; allowed by law.",
+      "examples": [
+        {
+          "en": "Our **legal** team will review the contract.",
+          "fr": "Notre service juridique examinera le contrat."
+        },
+        {
+          "en": "Is it **legal** to park here?",
+          "fr": "Est-il permis de stationner ici ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **illegal**. **legal department** = service juridique."
+      }
+    },
+    {
+      "word": "lawyer",
+      "ipa": "/ˈlɔːjər/",
+      "pos": "nom",
+      "fr": "avocat, juriste",
+      "def": "A person whose job is to give legal advice and represent clients.",
+      "examples": [
+        {
+          "en": "We should ask a **lawyer** before signing.",
+          "fr": "Nous devrions consulter un avocat avant de signer."
+        },
+        {
+          "en": "The company hired a team of **lawyers**.",
+          "fr": "L’entreprise a engagé une équipe d’avocats."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **attorney** (US), **solicitor** (UK). **law firm** = cabinet d’avocats."
+      }
+    },
+    {
+      "word": "comply with",
+      "ipa": "/kəmˈplaɪ wɪð/",
+      "pos": "verbe",
+      "fr": "se conformer à, respecter",
+      "def": "To obey a rule or law.",
+      "examples": [
+        {
+          "en": "All products must **comply with** safety standards.",
+          "fr": "Tous les produits doivent être conformes aux normes de sécurité."
+        },
+        {
+          "en": "The company failed to **comply with** the regulations.",
+          "fr": "L’entreprise n’a pas respecté la réglementation."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **compliance** (conformité). ! Préposition **with**."
+      }
+    },
+    {
+      "word": "regulation",
+      "ipa": "/ˌreɡjəˈleɪʃən/",
+      "pos": "nom",
+      "fr": "réglementation, règle",
+      "def": "An official rule made by a government or organization.",
+      "examples": [
+        {
+          "en": "New **regulations** will take effect in January.",
+          "fr": "De nouvelles réglementations entreront en vigueur en janvier."
+        },
+        {
+          "en": "The factory follows strict safety **regulations**.",
+          "fr": "L’usine applique des règles de sécurité strictes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **regulate**."
+      }
+    },
+    {
+      "word": "policy",
+      "ipa": "/ˈpɑːləsi/",
+      "pos": "nom",
+      "fr": "politique, règlement ; police (d’assurance)",
+      "def": "A set of rules or a plan of action; also an insurance contract.",
+      "examples": [
+        {
+          "en": "Our return **policy** allows refunds within 30 days.",
+          "fr": "Notre politique de retour permet un remboursement sous 30 jours."
+        },
+        {
+          "en": "The company changed its travel **policy**.",
+          "fr": "L’entreprise a modifié sa politique de déplacements."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**policy** ≠ **police** (la police). **insurance policy** = contrat d’assurance."
+      }
+    },
+    {
+      "word": "binding",
+      "ipa": "/ˈbaɪndɪŋ/",
+      "pos": "adjectif",
+      "fr": "contraignant, qui engage",
+      "def": "Having legal force; must be obeyed.",
+      "examples": [
+        {
+          "en": "The agreement is legally **binding**.",
+          "fr": "L’accord a une valeur juridique contraignante."
+        },
+        {
+          "en": "The offer is not **binding** until signed.",
+          "fr": "L’offre n’engage à rien tant qu’elle n’est pas signée."
+        }
+      ]
+    },
+    {
+      "word": "breach",
+      "ipa": "/briːtʃ/",
+      "pos": "nom, verbe",
+      "fr": "violation, rupture ; enfreindre",
+      "def": "A failure to respect a law or agreement.",
+      "examples": [
+        {
+          "en": "Missing the deadline would be a **breach** of contract.",
+          "fr": "Manquer l’échéance constituerait une rupture de contrat."
+        },
+        {
+          "en": "The supplier **breached** the agreement.",
+          "fr": "Le fournisseur a enfreint l’accord."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**data breach** = fuite de données."
+      }
+    },
+    {
+      "word": "terminate",
+      "ipa": "/ˈtɜːrmɪneɪt/",
+      "pos": "verbe",
+      "fr": "résilier, mettre fin à",
+      "def": "To end something officially.",
+      "examples": [
+        {
+          "en": "Either party may **terminate** the contract with 30 days’ notice.",
+          "fr": "Chaque partie peut résilier le contrat avec un préavis de 30 jours."
+        },
+        {
+          "en": "His employment was **terminated** last month.",
+          "fr": "Son contrat de travail a pris fin le mois dernier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **termination**."
+      }
+    },
+    {
+      "word": "expire",
+      "ipa": "/ɪkˈspaɪər/",
+      "pos": "verbe",
+      "fr": "expirer, arriver à échéance",
+      "def": "To come to the end of a period of validity.",
+      "examples": [
+        {
+          "en": "The lease **expires** at the end of the year.",
+          "fr": "Le bail expire à la fin de l’année."
+        },
+        {
+          "en": "Your membership will **expire** in two weeks.",
+          "fr": "Votre abonnement expirera dans deux semaines."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **expiration** ; **expiration date** = date d’expiration, date limite."
+      }
+    },
+    {
+      "word": "renew",
+      "ipa": "/rɪˈnuː/",
+      "pos": "verbe",
+      "fr": "renouveler",
+      "def": "To make an agreement or document valid for a longer time.",
+      "examples": [
+        {
+          "en": "Don’t forget to **renew** your subscription.",
+          "fr": "N’oubliez pas de renouveler votre abonnement."
+        },
+        {
+          "en": "The contract was **renewed** for another year.",
+          "fr": "Le contrat a été renouvelé pour un an."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **renewal**."
+      }
+    },
+    {
+      "word": "draft contract",
+      "ipa": "/dræft ˈkɑːntrækt/",
+      "pos": "nom",
+      "fr": "projet de contrat",
+      "def": "A first version of a contract, before it is final.",
+      "examples": [
+        {
+          "en": "Our lawyer sent us a **draft contract** to review.",
+          "fr": "Notre avocat nous a envoyé un projet de contrat à relire."
+        },
+        {
+          "en": "The **draft contract** still needs a few changes.",
+          "fr": "Le projet de contrat nécessite encore quelques modifications."
+        }
+      ]
+    },
+    {
+      "word": "party",
+      "ipa": "/ˈpɑːrti/",
+      "pos": "nom",
+      "fr": "partie (à un contrat) ; fête",
+      "def": "A person or group involved in an agreement; also a social event.",
+      "examples": [
+        {
+          "en": "Both **parties** must agree to any changes.",
+          "fr": "Les deux parties doivent accepter toute modification."
+        },
+        {
+          "en": "A third **party** will handle the payments.",
+          "fr": "Un tiers se chargera des paiements."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**third party** = tiers."
+      }
+    },
+    {
+      "word": "liable",
+      "ipa": "/ˈlaɪəbəl/",
+      "pos": "adjectif",
+      "fr": "responsable (juridiquement)",
+      "def": "Legally responsible for something.",
+      "examples": [
+        {
+          "en": "The company is not **liable** for lost items.",
+          "fr": "L’entreprise n’est pas responsable des objets perdus."
+        },
+        {
+          "en": "Drivers are **liable** for any damage to the vehicle.",
+          "fr": "Les conducteurs sont responsables de tout dommage causé au véhicule."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Construction : **liable for**. Nom : **liability**."
+      }
+    },
+    {
+      "word": "dispute",
+      "ipa": "/dɪˈspjuːt/",
+      "pos": "nom, verbe",
+      "fr": "litige, différend ; contester",
+      "def": "A disagreement, especially an official one.",
+      "examples": [
+        {
+          "en": "The two companies settled their **dispute** out of court.",
+          "fr": "Les deux entreprises ont réglé leur litige à l’amiable."
+        },
+        {
+          "en": "The customer **disputed** the charges on the bill.",
+          "fr": "Le client a contesté les frais sur la facture."
+        }
+      ]
+    },
+    {
+      "word": "settle",
+      "ipa": "/ˈsetəl/",
+      "pos": "verbe",
+      "fr": "régler (un litige, une facture)",
+      "def": "To end a disagreement; or to pay a bill.",
+      "examples": [
+        {
+          "en": "The case was **settled** before going to court.",
+          "fr": "L’affaire a été réglée avant d’aller au tribunal."
+        },
+        {
+          "en": "Please **settle** your account by the end of the month.",
+          "fr": "Merci de régler votre compte d’ici la fin du mois."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **settlement** (règlement, accord)."
+      }
+    },
+    {
+      "word": "court",
+      "ipa": "/kɔːrt/",
+      "pos": "nom",
+      "fr": "tribunal",
+      "def": "A place where legal cases are judged.",
+      "examples": [
+        {
+          "en": "The case will go to **court** next month.",
+          "fr": "L’affaire sera portée devant le tribunal le mois prochain."
+        },
+        {
+          "en": "The **court** ruled in favor of the employee.",
+          "fr": "Le tribunal a donné raison à l’employé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**out of court** = à l’amiable."
+      }
+    },
+    {
+      "word": "lawsuit",
+      "ipa": "/ˈlɔːsuːt/",
+      "pos": "nom",
+      "fr": "procès, poursuite",
+      "def": "A legal case against someone in court.",
+      "examples": [
+        {
+          "en": "The customer filed a **lawsuit** against the company.",
+          "fr": "Le client a intenté un procès contre l’entreprise."
+        },
+        {
+          "en": "The **lawsuit** was dropped last week.",
+          "fr": "La plainte a été abandonnée la semaine dernière."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **sue** (poursuivre en justice)."
+      }
+    },
+    {
+      "word": "patent",
+      "ipa": "/ˈpætənt/",
+      "pos": "nom, verbe",
+      "fr": "brevet ; breveter",
+      "def": "A legal right to be the only one to make or sell an invention.",
+      "examples": [
+        {
+          "en": "The company holds several **patents** for its technology.",
+          "fr": "L’entreprise détient plusieurs brevets pour sa technologie."
+        },
+        {
+          "en": "They **patented** the design in 2020.",
+          "fr": "Ils ont breveté le design en 2020."
+        }
+      ]
+    },
+    {
+      "word": "copyright",
+      "ipa": "/ˈkɑːpiraɪt/",
+      "pos": "nom",
+      "fr": "droit d’auteur",
+      "def": "The legal right to control the copying of a book, film, song, etc.",
+      "examples": [
+        {
+          "en": "The photos are protected by **copyright**.",
+          "fr": "Les photos sont protégées par le droit d’auteur."
+        },
+        {
+          "en": "You need permission to use **copyright** material.",
+          "fr": "Il faut une autorisation pour utiliser du contenu protégé."
+        }
+      ]
+    },
+    {
+      "word": "compliance",
+      "ipa": "/kəmˈplaɪəns/",
+      "pos": "nom",
+      "fr": "conformité",
+      "def": "The act of obeying a rule or law.",
+      "examples": [
+        {
+          "en": "The audit checks our **compliance** with tax laws.",
+          "fr": "L’audit vérifie notre conformité à la législation fiscale."
+        },
+        {
+          "en": "The factory is in full **compliance** with safety rules.",
+          "fr": "L’usine est entièrement conforme aux règles de sécurité."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**in compliance with** = conformément à."
+      }
+    },
+    {
+      "word": "authorization",
+      "ipa": "/ˌɔːθərəˈzeɪʃən/",
+      "pos": "nom",
+      "fr": "autorisation",
+      "def": "Official permission.",
+      "examples": [
+        {
+          "en": "You need written **authorization** to enter the lab.",
+          "fr": "Il faut une autorisation écrite pour entrer dans le laboratoire."
+        },
+        {
+          "en": "**Authorization** was granted by the manager.",
+          "fr": "L’autorisation a été accordée par le responsable."
+        }
+      ]
+    },
+    {
+      "word": "deed",
+      "ipa": "/diːd/",
+      "pos": "nom",
+      "fr": "acte (de propriété)",
+      "def": "A legal document showing who owns a property.",
+      "examples": [
+        {
+          "en": "The **deed** to the house is kept at the bank.",
+          "fr": "L’acte de propriété de la maison est conservé à la banque."
+        },
+        {
+          "en": "They signed the **deed** at the lawyer’s office.",
+          "fr": "Ils ont signé l’acte au cabinet de l’avocat."
+        }
+      ]
+    },
+    {
+      "word": "confidentiality agreement",
+      "ipa": "/ˌkɑːnfɪˌdenʃiˈæləti əˈɡriːmənt/",
+      "pos": "nom",
+      "fr": "accord de confidentialité",
+      "def": "A contract in which people agree to keep information secret.",
+      "examples": [
+        {
+          "en": "Visitors must sign a **confidentiality agreement**.",
+          "fr": "Les visiteurs doivent signer un accord de confidentialité."
+        },
+        {
+          "en": "The **confidentiality agreement** lasts five years.",
+          "fr": "L’accord de confidentialité dure cinq ans."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **non-disclosure agreement (NDA)**."
+      }
+    },
+    {
+      "word": "obligation",
+      "ipa": "/ˌɑːblɪˈɡeɪʃən/",
+      "pos": "nom",
+      "fr": "obligation",
+      "def": "Something you must do because of a law, rule or promise.",
+      "examples": [
+        {
+          "en": "There is no **obligation** to buy.",
+          "fr": "Aucune obligation d’achat."
+        },
+        {
+          "en": "The company has a legal **obligation** to protect customer data.",
+          "fr": "L’entreprise a l’obligation légale de protéger les données clients."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **obligated / obliged to**."
+      }
+    },
+    {
+      "word": "amendment",
+      "ipa": "/əˈmendmənt/",
+      "pos": "nom",
+      "fr": "modification, avenant, amendement",
+      "def": "A change made to a document or law.",
+      "examples": [
+        {
+          "en": "Both parties approved the **amendment** to the contract.",
+          "fr": "Les deux parties ont approuvé l’avenant au contrat."
+        },
+        {
+          "en": "The **amendment** will take effect next month.",
+          "fr": "La modification entrera en vigueur le mois prochain."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **amend** (modifier). ! ≠ **amende** (= **fine**)."
+      }
+    },
+    {
+      "word": "fine",
+      "ipa": "/faɪn/",
+      "pos": "nom, verbe",
+      "fr": "amende ; condamner à une amende",
+      "def": "Money paid as punishment for breaking a rule.",
+      "examples": [
+        {
+          "en": "The company paid a large **fine** for pollution.",
+          "fr": "L’entreprise a payé une lourde amende pour pollution."
+        },
+        {
+          "en": "Drivers will be **fined** for parking here.",
+          "fr": "Les conducteurs stationnant ici recevront une amende."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi adjectif : bien, fin, beau (I’m **fine**)."
+      }
+    },
+    {
+      "word": "take effect",
+      "ipa": "/teɪk ɪˈfekt/",
+      "pos": "expression",
+      "fr": "entrer en vigueur",
+      "def": "To start to be used or to produce results.",
+      "examples": [
+        {
+          "en": "The new law will **take effect** on July 1.",
+          "fr": "La nouvelle loi entrera en vigueur le 1er juillet."
+        },
+        {
+          "en": "The price increase **takes effect** immediately.",
+          "fr": "La hausse des prix s’applique immédiatement."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **come into effect**, **go into effect**, **be effective**."
+      }
+    },
+    {
+      "word": "effective",
+      "ipa": "/ɪˈfektɪv/",
+      "pos": "adjectif",
+      "fr": "efficace ; en vigueur (à partir de)",
+      "def": "Producing the desired result; or officially starting on a date.",
+      "examples": [
+        {
+          "en": "**Effective** March 1, the office will open at 8 a.m.",
+          "fr": "À compter du 1er mars, le bureau ouvrira à 8 h."
+        },
+        {
+          "en": "The new ad campaign was very **effective**.",
+          "fr": "La nouvelle campagne publicitaire a été très efficace."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Sens juridique fréquent : **effective immediately** = avec effet immédiat."
+      }
+    },
+    {
+      "word": "proceed",
+      "ipa": "/proʊˈsiːd/",
+      "pos": "verbe",
+      "fr": "poursuivre, procéder",
+      "def": "To continue or to start doing something.",
+      "examples": [
+        {
+          "en": "Please **proceed** to gate 12.",
+          "fr": "Veuillez vous rendre à la porte 12."
+        },
+        {
+          "en": "The project will **proceed** as planned.",
+          "fr": "Le projet se poursuivra comme prévu."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **proceeds** (recettes, bénéfices d’une vente) ≠ **procedure**."
+      }
+    },
+    {
+      "word": "stipulate",
+      "ipa": "/ˈstɪpjəleɪt/",
+      "pos": "verbe",
+      "fr": "stipuler",
+      "def": "To state clearly as a condition in an agreement.",
+      "examples": [
+        {
+          "en": "The contract **stipulates** that payment is due in 30 days.",
+          "fr": "Le contrat stipule que le paiement est dû sous 30 jours."
+        },
+        {
+          "en": "The rules **stipulate** a maximum of two guests.",
+          "fr": "Le règlement prévoit un maximum de deux invités."
+        }
+      ]
+    },
+    {
+      "word": "warranty claim",
+      "ipa": "/ˈwɔːrənti kleɪm/",
+      "pos": "nom",
+      "fr": "demande de prise en charge sous garantie",
+      "def": "A request to repair or replace a product under warranty.",
+      "examples": [
+        {
+          "en": "Submit a **warranty claim** online with your receipt.",
+          "fr": "Faites votre demande de garantie en ligne avec votre ticket."
+        },
+        {
+          "en": "The **warranty claim** was approved.",
+          "fr": "La demande de prise en charge sous garantie a été acceptée."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**claim** = réclamation, demande (d’indemnisation)."
+      }
+    }
+  ]
+}

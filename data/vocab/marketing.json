@@ -1,0 +1,885 @@
+{
+  "id": "marketing",
+  "name": "Marketing et ventes",
+  "short": "Marketing",
+  "group": "theme",
+  "description": "Publicité, clients, magasins et offres commerciales.",
+  "cards": [
+    {
+      "word": "advertise",
+      "ipa": "/ˈædvərtaɪz/",
+      "pos": "verbe",
+      "fr": "faire de la publicité, annoncer",
+      "def": "To tell the public about a product or job, for example in newspapers or online.",
+      "examples": [
+        {
+          "en": "The company **advertises** mainly on social media.",
+          "fr": "L’entreprise fait surtout de la publicité sur les réseaux sociaux."
+        },
+        {
+          "en": "The position was **advertised** in last Sunday’s paper.",
+          "fr": "Le poste a été annoncé dans le journal de dimanche dernier."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : **advertise** ≠ « avertir » (= **warn**)."
+      }
+    },
+    {
+      "word": "advertisement",
+      "ipa": "/ˌædvərˈtaɪzmənt/",
+      "pos": "nom",
+      "fr": "publicité, annonce",
+      "def": "A notice, picture or video that promotes a product, service or job.",
+      "examples": [
+        {
+          "en": "I saw your **advertisement** for a sales assistant.",
+          "fr": "J’ai vu votre annonce pour un poste de vendeur."
+        },
+        {
+          "en": "The **advertisement** will run on television for two weeks.",
+          "fr": "La publicité passera à la télévision pendant deux semaines."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Abréviations : **ad**, **advert** (UK). **classified ads** = petites annonces."
+      }
+    },
+    {
+      "word": "commercial",
+      "ipa": "/kəˈmɜːrʃəl/",
+      "pos": "nom, adjectif",
+      "fr": "spot publicitaire ; commercial",
+      "def": "A TV or radio advertisement; or related to business.",
+      "examples": [
+        {
+          "en": "The new **commercial** features a famous actor.",
+          "fr": "Le nouveau spot publicitaire met en scène un acteur célèbre."
+        },
+        {
+          "en": "The building is zoned for **commercial** use.",
+          "fr": "Le bâtiment est situé en zone commerciale."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Un « commercial » (vendeur) se dit **sales representative**."
+      }
+    },
+    {
+      "word": "campaign",
+      "ipa": "/kæmˈpeɪn/",
+      "pos": "nom",
+      "fr": "campagne",
+      "def": "A planned series of activities to achieve a goal, such as selling a product.",
+      "examples": [
+        {
+          "en": "The advertising **campaign** increased sales by 20 percent.",
+          "fr": "La campagne publicitaire a fait progresser les ventes de 20 %."
+        },
+        {
+          "en": "We will launch the **campaign** in early spring.",
+          "fr": "Nous lancerons la campagne au début du printemps."
+        }
+      ]
+    },
+    {
+      "word": "brand",
+      "ipa": "/brænd/",
+      "pos": "nom",
+      "fr": "marque",
+      "def": "A name or symbol that identifies a company’s products.",
+      "examples": [
+        {
+          "en": "Customers are very loyal to this **brand**.",
+          "fr": "Les clients sont très fidèles à cette marque."
+        },
+        {
+          "en": "We are building a strong **brand** image.",
+          "fr": "Nous construisons une image de marque forte."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**brand-new** = tout neuf."
+      }
+    },
+    {
+      "word": "launch",
+      "ipa": "/lɔːntʃ/",
+      "pos": "verbe, nom",
+      "fr": "lancer ; lancement",
+      "def": "To introduce a new product to the public; or the event of doing so.",
+      "examples": [
+        {
+          "en": "The company will **launch** its new smartphone in May.",
+          "fr": "L’entreprise lancera son nouveau smartphone en mai."
+        },
+        {
+          "en": "The product **launch** attracted a lot of media attention.",
+          "fr": "Le lancement du produit a attiré l’attention des médias."
+        }
+      ]
+    },
+    {
+      "word": "target",
+      "ipa": "/ˈtɑːrɡɪt/",
+      "pos": "nom, verbe",
+      "fr": "cible, objectif ; cibler",
+      "def": "A person or group that a product is aimed at, or a goal to reach.",
+      "examples": [
+        {
+          "en": "Young professionals are our **target** customers.",
+          "fr": "Les jeunes actifs sont nos clients cibles."
+        },
+        {
+          "en": "The campaign **targets** families with children.",
+          "fr": "La campagne cible les familles avec enfants."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**meet / reach a sales target** = atteindre un objectif de ventes."
+      }
+    },
+    {
+      "word": "market research",
+      "ipa": "/ˈmɑːrkɪt rɪˈsɜːrtʃ/",
+      "pos": "nom",
+      "fr": "étude de marché",
+      "def": "The collection of information about what customers want and buy.",
+      "examples": [
+        {
+          "en": "**Market research** shows strong demand for electric bikes.",
+          "fr": "Les études de marché montrent une forte demande de vélos électriques."
+        },
+        {
+          "en": "We hired a firm to conduct **market research**.",
+          "fr": "Nous avons engagé un cabinet pour réaliser une étude de marché."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Indénombrable."
+      }
+    },
+    {
+      "word": "survey",
+      "ipa": "/ˈsɜːrveɪ/",
+      "pos": "nom, verbe",
+      "fr": "enquête, sondage ; interroger",
+      "def": "A set of questions asked to many people to find out their opinions.",
+      "examples": [
+        {
+          "en": "Please take a few minutes to complete our customer **survey**.",
+          "fr": "Merci de prendre quelques minutes pour répondre à notre enquête client."
+        },
+        {
+          "en": "We **surveyed** 500 shoppers about their habits.",
+          "fr": "Nous avons interrogé 500 clients sur leurs habitudes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Le verbe se prononce /sərˈveɪ/."
+      }
+    },
+    {
+      "word": "consumer",
+      "ipa": "/kənˈsuːmər/",
+      "pos": "nom",
+      "fr": "consommateur",
+      "def": "A person who buys goods or services for personal use.",
+      "examples": [
+        {
+          "en": "**Consumers** are spending more on healthy food.",
+          "fr": "Les consommateurs dépensent davantage en alimentation saine."
+        },
+        {
+          "en": "**Consumer** confidence rose last month.",
+          "fr": "La confiance des consommateurs a augmenté le mois dernier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **consume** ; nom : **consumption** (consommation)."
+      }
+    },
+    {
+      "word": "retail",
+      "ipa": "/ˈriːteɪl/",
+      "pos": "nom, adjectif",
+      "fr": "vente au détail, commerce de détail",
+      "def": "The sale of goods directly to the public in stores or online.",
+      "examples": [
+        {
+          "en": "She has ten years of experience in **retail**.",
+          "fr": "Elle a dix ans d’expérience dans le commerce de détail."
+        },
+        {
+          "en": "The **retail** price is $49.99.",
+          "fr": "Le prix de vente au détail est de 49,99 $."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne ou l’enseigne : **retailer** (détaillant)."
+      }
+    },
+    {
+      "word": "wholesale",
+      "ipa": "/ˈhoʊlseɪl/",
+      "pos": "nom, adjectif",
+      "fr": "vente en gros",
+      "def": "The sale of goods in large quantities, usually to stores.",
+      "examples": [
+        {
+          "en": "We buy our supplies at **wholesale** prices.",
+          "fr": "Nous achetons nos fournitures au prix de gros."
+        },
+        {
+          "en": "The company sells **wholesale** to restaurants.",
+          "fr": "L’entreprise vend en gros aux restaurants."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne : **wholesaler** (grossiste)."
+      }
+    },
+    {
+      "word": "merchandise",
+      "ipa": "/ˈmɜːrtʃəndaɪz/",
+      "pos": "nom",
+      "fr": "marchandises",
+      "def": "Goods that are bought and sold.",
+      "examples": [
+        {
+          "en": "All **merchandise** can be returned within 30 days.",
+          "fr": "Toute marchandise peut être retournée sous 30 jours."
+        },
+        {
+          "en": "The store received a new shipment of **merchandise**.",
+          "fr": "Le magasin a reçu une nouvelle livraison de marchandises."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Indénombrable. Synonyme : **goods**."
+      }
+    },
+    {
+      "word": "discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "pos": "nom, verbe",
+      "fr": "remise, réduction ; faire une remise",
+      "def": "A reduction in the usual price.",
+      "examples": [
+        {
+          "en": "Members receive a 15 percent **discount** on all items.",
+          "fr": "Les membres bénéficient de 15 % de remise sur tous les articles."
+        },
+        {
+          "en": "Winter coats are heavily **discounted** this week.",
+          "fr": "Les manteaux d’hiver sont fortement soldés cette semaine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**at a discount** = à prix réduit."
+      }
+    },
+    {
+      "word": "coupon",
+      "ipa": "/ˈkuːpɑːn/",
+      "pos": "nom",
+      "fr": "bon de réduction",
+      "def": "A piece of paper or code that gives you a lower price.",
+      "examples": [
+        {
+          "en": "Present this **coupon** at checkout to save $10.",
+          "fr": "Présentez ce bon en caisse pour économiser 10 $."
+        },
+        {
+          "en": "The **coupon** expires at the end of the month.",
+          "fr": "Le bon de réduction expire à la fin du mois."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **voucher**."
+      }
+    },
+    {
+      "word": "voucher",
+      "ipa": "/ˈvaʊtʃər/",
+      "pos": "nom",
+      "fr": "bon d’achat, bon d’échange",
+      "def": "A piece of paper that can be used instead of money for a product or service.",
+      "examples": [
+        {
+          "en": "Guests received a meal **voucher** because of the delay.",
+          "fr": "Les voyageurs ont reçu un bon repas à cause du retard."
+        },
+        {
+          "en": "The **voucher** is valid for one year.",
+          "fr": "Le bon est valable un an."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**gift voucher / gift certificate** = chèque-cadeau."
+      }
+    },
+    {
+      "word": "refund",
+      "ipa": "/ˈriːfʌnd/",
+      "pos": "nom, verbe",
+      "fr": "remboursement ; rembourser",
+      "def": "Money returned to a customer who is not satisfied.",
+      "examples": [
+        {
+          "en": "You can get a full **refund** within 14 days of purchase.",
+          "fr": "Vous pouvez être intégralement remboursé dans les 14 jours suivant l’achat."
+        },
+        {
+          "en": "The airline **refunded** the cost of the ticket.",
+          "fr": "La compagnie aérienne a remboursé le prix du billet."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Le verbe s’accentue /rɪˈfʌnd/. **non-refundable** = non remboursable."
+      }
+    },
+    {
+      "word": "warranty",
+      "ipa": "/ˈwɔːrənti/",
+      "pos": "nom",
+      "fr": "garantie",
+      "def": "A written promise to repair or replace a product if it breaks.",
+      "examples": [
+        {
+          "en": "The printer comes with a two-year **warranty**.",
+          "fr": "L’imprimante est garantie deux ans."
+        },
+        {
+          "en": "Repairs are covered under **warranty**.",
+          "fr": "Les réparations sont couvertes par la garantie."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **guarantee**. **under warranty** = sous garantie."
+      }
+    },
+    {
+      "word": "competitor",
+      "ipa": "/kəmˈpetɪtər/",
+      "pos": "nom",
+      "fr": "concurrent",
+      "def": "A company that sells the same kind of products as another.",
+      "examples": [
+        {
+          "en": "Our prices are lower than our **competitors’**.",
+          "fr": "Nos prix sont inférieurs à ceux de nos concurrents."
+        },
+        {
+          "en": "The **competitor** launched a similar product last month.",
+          "fr": "Le concurrent a lancé un produit similaire le mois dernier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **competition** ; adjectif : **competitive** (compétitif, concurrentiel)."
+      }
+    },
+    {
+      "word": "competitive",
+      "ipa": "/kəmˈpetətɪv/",
+      "pos": "adjectif",
+      "fr": "compétitif, concurrentiel",
+      "def": "Able to compete well, for example with good prices; or involving competition.",
+      "examples": [
+        {
+          "en": "We offer **competitive** prices on all our products.",
+          "fr": "Nous proposons des prix compétitifs sur tous nos produits."
+        },
+        {
+          "en": "The smartphone market is highly **competitive**.",
+          "fr": "Le marché des smartphones est très concurrentiel."
+        }
+      ]
+    },
+    {
+      "word": "market share",
+      "ipa": "/ˈmɑːrkɪt ʃer/",
+      "pos": "nom",
+      "fr": "part de marché",
+      "def": "The percentage of total sales in a market that a company has.",
+      "examples": [
+        {
+          "en": "The company increased its **market share** to 25 percent.",
+          "fr": "L’entreprise a porté sa part de marché à 25 %."
+        },
+        {
+          "en": "We are losing **market share** to online retailers.",
+          "fr": "Nous perdons des parts de marché au profit des vendeurs en ligne."
+        }
+      ]
+    },
+    {
+      "word": "sales representative",
+      "ipa": "/seɪlz ˌreprɪˈzentətɪv/",
+      "pos": "nom",
+      "fr": "commercial(e), représentant(e)",
+      "def": "A person whose job is to sell a company’s products.",
+      "examples": [
+        {
+          "en": "A **sales representative** will contact you shortly.",
+          "fr": "Un commercial vous contactera prochainement."
+        },
+        {
+          "en": "She is our top **sales representative** in Europe.",
+          "fr": "C’est notre meilleure commerciale en Europe."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Abrégé : **sales rep**."
+      }
+    },
+    {
+      "word": "quota",
+      "ipa": "/ˈkwoʊtə/",
+      "pos": "nom",
+      "fr": "quota, objectif chiffré",
+      "def": "A fixed amount that must be reached, such as a number of sales.",
+      "examples": [
+        {
+          "en": "He exceeded his sales **quota** for the third month in a row.",
+          "fr": "Il a dépassé son objectif de ventes pour le troisième mois consécutif."
+        },
+        {
+          "en": "Each team has a monthly **quota**.",
+          "fr": "Chaque équipe a un quota mensuel."
+        }
+      ]
+    },
+    {
+      "word": "trend",
+      "ipa": "/trend/",
+      "pos": "nom",
+      "fr": "tendance",
+      "def": "A general direction in which something is changing.",
+      "examples": [
+        {
+          "en": "Online shopping is a growing **trend**.",
+          "fr": "Les achats en ligne sont une tendance en hausse."
+        },
+        {
+          "en": "We follow the latest fashion **trends**.",
+          "fr": "Nous suivons les dernières tendances de la mode."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **trendy** (à la mode)."
+      }
+    },
+    {
+      "word": "demand",
+      "ipa": "/dɪˈmænd/",
+      "pos": "nom",
+      "fr": "demande",
+      "def": "The desire of customers to buy a product or service.",
+      "examples": [
+        {
+          "en": "**Demand** for electric cars is increasing rapidly.",
+          "fr": "La demande de voitures électriques augmente rapidement."
+        },
+        {
+          "en": "We cannot keep up with **demand**.",
+          "fr": "Nous n’arrivons pas à suivre la demande."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**in high demand** = très demandé. **supply and demand** = l’offre et la demande."
+      }
+    },
+    {
+      "word": "feature",
+      "ipa": "/ˈfiːtʃər/",
+      "pos": "nom, verbe",
+      "fr": "caractéristique, fonction ; mettre en avant",
+      "def": "An important part or quality of something; or to include as a special part.",
+      "examples": [
+        {
+          "en": "The new model has several useful **features**.",
+          "fr": "Le nouveau modèle a plusieurs fonctions utiles."
+        },
+        {
+          "en": "The magazine **featured** an article about our company.",
+          "fr": "Le magazine a publié un article sur notre entreprise."
+        }
+      ]
+    },
+    {
+      "word": "sponsor",
+      "ipa": "/ˈspɑːnsər/",
+      "pos": "nom, verbe",
+      "fr": "sponsor, parrain ; sponsoriser",
+      "def": "A company that pays for an event in exchange for advertising.",
+      "examples": [
+        {
+          "en": "The bank is the main **sponsor** of the marathon.",
+          "fr": "La banque est le principal sponsor du marathon."
+        },
+        {
+          "en": "The concert is **sponsored** by a local business.",
+          "fr": "Le concert est parrainé par une entreprise locale."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **sponsorship**."
+      }
+    },
+    {
+      "word": "endorse",
+      "ipa": "/ɪnˈdɔːrs/",
+      "pos": "verbe",
+      "fr": "soutenir, recommander ; faire la promotion de",
+      "def": "To publicly support a product, person or idea.",
+      "examples": [
+        {
+          "en": "The sports drink is **endorsed** by several athletes.",
+          "fr": "La boisson énergétique est recommandée par plusieurs athlètes."
+        },
+        {
+          "en": "The committee **endorsed** the proposal.",
+          "fr": "Le comité a soutenu la proposition."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **endorsement**."
+      }
+    },
+    {
+      "word": "brochure",
+      "ipa": "/broʊˈʃʊr/",
+      "pos": "nom",
+      "fr": "brochure, dépliant",
+      "def": "A small magazine or folded paper with information about a product or service.",
+      "examples": [
+        {
+          "en": "Please take a **brochure** on your way out.",
+          "fr": "Prenez une brochure en sortant."
+        },
+        {
+          "en": "The **brochure** lists all our tour packages.",
+          "fr": "La brochure présente toutes nos formules de voyage."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Proches : **leaflet**, **pamphlet**, **flyer**."
+      }
+    },
+    {
+      "word": "flyer",
+      "ipa": "/ˈflaɪər/",
+      "pos": "nom",
+      "fr": "prospectus, tract",
+      "def": "A single printed sheet advertising something.",
+      "examples": [
+        {
+          "en": "We handed out **flyers** at the train station.",
+          "fr": "Nous avons distribué des prospectus à la gare."
+        },
+        {
+          "en": "The **flyer** announces a grand opening sale.",
+          "fr": "Le prospectus annonce des soldes pour l’inauguration."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi orthographié **flier**."
+      }
+    },
+    {
+      "word": "catalog",
+      "ipa": "/ˈkætəlɔːɡ/",
+      "pos": "nom",
+      "fr": "catalogue",
+      "def": "A list or book of products with descriptions and prices.",
+      "examples": [
+        {
+          "en": "Our new spring **catalog** is now available online.",
+          "fr": "Notre nouveau catalogue de printemps est disponible en ligne."
+        },
+        {
+          "en": "Please order from the latest **catalog**.",
+          "fr": "Merci de commander à partir du dernier catalogue."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **catalogue**."
+      }
+    },
+    {
+      "word": "free sample",
+      "ipa": "/friː ˈsæmpəl/",
+      "pos": "nom",
+      "fr": "échantillon gratuit",
+      "def": "A small amount of a product given to people to try.",
+      "examples": [
+        {
+          "en": "Customers can try a **free sample** of our new coffee.",
+          "fr": "Les clients peuvent goûter un échantillon gratuit de notre nouveau café."
+        },
+        {
+          "en": "**Free samples** will be distributed at the entrance.",
+          "fr": "Des échantillons gratuits seront distribués à l’entrée."
+        }
+      ]
+    },
+    {
+      "word": "affordable",
+      "ipa": "/əˈfɔːrdəbəl/",
+      "pos": "adjectif",
+      "fr": "abordable",
+      "def": "Cheap enough for most people to buy.",
+      "examples": [
+        {
+          "en": "We offer high-quality furniture at **affordable** prices.",
+          "fr": "Nous proposons des meubles de qualité à des prix abordables."
+        },
+        {
+          "en": "The city needs more **affordable** housing.",
+          "fr": "La ville a besoin de plus de logements abordables."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **afford** (avoir les moyens de) : We can’t **afford** it."
+      }
+    },
+    {
+      "word": "purchase",
+      "ipa": "/ˈpɜːrtʃəs/",
+      "pos": "nom, verbe",
+      "fr": "achat ; acheter",
+      "def": "Something that is bought, or the act of buying.",
+      "examples": [
+        {
+          "en": "Keep your receipt as proof of **purchase**.",
+          "fr": "Conservez votre ticket comme preuve d’achat."
+        },
+        {
+          "en": "The company **purchased** new equipment last year.",
+          "fr": "L’entreprise a acheté du nouveau matériel l’an dernier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Plus formel que **buy**. **purchasing department** = service achats."
+      }
+    },
+    {
+      "word": "loyalty program",
+      "ipa": "/ˈlɔɪəlti ˌproʊɡræm/",
+      "pos": "nom",
+      "fr": "programme de fidélité",
+      "def": "A system that rewards customers who buy often from the same company.",
+      "examples": [
+        {
+          "en": "Join our **loyalty program** and earn points with every purchase.",
+          "fr": "Inscrivez-vous à notre programme de fidélité et cumulez des points à chaque achat."
+        },
+        {
+          "en": "**Loyalty program** members get early access to sales.",
+          "fr": "Les membres du programme de fidélité ont accès aux soldes en avant-première."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **rewards program**, **loyalty card**."
+      }
+    },
+    {
+      "word": "focus group",
+      "ipa": "/ˈfoʊkəs ɡruːp/",
+      "pos": "nom",
+      "fr": "groupe de discussion (panel de consommateurs)",
+      "def": "A small group of people asked to discuss a product to give opinions.",
+      "examples": [
+        {
+          "en": "The new packaging was tested with a **focus group**.",
+          "fr": "Le nouvel emballage a été testé auprès d’un panel de consommateurs."
+        },
+        {
+          "en": "**Focus group** participants will receive a gift card.",
+          "fr": "Les participants au groupe de discussion recevront une carte-cadeau."
+        }
+      ]
+    },
+    {
+      "word": "outlet",
+      "ipa": "/ˈaʊtlet/",
+      "pos": "nom",
+      "fr": "point de vente, magasin d’usine ; prise électrique",
+      "def": "A store that sells goods, often at lower prices; also an electrical socket.",
+      "examples": [
+        {
+          "en": "The brand has **outlets** in over 20 countries.",
+          "fr": "La marque a des points de vente dans plus de 20 pays."
+        },
+        {
+          "en": "Is there an electrical **outlet** near the desk?",
+          "fr": "Y a-t-il une prise électrique près du bureau ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**outlet store / factory outlet** = magasin d’usine."
+      }
+    },
+    {
+      "word": "checkout",
+      "ipa": "/ˈtʃekaʊt/",
+      "pos": "nom",
+      "fr": "caisse ; validation de commande",
+      "def": "The place in a store where you pay, or the final step of buying online.",
+      "examples": [
+        {
+          "en": "There was a long line at the **checkout**.",
+          "fr": "Il y avait une longue file d’attente à la caisse."
+        },
+        {
+          "en": "Enter your discount code at **checkout**.",
+          "fr": "Saisissez votre code de réduction lors du paiement."
+        }
+      ]
+    },
+    {
+      "word": "in stock",
+      "ipa": "/ɪn stɑːk/",
+      "pos": "expression",
+      "fr": "en stock, disponible",
+      "def": "Available in a store to be sold.",
+      "examples": [
+        {
+          "en": "The item you ordered is currently **in stock**.",
+          "fr": "L’article que vous avez commandé est actuellement en stock."
+        },
+        {
+          "en": "This model is no longer **in stock**.",
+          "fr": "Ce modèle n’est plus en stock."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **out of stock** (en rupture de stock)."
+      }
+    },
+    {
+      "word": "clearance sale",
+      "ipa": "/ˈklɪrəns seɪl/",
+      "pos": "nom",
+      "fr": "liquidation, soldes de fin de série",
+      "def": "A sale at low prices to get rid of old stock.",
+      "examples": [
+        {
+          "en": "Everything must go at our end-of-season **clearance sale**.",
+          "fr": "Tout doit disparaître lors de nos soldes de fin de saison."
+        },
+        {
+          "en": "Prices are cut by up to 70 percent during the **clearance sale**.",
+          "fr": "Les prix baissent jusqu’à 70 % pendant la liquidation."
+        }
+      ]
+    },
+    {
+      "word": "exceed",
+      "ipa": "/ɪkˈsiːd/",
+      "pos": "verbe",
+      "fr": "dépasser",
+      "def": "To be greater than a number or amount.",
+      "examples": [
+        {
+          "en": "Sales **exceeded** our expectations.",
+          "fr": "Les ventes ont dépassé nos attentes."
+        },
+        {
+          "en": "Your luggage must not **exceed** 23 kilograms.",
+          "fr": "Vos bagages ne doivent pas dépasser 23 kilos."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **excess**. Adverbe : **exceedingly** (extrêmement)."
+      }
+    },
+    {
+      "word": "prospective",
+      "ipa": "/prəˈspektɪv/",
+      "pos": "adjectif",
+      "fr": "potentiel, futur",
+      "def": "Expected or likely to become something (a customer, buyer, employee…).",
+      "examples": [
+        {
+          "en": "We are meeting a **prospective** client tomorrow.",
+          "fr": "Nous rencontrons un client potentiel demain."
+        },
+        {
+          "en": "**Prospective** buyers can visit the house on Saturday.",
+          "fr": "Les acheteurs potentiels peuvent visiter la maison samedi."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Ne pas confondre avec **prospect** (nom : perspective, client potentiel)."
+      }
+    },
+    {
+      "word": "pricing",
+      "ipa": "/ˈpraɪsɪŋ/",
+      "pos": "nom",
+      "fr": "tarification, politique de prix",
+      "def": "The way prices are decided for products or services.",
+      "examples": [
+        {
+          "en": "Our **pricing** is clear and simple.",
+          "fr": "Notre tarification est claire et simple."
+        },
+        {
+          "en": "The **pricing** of the new model will be announced soon.",
+          "fr": "Le prix du nouveau modèle sera bientôt annoncé."
+        }
+      ]
+    },
+    {
+      "word": "promotional",
+      "ipa": "/prəˈmoʊʃənəl/",
+      "pos": "adjectif",
+      "fr": "promotionnel",
+      "def": "Intended to advertise a product or service.",
+      "examples": [
+        {
+          "en": "Use the **promotional** code WELCOME10 for 10 percent off.",
+          "fr": "Utilisez le code promotionnel WELCOME10 pour 10 % de réduction."
+        },
+        {
+          "en": "We distributed **promotional** materials at the fair.",
+          "fr": "Nous avons distribué du matériel promotionnel au salon."
+        }
+      ]
+    }
+  ]
+}

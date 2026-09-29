@@ -1,0 +1,923 @@
+{
+  "id": "fauxamis",
+  "name": "Faux amis",
+  "short": "Faux amis",
+  "group": "special",
+  "description": "Les mots anglais qui ressemblent au français mais ne veulent pas dire la même chose.",
+  "cards": [
+    {
+      "word": "actually",
+      "ipa": "/ˈæktʃuəli/",
+      "pos": "adverbe",
+      "fr": "en fait, en réalité",
+      "def": "In fact; really (often used to correct something).",
+      "examples": [
+        {
+          "en": "**Actually**, the meeting starts at ten, not nine.",
+          "fr": "En fait, la réunion commence à 10 h, pas à 9 h."
+        },
+        {
+          "en": "The hotel was **actually** cheaper than we expected.",
+          "fr": "L’hôtel était en réalité moins cher que prévu."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Actuellement » = **currently**, **at the moment**."
+      }
+    },
+    {
+      "word": "currently",
+      "ipa": "/ˈkɜːrəntli/",
+      "pos": "adverbe",
+      "fr": "actuellement",
+      "def": "At the present time.",
+      "examples": [
+        {
+          "en": "The position is **currently** vacant.",
+          "fr": "Le poste est actuellement vacant."
+        },
+        {
+          "en": "We are **currently** reviewing all applications.",
+          "fr": "Nous examinons actuellement toutes les candidatures."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Ne pas traduire « actuellement » par **actually**."
+      }
+    },
+    {
+      "word": "eventually",
+      "ipa": "/ɪˈventʃuəli/",
+      "pos": "adverbe",
+      "fr": "finalement, à la fin",
+      "def": "After a long time or many problems.",
+      "examples": [
+        {
+          "en": "After three hours, the plane **eventually** took off.",
+          "fr": "Au bout de trois heures, l’avion a finalement décollé."
+        },
+        {
+          "en": "The company **eventually** agreed to our terms.",
+          "fr": "L’entreprise a fini par accepter nos conditions."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Éventuellement » = **possibly**, **if necessary**."
+      }
+    },
+    {
+      "word": "possibly",
+      "ipa": "/ˈpɑːsəbli/",
+      "pos": "adverbe",
+      "fr": "peut-être, éventuellement",
+      "def": "Perhaps; or used to make a polite request.",
+      "examples": [
+        {
+          "en": "The shipment will **possibly** arrive on Monday.",
+          "fr": "La livraison arrivera peut-être lundi."
+        },
+        {
+          "en": "Could you **possibly** send the file today?",
+          "fr": "Vous serait-il possible d’envoyer le fichier aujourd’hui ?"
+        }
+      ]
+    },
+    {
+      "word": "library",
+      "ipa": "/ˈlaɪbreri/",
+      "pos": "nom",
+      "fr": "bibliothèque",
+      "def": "A place where books can be read or borrowed.",
+      "examples": [
+        {
+          "en": "The **library** is open until 8 p.m.",
+          "fr": "La bibliothèque est ouverte jusqu’à 20 h."
+        },
+        {
+          "en": "You can borrow books from the company **library**.",
+          "fr": "Vous pouvez emprunter des livres à la bibliothèque de l’entreprise."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Librairie » = **bookstore** (US), **bookshop** (UK)."
+      }
+    },
+    {
+      "word": "bookstore",
+      "ipa": "/ˈbʊkstɔːr/",
+      "pos": "nom",
+      "fr": "librairie",
+      "def": "A store that sells books.",
+      "examples": [
+        {
+          "en": "The **bookstore** is hosting an author signing.",
+          "fr": "La librairie organise une séance de dédicace."
+        },
+        {
+          "en": "I bought the guide at the airport **bookstore**.",
+          "fr": "J’ai acheté le guide à la librairie de l’aéroport."
+        }
+      ]
+    },
+    {
+      "word": "sensible",
+      "ipa": "/ˈsensəbəl/",
+      "pos": "adjectif",
+      "fr": "raisonnable, sensé",
+      "def": "Based on good judgment.",
+      "examples": [
+        {
+          "en": "Booking early is a **sensible** decision.",
+          "fr": "Réserver tôt est une décision raisonnable."
+        },
+        {
+          "en": "She gave us some very **sensible** advice.",
+          "fr": "Elle nous a donné des conseils très judicieux."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Sensible » (émotif) = **sensitive**."
+      }
+    },
+    {
+      "word": "sensitive",
+      "ipa": "/ˈsensətɪv/",
+      "pos": "adjectif",
+      "fr": "sensible, délicat, confidentiel",
+      "def": "Easily affected; or needing to be handled carefully.",
+      "examples": [
+        {
+          "en": "This is a **sensitive** issue for the team.",
+          "fr": "C’est un sujet délicat pour l’équipe."
+        },
+        {
+          "en": "**Sensitive** documents must be locked away.",
+          "fr": "Les documents confidentiels doivent être mis sous clé."
+        }
+      ]
+    },
+    {
+      "word": "lecture",
+      "ipa": "/ˈlektʃər/",
+      "pos": "nom",
+      "fr": "conférence, cours magistral",
+      "def": "A formal talk given to teach people about a subject.",
+      "examples": [
+        {
+          "en": "The professor’s **lecture** on economics was fascinating.",
+          "fr": "Le cours du professeur sur l’économie était passionnant."
+        },
+        {
+          "en": "The **lecture** will be held in Room 101.",
+          "fr": "La conférence aura lieu en salle 101."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Lecture » (lire) = **reading**."
+      }
+    },
+    {
+      "word": "reading",
+      "ipa": "/ˈriːdɪŋ/",
+      "pos": "nom",
+      "fr": "lecture",
+      "def": "The activity of reading.",
+      "examples": [
+        {
+          "en": "**Reading** the instructions carefully saves time.",
+          "fr": "Lire attentivement les consignes fait gagner du temps."
+        },
+        {
+          "en": "The **Reading** section of the TOEIC lasts 75 minutes.",
+          "fr": "La partie Reading du TOEIC dure 75 minutes."
+        }
+      ]
+    },
+    {
+      "word": "assist",
+      "ipa": "/əˈsɪst/",
+      "pos": "verbe",
+      "fr": "aider, assister",
+      "def": "To help someone.",
+      "examples": [
+        {
+          "en": "Our staff will **assist** you with your luggage.",
+          "fr": "Notre personnel vous aidera avec vos bagages."
+        },
+        {
+          "en": "How may I **assist** you today?",
+          "fr": "Comment puis-je vous aider ?"
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Assister à » (être présent) = **attend**."
+      }
+    },
+    {
+      "word": "eventual",
+      "ipa": "/ɪˈventʃuəl/",
+      "pos": "adjectif",
+      "fr": "final, qui finit par arriver",
+      "def": "Happening at the end of a process.",
+      "examples": [
+        {
+          "en": "The **eventual** cost was twice the estimate.",
+          "fr": "Le coût final a été le double de l’estimation."
+        },
+        {
+          "en": "Hard work led to her **eventual** promotion.",
+          "fr": "Son travail acharné a fini par lui valoir une promotion."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Éventuel » = **possible**, **potential**."
+      }
+    },
+    {
+      "word": "issue",
+      "ipa": "/ˈɪʃuː/",
+      "pos": "nom, verbe",
+      "fr": "problème, question ; numéro (magazine) ; délivrer",
+      "def": "A problem or subject; an edition of a magazine; or to give officially.",
+      "examples": [
+        {
+          "en": "We need to discuss this **issue** at the meeting.",
+          "fr": "Nous devons aborder ce problème en réunion."
+        },
+        {
+          "en": "Passports are **issued** by the government.",
+          "fr": "Les passeports sont délivrés par l’État."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Issue » (sortie, résultat) = **exit**, **outcome**."
+      }
+    },
+    {
+      "word": "achieve",
+      "ipa": "/əˈtʃiːv/",
+      "pos": "verbe",
+      "fr": "atteindre, réussir, accomplir",
+      "def": "To succeed in doing something after effort.",
+      "examples": [
+        {
+          "en": "The team **achieved** its sales target.",
+          "fr": "L’équipe a atteint son objectif de ventes."
+        },
+        {
+          "en": "We **achieved** a 10 percent increase in profits.",
+          "fr": "Nous avons obtenu une hausse de 10 % des bénéfices."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Achever » (terminer) = **finish**, **complete**. Nom : **achievement** (réussite)."
+      }
+    },
+    {
+      "word": "control",
+      "ipa": "/kənˈtroʊl/",
+      "pos": "verbe, nom",
+      "fr": "maîtriser, diriger ; contrôle",
+      "def": "To have power over something or manage it.",
+      "examples": [
+        {
+          "en": "The company **controls** 40 percent of the market.",
+          "fr": "L’entreprise détient 40 % du marché."
+        },
+        {
+          "en": "The fire was brought under **control**.",
+          "fr": "L’incendie a été maîtrisé."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Contrôler » (vérifier) = **check**, **inspect**."
+      }
+    },
+    {
+      "word": "check",
+      "ipa": "/tʃek/",
+      "pos": "verbe, nom",
+      "fr": "vérifier ; contrôle ; chèque, addition (US)",
+      "def": "To look at something to make sure it is correct.",
+      "examples": [
+        {
+          "en": "Please **check** the figures before printing.",
+          "fr": "Merci de vérifier les chiffres avant d’imprimer."
+        },
+        {
+          "en": "Security will **check** your bag at the entrance.",
+          "fr": "La sécurité contrôlera votre sac à l’entrée."
+        }
+      ]
+    },
+    {
+      "word": "formation",
+      "ipa": "/fɔːrˈmeɪʃən/",
+      "pos": "nom",
+      "fr": "formation (création, structure)",
+      "def": "The creation or shape of something.",
+      "examples": [
+        {
+          "en": "The **formation** of the new company took six months.",
+          "fr": "La création de la nouvelle entreprise a pris six mois."
+        },
+        {
+          "en": "Rock **formations** attract many tourists.",
+          "fr": "Les formations rocheuses attirent de nombreux touristes."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Formation » (apprentissage) = **training**."
+      }
+    },
+    {
+      "word": "training",
+      "ipa": "/ˈtreɪnɪŋ/",
+      "pos": "nom",
+      "fr": "formation",
+      "def": "The process of learning skills for a job.",
+      "examples": [
+        {
+          "en": "All new employees receive two weeks of **training**.",
+          "fr": "Tous les nouveaux employés suivent deux semaines de formation."
+        },
+        {
+          "en": "The **training** session starts at 9 a.m.",
+          "fr": "La séance de formation commence à 9 h."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Indénombrable. **training course** = stage de formation."
+      }
+    },
+    {
+      "word": "occasion",
+      "ipa": "/əˈkeɪʒən/",
+      "pos": "nom",
+      "fr": "occasion (événement), circonstance",
+      "def": "A particular event or time.",
+      "examples": [
+        {
+          "en": "The anniversary dinner was a special **occasion**.",
+          "fr": "Le dîner d’anniversaire était une occasion spéciale."
+        },
+        {
+          "en": "On this **occasion**, the prize goes to Ms. Reyes.",
+          "fr": "Cette fois-ci, le prix revient à Mme Reyes."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Une occasion » (bonne affaire) = **a bargain** ; « d’occasion » = **used**, **second-hand** ; « saisir l’occasion » = **opportunity**."
+      }
+    },
+    {
+      "word": "opportunity",
+      "ipa": "/ˌɑːpərˈtuːnəti/",
+      "pos": "nom",
+      "fr": "occasion, opportunité, chance",
+      "def": "A chance to do something.",
+      "examples": [
+        {
+          "en": "This is a great **opportunity** to meet potential clients.",
+          "fr": "C’est une excellente occasion de rencontrer des clients potentiels."
+        },
+        {
+          "en": "Thank you for the **opportunity** to interview.",
+          "fr": "Merci de m’avoir donné l’occasion de passer cet entretien."
+        }
+      ]
+    },
+    {
+      "word": "bargain",
+      "ipa": "/ˈbɑːrɡən/",
+      "pos": "nom, verbe",
+      "fr": "bonne affaire ; négocier",
+      "def": "Something bought for less than its usual price.",
+      "examples": [
+        {
+          "en": "At $20, this jacket is a real **bargain**.",
+          "fr": "À 20 $, cette veste est une vraie affaire."
+        },
+        {
+          "en": "Customers often **bargain** at the market.",
+          "fr": "Les clients négocient souvent au marché."
+        }
+      ]
+    },
+    {
+      "word": "coin",
+      "ipa": "/kɔɪn/",
+      "pos": "nom",
+      "fr": "pièce de monnaie",
+      "def": "A small flat piece of metal used as money.",
+      "examples": [
+        {
+          "en": "The parking meter only accepts **coins**.",
+          "fr": "Le parcmètre n’accepte que les pièces."
+        },
+        {
+          "en": "Please insert a **coin** to start the machine.",
+          "fr": "Veuillez insérer une pièce pour démarrer la machine."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Coin » (angle) = **corner**."
+      }
+    },
+    {
+      "word": "corner",
+      "ipa": "/ˈkɔːrnər/",
+      "pos": "nom",
+      "fr": "coin, angle",
+      "def": "The point where two sides or streets meet.",
+      "examples": [
+        {
+          "en": "The café is on the **corner** of Main Street.",
+          "fr": "Le café est au coin de Main Street."
+        },
+        {
+          "en": "A lamp stands in the **corner** of the room.",
+          "fr": "Une lampe est posée dans le coin de la pièce."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Fréquent en Partie 1."
+      }
+    },
+    {
+      "word": "journey",
+      "ipa": "/ˈdʒɜːrni/",
+      "pos": "nom",
+      "fr": "voyage, trajet",
+      "def": "A trip from one place to another.",
+      "examples": [
+        {
+          "en": "The **journey** from London to Paris takes two hours.",
+          "fr": "Le trajet de Londres à Paris dure deux heures."
+        },
+        {
+          "en": "Have a safe **journey**!",
+          "fr": "Bon voyage !"
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Journée » = **day**."
+      }
+    },
+    {
+      "word": "cave",
+      "ipa": "/keɪv/",
+      "pos": "nom",
+      "fr": "grotte",
+      "def": "A large natural hole in rock or a hill.",
+      "examples": [
+        {
+          "en": "Tourists visit the **caves** by boat.",
+          "fr": "Les touristes visitent les grottes en bateau."
+        },
+        {
+          "en": "The **cave** tour lasts one hour.",
+          "fr": "La visite de la grotte dure une heure."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Cave » (sous-sol) = **basement**, **cellar** ; cave à vin = **wine cellar**."
+      }
+    },
+    {
+      "word": "basement",
+      "ipa": "/ˈbeɪsmənt/",
+      "pos": "nom",
+      "fr": "sous-sol",
+      "def": "The floor of a building below ground level.",
+      "examples": [
+        {
+          "en": "The archives are stored in the **basement**.",
+          "fr": "Les archives sont stockées au sous-sol."
+        },
+        {
+          "en": "Parking is available in the **basement**.",
+          "fr": "Le parking est au sous-sol."
+        }
+      ]
+    },
+    {
+      "word": "deception",
+      "ipa": "/dɪˈsepʃən/",
+      "pos": "nom",
+      "fr": "tromperie, supercherie",
+      "def": "The act of making someone believe something false.",
+      "examples": [
+        {
+          "en": "The advertisement was criticized for **deception**.",
+          "fr": "La publicité a été critiquée pour son caractère trompeur."
+        },
+        {
+          "en": "The court found evidence of **deception**.",
+          "fr": "Le tribunal a trouvé des preuves de tromperie."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Déception » = **disappointment**."
+      }
+    },
+    {
+      "word": "disappointment",
+      "ipa": "/ˌdɪsəˈpɔɪntmənt/",
+      "pos": "nom",
+      "fr": "déception",
+      "def": "The feeling of being unhappy because something was not as good as expected.",
+      "examples": [
+        {
+          "en": "The sales results were a **disappointment**.",
+          "fr": "Les résultats des ventes ont été une déception."
+        },
+        {
+          "en": "To our **disappointment**, the event was canceled.",
+          "fr": "À notre grande déception, l’événement a été annulé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **disappointed** (déçu), **disappointing** (décevant)."
+      }
+    },
+    {
+      "word": "propriety",
+      "ipa": "/prəˈpraɪəti/",
+      "pos": "nom",
+      "fr": "bienséance, convenances",
+      "def": "Correct and polite behavior.",
+      "examples": [
+        {
+          "en": "Staff must act with **propriety** at all times.",
+          "fr": "Le personnel doit toujours se comporter avec correction."
+        },
+        {
+          "en": "The board questioned the **propriety** of the payment.",
+          "fr": "Le conseil a mis en doute la régularité du paiement."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Propriété » = **property**, **ownership**."
+      }
+    },
+    {
+      "word": "ownership",
+      "ipa": "/ˈoʊnərʃɪp/",
+      "pos": "nom",
+      "fr": "propriété (le fait de posséder)",
+      "def": "The fact of owning something.",
+      "examples": [
+        {
+          "en": "The restaurant is under new **ownership**.",
+          "fr": "Le restaurant a changé de propriétaire."
+        },
+        {
+          "en": "Home **ownership** has increased in the region.",
+          "fr": "Le nombre de propriétaires a augmenté dans la région."
+        }
+      ]
+    },
+    {
+      "word": "chance",
+      "ipa": "/tʃæns/",
+      "pos": "nom",
+      "fr": "possibilité, occasion ; hasard",
+      "def": "A possibility that something will happen; or luck.",
+      "examples": [
+        {
+          "en": "There’s a good **chance** it will rain tomorrow.",
+          "fr": "Il y a de fortes chances qu’il pleuve demain."
+        },
+        {
+          "en": "I met her by **chance** at the conference.",
+          "fr": "Je l’ai rencontrée par hasard à la conférence."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Avoir de la chance » = **be lucky**."
+      }
+    },
+    {
+      "word": "luck",
+      "ipa": "/lʌk/",
+      "pos": "nom",
+      "fr": "chance (le hasard favorable)",
+      "def": "Success that comes by chance.",
+      "examples": [
+        {
+          "en": "Good **luck** with your interview!",
+          "fr": "Bonne chance pour ton entretien !"
+        },
+        {
+          "en": "We had the **luck** to find a table right away.",
+          "fr": "Nous avons eu la chance de trouver une table tout de suite."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **lucky**."
+      }
+    },
+    {
+      "word": "reunion",
+      "ipa": "/riˈjuːnjən/",
+      "pos": "nom",
+      "fr": "retrouvailles",
+      "def": "A meeting of people who have not seen each other for a long time.",
+      "examples": [
+        {
+          "en": "The class **reunion** is held every ten years.",
+          "fr": "Les retrouvailles de la promotion ont lieu tous les dix ans."
+        },
+        {
+          "en": "We organized a family **reunion** in July.",
+          "fr": "Nous avons organisé une réunion de famille en juillet."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Une réunion » (de travail) = **a meeting**."
+      }
+    },
+    {
+      "word": "meeting",
+      "ipa": "/ˈmiːtɪŋ/",
+      "pos": "nom",
+      "fr": "réunion",
+      "def": "An occasion when people come together to discuss something.",
+      "examples": [
+        {
+          "en": "The **meeting** has been moved to Room B.",
+          "fr": "La réunion a été déplacée en salle B."
+        },
+        {
+          "en": "I have back-to-back **meetings** all afternoon.",
+          "fr": "J’ai des réunions qui s’enchaînent tout l’après-midi."
+        }
+      ]
+    },
+    {
+      "word": "stage",
+      "ipa": "/steɪdʒ/",
+      "pos": "nom",
+      "fr": "étape ; scène",
+      "def": "A period or step in a process; or the platform in a theater.",
+      "examples": [
+        {
+          "en": "The project is in its final **stage**.",
+          "fr": "Le projet est dans sa dernière phase."
+        },
+        {
+          "en": "The singer walked onto the **stage**.",
+          "fr": "La chanteuse est entrée sur scène."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Un stage » (en entreprise) = **an internship**."
+      }
+    },
+    {
+      "word": "coach",
+      "ipa": "/koʊtʃ/",
+      "pos": "nom",
+      "fr": "autocar ; entraîneur ; classe économique",
+      "def": "A long-distance bus; a sports trainer; or economy class on a plane.",
+      "examples": [
+        {
+          "en": "The **coach** leaves for the airport at 6 a.m.",
+          "fr": "L’autocar part pour l’aéroport à 6 h."
+        },
+        {
+          "en": "I usually fly **coach** to save money.",
+          "fr": "Je voyage généralement en classe économique pour économiser."
+        }
+      ]
+    },
+    {
+      "word": "large",
+      "ipa": "/lɑːrdʒ/",
+      "pos": "adjectif",
+      "fr": "grand, gros, important",
+      "def": "Big in size or amount.",
+      "examples": [
+        {
+          "en": "The company placed a **large** order.",
+          "fr": "L’entreprise a passé une grosse commande."
+        },
+        {
+          "en": "A **large** number of people attended.",
+          "fr": "Un grand nombre de personnes était présent."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Large » (en largeur) = **wide**, **broad**."
+      }
+    },
+    {
+      "word": "wide",
+      "ipa": "/waɪd/",
+      "pos": "adjectif",
+      "fr": "large",
+      "def": "Measuring a long distance from one side to the other.",
+      "examples": [
+        {
+          "en": "The road is ten meters **wide**.",
+          "fr": "La route fait dix mètres de large."
+        },
+        {
+          "en": "The store offers a **wide** range of products.",
+          "fr": "Le magasin propose une large gamme de produits."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**a wide range / selection of** = un large choix de."
+      }
+    },
+    {
+      "word": "to demand",
+      "ipa": "/dɪˈmænd/",
+      "pos": "verbe",
+      "fr": "exiger, réclamer",
+      "def": "To ask for something firmly, as a right.",
+      "examples": [
+        {
+          "en": "The customer **demanded** a full refund.",
+          "fr": "Le client a exigé un remboursement intégral."
+        },
+        {
+          "en": "The job **demands** a lot of patience.",
+          "fr": "Le poste exige beaucoup de patience."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Demander » = **ask (for)**, **request**."
+      }
+    },
+    {
+      "word": "request",
+      "ipa": "/rɪˈkwest/",
+      "pos": "nom, verbe",
+      "fr": "demande ; demander",
+      "def": "A polite or official act of asking for something.",
+      "examples": [
+        {
+          "en": "We received your **request** for information.",
+          "fr": "Nous avons reçu votre demande d’informations."
+        },
+        {
+          "en": "Guests may **request** a late checkout.",
+          "fr": "Les clients peuvent demander un départ tardif."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Formel. ! Pas de préposition : **request something** (pas « request for » avec le verbe)."
+      }
+    },
+    {
+      "word": "location",
+      "ipa": "/loʊˈkeɪʃən/",
+      "pos": "nom",
+      "fr": "emplacement, lieu, site",
+      "def": "A place or position.",
+      "examples": [
+        {
+          "en": "The hotel is in a convenient **location**.",
+          "fr": "L’hôtel est idéalement situé."
+        },
+        {
+          "en": "The company has **locations** in five cities.",
+          "fr": "L’entreprise a des sites dans cinq villes."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Location » (louer) = **rental**."
+      }
+    },
+    {
+      "word": "rental",
+      "ipa": "/ˈrentəl/",
+      "pos": "nom",
+      "fr": "location",
+      "def": "The act of renting something, or the amount paid.",
+      "examples": [
+        {
+          "en": "Car **rental** is included in the package.",
+          "fr": "La location de voiture est comprise dans le forfait."
+        },
+        {
+          "en": "The **rental** fee is $30 per day.",
+          "fr": "Le prix de la location est de 30 $ par jour."
+        }
+      ]
+    },
+    {
+      "word": "lunatic",
+      "ipa": "/ˈluːnətɪk/",
+      "pos": "nom",
+      "fr": "fou, dément",
+      "def": "A person who behaves in a crazy way (informal).",
+      "examples": [
+        {
+          "en": "He drove like a **lunatic**.",
+          "fr": "Il conduisait comme un fou."
+        },
+        {
+          "en": "Only a **lunatic** would work 18 hours a day.",
+          "fr": "Il faut être fou pour travailler 18 heures par jour."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Lunatique » (d’humeur changeante) = **moody**."
+      }
+    },
+    {
+      "word": "novel",
+      "ipa": "/ˈnɑːvəl/",
+      "pos": "nom, adjectif",
+      "fr": "roman ; nouveau, original",
+      "def": "A long written story; or new and original.",
+      "examples": [
+        {
+          "en": "Her first **novel** became a bestseller.",
+          "fr": "Son premier roman est devenu un best-seller."
+        },
+        {
+          "en": "The company has a **novel** approach to marketing.",
+          "fr": "L’entreprise a une approche originale du marketing."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Une nouvelle » (récit court) = **a short story** ; « les nouvelles » = **the news**."
+      }
+    },
+    {
+      "word": "comprehensive",
+      "ipa": "/ˌkɑːmprɪˈhensɪv/",
+      "pos": "adjectif",
+      "fr": "complet, exhaustif",
+      "def": "Including everything that is needed.",
+      "examples": [
+        {
+          "en": "The guide offers a **comprehensive** list of hotels.",
+          "fr": "Le guide propose une liste complète d’hôtels."
+        },
+        {
+          "en": "We provide **comprehensive** insurance coverage.",
+          "fr": "Nous proposons une couverture d’assurance complète."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Compréhensif » = **understanding**."
+      }
+    },
+    {
+      "word": "understanding",
+      "ipa": "/ˌʌndərˈstændɪŋ/",
+      "pos": "adjectif, nom",
+      "fr": "compréhensif ; compréhension",
+      "def": "Kind and willing to forgive; or knowledge of something.",
+      "examples": [
+        {
+          "en": "Thank you for being so **understanding** about the delay.",
+          "fr": "Merci de votre compréhension concernant ce retard."
+        },
+        {
+          "en": "She has a good **understanding** of the market.",
+          "fr": "Elle a une bonne compréhension du marché."
+        }
+      ]
+    }
+  ]
+}

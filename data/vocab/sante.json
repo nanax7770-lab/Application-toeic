@@ -1,0 +1,776 @@
+{
+  "id": "sante",
+  "name": "Santé",
+  "short": "Santé",
+  "group": "theme",
+  "description": "Rendez-vous médicaux, pharmacie, assurance et bien-être au travail.",
+  "cards": [
+    {
+      "word": "appointment",
+      "ipa": "/əˈpɔɪntmənt/",
+      "pos": "nom",
+      "fr": "rendez-vous",
+      "def": "An arrangement to see someone, such as a doctor, at a particular time.",
+      "examples": [
+        {
+          "en": "I have a dental **appointment** at 3 p.m.",
+          "fr": "J’ai rendez-vous chez le dentiste à 15 h."
+        },
+        {
+          "en": "Please call to **make an appointment**.",
+          "fr": "Merci d’appeler pour prendre rendez-vous."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**make / cancel / reschedule an appointment**. ! Un rendez-vous amoureux = **date**."
+      }
+    },
+    {
+      "word": "physician",
+      "ipa": "/fɪˈzɪʃən/",
+      "pos": "nom",
+      "fr": "médecin",
+      "def": "A medical doctor.",
+      "examples": [
+        {
+          "en": "Consult your **physician** before starting the program.",
+          "fr": "Consultez votre médecin avant de commencer le programme."
+        },
+        {
+          "en": "She is a family **physician** in Boston.",
+          "fr": "Elle est médecin généraliste à Boston."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : un « physicien » se dit **physicist**."
+      }
+    },
+    {
+      "word": "prescription",
+      "ipa": "/prɪˈskrɪpʃən/",
+      "pos": "nom",
+      "fr": "ordonnance",
+      "def": "A doctor’s written instruction for medicine.",
+      "examples": [
+        {
+          "en": "You need a **prescription** to buy this medicine.",
+          "fr": "Il faut une ordonnance pour acheter ce médicament."
+        },
+        {
+          "en": "The pharmacist filled my **prescription** in ten minutes.",
+          "fr": "Le pharmacien m’a préparé mon ordonnance en dix minutes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **prescribe**. **fill a prescription** = délivrer les médicaments."
+      }
+    },
+    {
+      "word": "pharmacy",
+      "ipa": "/ˈfɑːrməsi/",
+      "pos": "nom",
+      "fr": "pharmacie",
+      "def": "A store where medicines are sold.",
+      "examples": [
+        {
+          "en": "The **pharmacy** is open until 10 p.m.",
+          "fr": "La pharmacie est ouverte jusqu’à 22 h."
+        },
+        {
+          "en": "You can pick up your medicine at the **pharmacy** counter.",
+          "fr": "Vous pouvez récupérer vos médicaments au comptoir de la pharmacie."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne : **pharmacist**. Aussi : **drugstore** (US), **chemist’s** (UK)."
+      }
+    },
+    {
+      "word": "medication",
+      "ipa": "/ˌmedɪˈkeɪʃən/",
+      "pos": "nom",
+      "fr": "médicament, traitement",
+      "def": "A substance used to treat an illness.",
+      "examples": [
+        {
+          "en": "Are you currently taking any **medication**?",
+          "fr": "Prenez-vous actuellement un traitement ?"
+        },
+        {
+          "en": "This **medication** may cause drowsiness.",
+          "fr": "Ce médicament peut provoquer de la somnolence."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **medicine**."
+      }
+    },
+    {
+      "word": "symptom",
+      "ipa": "/ˈsɪmptəm/",
+      "pos": "nom",
+      "fr": "symptôme",
+      "def": "A sign of an illness.",
+      "examples": [
+        {
+          "en": "Common **symptoms** include fever and headache.",
+          "fr": "Les symptômes courants sont la fièvre et le mal de tête."
+        },
+        {
+          "en": "Call your doctor if the **symptoms** continue.",
+          "fr": "Appelez votre médecin si les symptômes persistent."
+        }
+      ]
+    },
+    {
+      "word": "checkup",
+      "ipa": "/ˈtʃekʌp/",
+      "pos": "nom",
+      "fr": "bilan de santé, visite de contrôle",
+      "def": "A general medical examination.",
+      "examples": [
+        {
+          "en": "I go to the doctor for a **checkup** once a year.",
+          "fr": "Je vais chez le médecin pour un bilan une fois par an."
+        },
+        {
+          "en": "Employees are offered a free annual **checkup**.",
+          "fr": "Un bilan de santé annuel gratuit est proposé aux employés."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **medical examination**, **physical** (US)."
+      }
+    },
+    {
+      "word": "clinic",
+      "ipa": "/ˈklɪnɪk/",
+      "pos": "nom",
+      "fr": "centre médical, cabinet",
+      "def": "A place where people receive medical treatment or advice.",
+      "examples": [
+        {
+          "en": "The **clinic** is closed on Sundays.",
+          "fr": "Le centre médical est fermé le dimanche."
+        },
+        {
+          "en": "She works at a small dental **clinic**.",
+          "fr": "Elle travaille dans un petit cabinet dentaire."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Une « clinique » (hôpital privé) se dit plutôt **private hospital**."
+      }
+    },
+    {
+      "word": "patient",
+      "ipa": "/ˈpeɪʃənt/",
+      "pos": "nom, adjectif",
+      "fr": "patient ; patient (qui a de la patience)",
+      "def": "A person receiving medical care; or able to wait calmly.",
+      "examples": [
+        {
+          "en": "The doctor sees about 30 **patients** a day.",
+          "fr": "Le médecin voit environ 30 patients par jour."
+        },
+        {
+          "en": "Thank you for being **patient** while we fix the system.",
+          "fr": "Merci de votre patience pendant que nous réparons le système."
+        }
+      ]
+    },
+    {
+      "word": "health insurance",
+      "ipa": "/helθ ɪnˈʃʊrəns/",
+      "pos": "nom",
+      "fr": "assurance maladie, mutuelle",
+      "def": "A plan that pays for medical care.",
+      "examples": [
+        {
+          "en": "The company provides **health insurance** for all employees.",
+          "fr": "L’entreprise fournit une assurance maladie à tous ses salariés."
+        },
+        {
+          "en": "Does your **health insurance** cover dental care?",
+          "fr": "Votre assurance santé couvre-t-elle les soins dentaires ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**insurance policy** = contrat d’assurance ; **coverage** = couverture."
+      }
+    },
+    {
+      "word": "coverage",
+      "ipa": "/ˈkʌvərɪdʒ/",
+      "pos": "nom",
+      "fr": "couverture (assurance, médias)",
+      "def": "The protection an insurance policy gives; or reporting by the media.",
+      "examples": [
+        {
+          "en": "The plan offers full **coverage** for hospital stays.",
+          "fr": "Le contrat offre une couverture complète pour les hospitalisations."
+        },
+        {
+          "en": "The event received wide media **coverage**.",
+          "fr": "L’événement a bénéficié d’une large couverture médiatique."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **cover**."
+      }
+    },
+    {
+      "word": "emergency",
+      "ipa": "/ɪˈmɜːrdʒənsi/",
+      "pos": "nom",
+      "fr": "urgence",
+      "def": "A sudden dangerous situation that needs immediate action.",
+      "examples": [
+        {
+          "en": "In case of **emergency**, call 911.",
+          "fr": "En cas d’urgence, appelez le 911."
+        },
+        {
+          "en": "Please use the **emergency** exit only when necessary.",
+          "fr": "Merci de n’utiliser la sortie de secours qu’en cas de nécessité."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**emergency room (ER)** = les urgences ; **emergency exit** = sortie de secours."
+      }
+    },
+    {
+      "word": "recover",
+      "ipa": "/rɪˈkʌvər/",
+      "pos": "verbe",
+      "fr": "se rétablir, récupérer",
+      "def": "To become healthy again after an illness; or to get something back.",
+      "examples": [
+        {
+          "en": "She is **recovering** from surgery.",
+          "fr": "Elle se remet d’une opération."
+        },
+        {
+          "en": "The police **recovered** the stolen equipment.",
+          "fr": "La police a récupéré le matériel volé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **recovery** (guérison, reprise)."
+      }
+    },
+    {
+      "word": "surgery",
+      "ipa": "/ˈsɜːrdʒəri/",
+      "pos": "nom",
+      "fr": "chirurgie, opération",
+      "def": "Medical treatment in which a doctor cuts into the body.",
+      "examples": [
+        {
+          "en": "He had knee **surgery** last month.",
+          "fr": "Il a été opéré du genou le mois dernier."
+        },
+        {
+          "en": "The **surgery** was successful.",
+          "fr": "L’opération a réussi."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Le chirurgien : **surgeon**."
+      }
+    },
+    {
+      "word": "sick leave",
+      "ipa": "/sɪk liːv/",
+      "pos": "nom",
+      "fr": "arrêt maladie",
+      "def": "Time off work because of illness.",
+      "examples": [
+        {
+          "en": "Mr. Adams is on **sick leave** this week.",
+          "fr": "M. Adams est en arrêt maladie cette semaine."
+        },
+        {
+          "en": "Employees get ten days of paid **sick leave**.",
+          "fr": "Les employés ont droit à dix jours d’arrêt maladie payés."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**call in sick** = appeler pour dire qu’on est malade."
+      }
+    },
+    {
+      "word": "wellness",
+      "ipa": "/ˈwelnəs/",
+      "pos": "nom",
+      "fr": "bien-être, santé",
+      "def": "The state of being healthy, especially when actively working at it.",
+      "examples": [
+        {
+          "en": "The company launched an employee **wellness** program.",
+          "fr": "L’entreprise a lancé un programme de bien-être pour les employés."
+        },
+        {
+          "en": "The hotel has a **wellness** center with a sauna.",
+          "fr": "L’hôtel dispose d’un espace bien-être avec sauna."
+        }
+      ]
+    },
+    {
+      "word": "nutrition",
+      "ipa": "/nuːˈtrɪʃən/",
+      "pos": "nom",
+      "fr": "nutrition, alimentation",
+      "def": "The food you eat and how it affects your health.",
+      "examples": [
+        {
+          "en": "Good **nutrition** is important for concentration.",
+          "fr": "Une bonne alimentation est importante pour la concentration."
+        },
+        {
+          "en": "A **nutrition** expert will give a talk on Friday.",
+          "fr": "Un spécialiste de la nutrition donnera une conférence vendredi."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **nutritious** (nourrissant)."
+      }
+    },
+    {
+      "word": "fitness",
+      "ipa": "/ˈfɪtnəs/",
+      "pos": "nom",
+      "fr": "forme physique",
+      "def": "The condition of being physically strong and healthy.",
+      "examples": [
+        {
+          "en": "Employees can use the **fitness** center for free.",
+          "fr": "Les employés peuvent utiliser la salle de sport gratuitement."
+        },
+        {
+          "en": "Regular exercise improves your **fitness**.",
+          "fr": "L’exercice régulier améliore votre forme physique."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **fit** (en forme)."
+      }
+    },
+    {
+      "word": "dental",
+      "ipa": "/ˈdentəl/",
+      "pos": "adjectif",
+      "fr": "dentaire",
+      "def": "Relating to teeth.",
+      "examples": [
+        {
+          "en": "The plan includes **dental** and vision coverage.",
+          "fr": "Le contrat inclut une couverture dentaire et optique."
+        },
+        {
+          "en": "I have a **dental** checkup next week.",
+          "fr": "J’ai un contrôle chez le dentiste la semaine prochaine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**dental hygienist** = hygiéniste dentaire."
+      }
+    },
+    {
+      "word": "treatment",
+      "ipa": "/ˈtriːtmənt/",
+      "pos": "nom",
+      "fr": "traitement, soins",
+      "def": "Medical care for an illness or injury.",
+      "examples": [
+        {
+          "en": "The new **treatment** has helped many patients.",
+          "fr": "Le nouveau traitement a aidé de nombreux patients."
+        },
+        {
+          "en": "She received **treatment** at the local hospital.",
+          "fr": "Elle a été soignée à l’hôpital local."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **treat** (soigner ; aussi inviter, offrir)."
+      }
+    },
+    {
+      "word": "injury",
+      "ipa": "/ˈɪndʒəri/",
+      "pos": "nom",
+      "fr": "blessure",
+      "def": "Physical harm or damage to the body.",
+      "examples": [
+        {
+          "en": "Wear a helmet to prevent head **injuries**.",
+          "fr": "Portez un casque pour éviter les blessures à la tête."
+        },
+        {
+          "en": "He missed work because of a back **injury**.",
+          "fr": "Il a manqué le travail à cause d’une blessure au dos."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **injure** ; adjectif : **injured**. ! **injury** ≠ « injure » (= **insult**)."
+      }
+    },
+    {
+      "word": "first aid",
+      "ipa": "/fɜːrst eɪd/",
+      "pos": "nom",
+      "fr": "premiers secours",
+      "def": "Basic medical help given before a doctor arrives.",
+      "examples": [
+        {
+          "en": "Several staff members are trained in **first aid**.",
+          "fr": "Plusieurs membres du personnel sont formés aux premiers secours."
+        },
+        {
+          "en": "The **first-aid** kit is in the kitchen.",
+          "fr": "La trousse de premiers secours est dans la cuisine."
+        }
+      ]
+    },
+    {
+      "word": "vaccination",
+      "ipa": "/ˌvæksɪˈneɪʃən/",
+      "pos": "nom",
+      "fr": "vaccination",
+      "def": "An injection that protects against a disease.",
+      "examples": [
+        {
+          "en": "Free flu **vaccinations** are available at the clinic.",
+          "fr": "Des vaccinations gratuites contre la grippe sont proposées au centre médical."
+        },
+        {
+          "en": "Some countries require proof of **vaccination**.",
+          "fr": "Certains pays exigent une preuve de vaccination."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **vaccine** (vaccin), **shot** (piqûre, familier)."
+      }
+    },
+    {
+      "word": "allergy",
+      "ipa": "/ˈælərdʒi/",
+      "pos": "nom",
+      "fr": "allergie",
+      "def": "A medical condition that causes a reaction to certain foods or substances.",
+      "examples": [
+        {
+          "en": "Please tell your server about any food **allergies**.",
+          "fr": "Merci de signaler toute allergie alimentaire à votre serveur."
+        },
+        {
+          "en": "She has an **allergy** to peanuts.",
+          "fr": "Elle est allergique aux cacahuètes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **allergic to**."
+      }
+    },
+    {
+      "word": "pharmaceutical",
+      "ipa": "/ˌfɑːrməˈsuːtɪkəl/",
+      "pos": "adjectif",
+      "fr": "pharmaceutique",
+      "def": "Relating to the production of medicines.",
+      "examples": [
+        {
+          "en": "He works for a large **pharmaceutical** company.",
+          "fr": "Il travaille pour un grand laboratoire pharmaceutique."
+        },
+        {
+          "en": "The **pharmaceutical** industry spends heavily on research.",
+          "fr": "L’industrie pharmaceutique investit beaucoup dans la recherche."
+        }
+      ]
+    },
+    {
+      "word": "diagnosis",
+      "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+      "pos": "nom",
+      "fr": "diagnostic",
+      "def": "The identification of an illness after examining someone.",
+      "examples": [
+        {
+          "en": "The doctor confirmed the **diagnosis** after the tests.",
+          "fr": "Le médecin a confirmé le diagnostic après les examens."
+        },
+        {
+          "en": "Early **diagnosis** improves treatment results.",
+          "fr": "Un diagnostic précoce améliore les résultats du traitement."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Pluriel : **diagnoses**. Verbe : **diagnose**."
+      }
+    },
+    {
+      "word": "medical records",
+      "ipa": "/ˈmedɪkəl ˈrekərdz/",
+      "pos": "nom pluriel",
+      "fr": "dossier médical",
+      "def": "Documents containing a person’s health history.",
+      "examples": [
+        {
+          "en": "Please bring your **medical records** to the appointment.",
+          "fr": "Merci d’apporter votre dossier médical au rendez-vous."
+        },
+        {
+          "en": "**Medical records** are kept confidential.",
+          "fr": "Les dossiers médicaux restent confidentiels."
+        }
+      ]
+    },
+    {
+      "word": "waiting room",
+      "ipa": "/ˈweɪtɪŋ ruːm/",
+      "pos": "nom",
+      "fr": "salle d’attente",
+      "def": "A room where people wait, for example to see a doctor.",
+      "examples": [
+        {
+          "en": "Please have a seat in the **waiting room**.",
+          "fr": "Veuillez vous asseoir dans la salle d’attente."
+        },
+        {
+          "en": "Magazines are provided in the **waiting room**.",
+          "fr": "Des magazines sont mis à disposition dans la salle d’attente."
+        }
+      ]
+    },
+    {
+      "word": "nurse",
+      "ipa": "/nɜːrs/",
+      "pos": "nom",
+      "fr": "infirmier, infirmière",
+      "def": "A person trained to care for sick or injured people.",
+      "examples": [
+        {
+          "en": "The **nurse** will take your blood pressure.",
+          "fr": "L’infirmière va prendre votre tension."
+        },
+        {
+          "en": "The hospital is hiring more **nurses**.",
+          "fr": "L’hôpital recrute davantage d’infirmiers."
+        }
+      ]
+    },
+    {
+      "word": "hygiene",
+      "ipa": "/ˈhaɪdʒiːn/",
+      "pos": "nom",
+      "fr": "hygiène",
+      "def": "The practice of keeping yourself and your environment clean.",
+      "examples": [
+        {
+          "en": "Food **hygiene** rules must be followed in the kitchen.",
+          "fr": "Les règles d’hygiène alimentaire doivent être respectées en cuisine."
+        },
+        {
+          "en": "Good hand **hygiene** prevents infections.",
+          "fr": "Une bonne hygiène des mains évite les infections."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **hygienic**."
+      }
+    },
+    {
+      "word": "ergonomic",
+      "ipa": "/ˌɜːrɡəˈnɑːmɪk/",
+      "pos": "adjectif",
+      "fr": "ergonomique",
+      "def": "Designed to be comfortable and reduce strain on the body.",
+      "examples": [
+        {
+          "en": "All staff will receive **ergonomic** chairs.",
+          "fr": "Tout le personnel recevra des chaises ergonomiques."
+        },
+        {
+          "en": "An **ergonomic** keyboard can reduce wrist pain.",
+          "fr": "Un clavier ergonomique peut réduire les douleurs au poignet."
+        }
+      ]
+    },
+    {
+      "word": "stress",
+      "ipa": "/stres/",
+      "pos": "nom",
+      "fr": "stress",
+      "def": "Pressure or worry caused by problems or too much work.",
+      "examples": [
+        {
+          "en": "Regular breaks help reduce **stress**.",
+          "fr": "Des pauses régulières aident à réduire le stress."
+        },
+        {
+          "en": "The workshop teaches how to manage **stress**.",
+          "fr": "L’atelier enseigne comment gérer le stress."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **stressful** (stressant), **stressed** (stressé)."
+      }
+    },
+    {
+      "word": "blood pressure",
+      "ipa": "/blʌd ˈpreʃər/",
+      "pos": "nom",
+      "fr": "tension artérielle",
+      "def": "The force of blood in the body, measured by a doctor.",
+      "examples": [
+        {
+          "en": "The nurse checked my **blood pressure**.",
+          "fr": "L’infirmière a vérifié ma tension."
+        },
+        {
+          "en": "High **blood pressure** can be controlled with medication.",
+          "fr": "L’hypertension peut être contrôlée par un traitement."
+        }
+      ]
+    },
+    {
+      "word": "over-the-counter",
+      "ipa": "/ˌoʊvər ðə ˈkaʊntər/",
+      "pos": "adjectif",
+      "fr": "en vente libre, sans ordonnance",
+      "def": "Able to be bought without a prescription.",
+      "examples": [
+        {
+          "en": "You can buy this **over-the-counter** medicine at any pharmacy.",
+          "fr": "Vous pouvez acheter ce médicament sans ordonnance dans n’importe quelle pharmacie."
+        },
+        {
+          "en": "**Over-the-counter** painkillers are available at the front desk.",
+          "fr": "Des antidouleurs en vente libre sont disponibles à l’accueil."
+        }
+      ]
+    },
+    {
+      "word": "dosage",
+      "ipa": "/ˈdoʊsɪdʒ/",
+      "pos": "nom",
+      "fr": "posologie, dose",
+      "def": "The amount of medicine to be taken and how often.",
+      "examples": [
+        {
+          "en": "Do not exceed the recommended **dosage**.",
+          "fr": "Ne dépassez pas la dose recommandée."
+        },
+        {
+          "en": "The **dosage** is printed on the label.",
+          "fr": "La posologie est indiquée sur l’étiquette."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **dose**."
+      }
+    },
+    {
+      "word": "specialist",
+      "ipa": "/ˈspeʃəlɪst/",
+      "pos": "nom",
+      "fr": "spécialiste",
+      "def": "A doctor who is an expert in one area of medicine.",
+      "examples": [
+        {
+          "en": "My doctor referred me to a heart **specialist**.",
+          "fr": "Mon médecin m’a orienté vers un cardiologue."
+        },
+        {
+          "en": "You need a referral to see a **specialist**.",
+          "fr": "Il faut une lettre d’orientation pour consulter un spécialiste."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**referral** = orientation vers un spécialiste."
+      }
+    },
+    {
+      "word": "admit",
+      "ipa": "/ədˈmɪt/",
+      "pos": "verbe",
+      "fr": "admettre, hospitaliser ; reconnaître",
+      "def": "To allow someone to enter, especially a hospital; or to accept that something is true.",
+      "examples": [
+        {
+          "en": "He was **admitted** to the hospital last night.",
+          "fr": "Il a été hospitalisé hier soir."
+        },
+        {
+          "en": "The company **admitted** that the product had a defect.",
+          "fr": "L’entreprise a reconnu que le produit avait un défaut."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **admission** (entrée, admission)."
+      }
+    },
+    {
+      "word": "ambulance",
+      "ipa": "/ˈæmbjələns/",
+      "pos": "nom",
+      "fr": "ambulance",
+      "def": "A vehicle that takes sick or injured people to hospital.",
+      "examples": [
+        {
+          "en": "Someone called an **ambulance** after the accident.",
+          "fr": "Quelqu’un a appelé une ambulance après l’accident."
+        },
+        {
+          "en": "The **ambulance** arrived within five minutes.",
+          "fr": "L’ambulance est arrivée en moins de cinq minutes."
+        }
+      ]
+    },
+    {
+      "word": "epidemic",
+      "ipa": "/ˌepɪˈdemɪk/",
+      "pos": "nom",
+      "fr": "épidémie",
+      "def": "A disease that spreads quickly and affects many people.",
+      "examples": [
+        {
+          "en": "The flu **epidemic** closed several schools.",
+          "fr": "L’épidémie de grippe a fermé plusieurs écoles."
+        },
+        {
+          "en": "Health officials are working to stop the **epidemic**.",
+          "fr": "Les autorités sanitaires s’efforcent d’arrêter l’épidémie."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,823 @@
+{
+  "id": "restaurants",
+  "name": "Restaurants",
+  "short": "Restaurants",
+  "group": "theme",
+  "description": "Repas d’affaires, traiteurs, menus et service en salle.",
+  "cards": [
+    {
+      "word": "appetizer",
+      "ipa": "/ˈæpɪtaɪzər/",
+      "pos": "nom",
+      "fr": "entrée, amuse-bouche",
+      "def": "A small dish served before the main meal.",
+      "examples": [
+        {
+          "en": "We ordered two **appetizers** to share.",
+          "fr": "Nous avons commandé deux entrées à partager."
+        },
+        {
+          "en": "The **appetizers** will be served at 7 p.m.",
+          "fr": "Les amuse-bouches seront servis à 19 h."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **starter**."
+      }
+    },
+    {
+      "word": "entrée",
+      "ipa": "/ˈɑːntreɪ/",
+      "pos": "nom",
+      "fr": "plat principal (US)",
+      "def": "The main dish of a meal, in American English.",
+      "examples": [
+        {
+          "en": "Each **entrée** comes with a salad or soup.",
+          "fr": "Chaque plat principal est servi avec une salade ou une soupe."
+        },
+        {
+          "en": "The fish **entrée** is today’s special.",
+          "fr": "Le plat de poisson est le plat du jour."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : aux États-Unis, **entrée** = plat principal. Notre « entrée » = **appetizer** / **starter**."
+      }
+    },
+    {
+      "word": "main course",
+      "ipa": "/meɪn kɔːrs/",
+      "pos": "nom",
+      "fr": "plat principal",
+      "def": "The largest and most important dish of a meal.",
+      "examples": [
+        {
+          "en": "For the **main course**, I’ll have the grilled chicken.",
+          "fr": "En plat principal, je prendrai le poulet grillé."
+        },
+        {
+          "en": "Dessert is served after the **main course**.",
+          "fr": "Le dessert est servi après le plat principal."
+        }
+      ]
+    },
+    {
+      "word": "beverage",
+      "ipa": "/ˈbevərɪdʒ/",
+      "pos": "nom",
+      "fr": "boisson",
+      "def": "A drink of any kind (formal).",
+      "examples": [
+        {
+          "en": "Hot and cold **beverages** are available in the lobby.",
+          "fr": "Des boissons chaudes et froides sont disponibles dans le hall."
+        },
+        {
+          "en": "The price includes food and **beverages**.",
+          "fr": "Le prix comprend la nourriture et les boissons."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Plus formel que **drink**. Fréquent dans les annonces."
+      }
+    },
+    {
+      "word": "cuisine",
+      "ipa": "/kwɪˈziːn/",
+      "pos": "nom",
+      "fr": "cuisine (style culinaire)",
+      "def": "A style of cooking from a particular country or region.",
+      "examples": [
+        {
+          "en": "The restaurant specializes in Thai **cuisine**.",
+          "fr": "Le restaurant est spécialisé dans la cuisine thaïe."
+        },
+        {
+          "en": "The hotel is famous for its local **cuisine**.",
+          "fr": "L’hôtel est réputé pour sa cuisine locale."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "La pièce « cuisine » se dit **kitchen**."
+      }
+    },
+    {
+      "word": "caterer",
+      "ipa": "/ˈkeɪtərər/",
+      "pos": "nom",
+      "fr": "traiteur",
+      "def": "A company that provides food and drinks for events.",
+      "examples": [
+        {
+          "en": "We hired a **caterer** for the company picnic.",
+          "fr": "Nous avons engagé un traiteur pour le pique-nique de l’entreprise."
+        },
+        {
+          "en": "The **caterer** will arrive at noon to set up.",
+          "fr": "Le traiteur arrivera à midi pour tout installer."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **cater** (an event) ; nom : **catering** (restauration, service traiteur)."
+      }
+    },
+    {
+      "word": "catering",
+      "ipa": "/ˈkeɪtərɪŋ/",
+      "pos": "nom",
+      "fr": "service traiteur, restauration",
+      "def": "The service of providing food and drinks at events.",
+      "examples": [
+        {
+          "en": "**Catering** for the conference was excellent.",
+          "fr": "Le service traiteur de la conférence était excellent."
+        },
+        {
+          "en": "Who is in charge of **catering** for the party?",
+          "fr": "Qui s’occupe du traiteur pour la fête ?"
+        }
+      ]
+    },
+    {
+      "word": "banquet",
+      "ipa": "/ˈbæŋkwɪt/",
+      "pos": "nom",
+      "fr": "banquet, dîner de gala",
+      "def": "A large formal meal for many people.",
+      "examples": [
+        {
+          "en": "The awards **banquet** will be held on Saturday evening.",
+          "fr": "Le dîner de remise des prix aura lieu samedi soir."
+        },
+        {
+          "en": "The hotel has a **banquet** hall for 300 guests.",
+          "fr": "L’hôtel dispose d’une salle de réception pour 300 invités."
+        }
+      ]
+    },
+    {
+      "word": "buffet",
+      "ipa": "/bəˈfeɪ/",
+      "pos": "nom",
+      "fr": "buffet",
+      "def": "A meal where people serve themselves from dishes on a table.",
+      "examples": [
+        {
+          "en": "A breakfast **buffet** is served from 6 to 10 a.m.",
+          "fr": "Un petit-déjeuner buffet est servi de 6 h à 10 h."
+        },
+        {
+          "en": "The lunch **buffet** costs $15 per person.",
+          "fr": "Le buffet du déjeuner coûte 15 $ par personne."
+        }
+      ]
+    },
+    {
+      "word": "patron",
+      "ipa": "/ˈpeɪtrən/",
+      "pos": "nom",
+      "fr": "client (habitué)",
+      "def": "A customer of a restaurant, store or other business.",
+      "examples": [
+        {
+          "en": "The restaurant is popular with local **patrons**.",
+          "fr": "Le restaurant est apprécié des habitués du quartier."
+        },
+        {
+          "en": "**Patrons** are asked not to smoke on the terrace.",
+          "fr": "Les clients sont priés de ne pas fumer en terrasse."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : un « patron » (chef) se dit **boss**."
+      }
+    },
+    {
+      "word": "server",
+      "ipa": "/ˈsɜːrvər/",
+      "pos": "nom",
+      "fr": "serveur, serveuse",
+      "def": "A person who brings food to customers in a restaurant.",
+      "examples": [
+        {
+          "en": "Our **server** recommended the soup of the day.",
+          "fr": "Notre serveur nous a recommandé la soupe du jour."
+        },
+        {
+          "en": "The restaurant is hiring experienced **servers**.",
+          "fr": "Le restaurant recrute des serveurs expérimentés."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **waiter**, **waitress**. En informatique : serveur."
+      }
+    },
+    {
+      "word": "bill",
+      "ipa": "/bɪl/",
+      "pos": "nom",
+      "fr": "addition ; facture",
+      "def": "A document showing how much you must pay.",
+      "examples": [
+        {
+          "en": "Could we have the **bill**, please?",
+          "fr": "Pourrions-nous avoir l’addition, s’il vous plaît ?"
+        },
+        {
+          "en": "The electricity **bill** arrived this morning.",
+          "fr": "La facture d’électricité est arrivée ce matin."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Au restaurant aux États-Unis, on dit souvent **check**."
+      }
+    },
+    {
+      "word": "tip",
+      "ipa": "/tɪp/",
+      "pos": "nom",
+      "fr": "pourboire ; conseil",
+      "def": "Extra money given to a server; also a helpful piece of advice.",
+      "examples": [
+        {
+          "en": "We left a 20 percent **tip** for the waiter.",
+          "fr": "Nous avons laissé 20 % de pourboire au serveur."
+        },
+        {
+          "en": "Here are some **tips** for your first interview.",
+          "fr": "Voici quelques conseils pour votre premier entretien."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme formel de pourboire : **gratuity**."
+      }
+    },
+    {
+      "word": "gratuity",
+      "ipa": "/ɡrəˈtuːəti/",
+      "pos": "nom",
+      "fr": "pourboire, service",
+      "def": "Money given for service (formal).",
+      "examples": [
+        {
+          "en": "A 15 percent **gratuity** is added for groups of eight or more.",
+          "fr": "Un service de 15 % est ajouté pour les groupes de huit personnes ou plus."
+        },
+        {
+          "en": "**Gratuity** is not included in the price.",
+          "fr": "Le pourboire n’est pas inclus dans le prix."
+        }
+      ]
+    },
+    {
+      "word": "takeout",
+      "ipa": "/ˈteɪkaʊt/",
+      "pos": "nom",
+      "fr": "plats à emporter",
+      "def": "Food bought at a restaurant to eat somewhere else.",
+      "examples": [
+        {
+          "en": "Let’s order **takeout** for lunch.",
+          "fr": "Commandons des plats à emporter pour le déjeuner."
+        },
+        {
+          "en": "The café offers **takeout** and delivery.",
+          "fr": "Le café propose la vente à emporter et la livraison."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **takeaway**. Au comptoir : **for here or to go?** (sur place ou à emporter ?)."
+      }
+    },
+    {
+      "word": "dietary restrictions",
+      "ipa": "/ˈdaɪəteri rɪˈstrɪkʃənz/",
+      "pos": "nom pluriel",
+      "fr": "restrictions alimentaires",
+      "def": "Foods a person cannot or will not eat for health or personal reasons.",
+      "examples": [
+        {
+          "en": "Please let us know about any **dietary restrictions**.",
+          "fr": "Merci de nous signaler toute restriction alimentaire."
+        },
+        {
+          "en": "The menu offers options for various **dietary restrictions**.",
+          "fr": "Le menu propose des options adaptées à différents régimes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **dietary requirements**."
+      }
+    },
+    {
+      "word": "ingredient",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "pos": "nom",
+      "fr": "ingrédient",
+      "def": "One of the foods used to make a dish.",
+      "examples": [
+        {
+          "en": "We use only fresh local **ingredients**.",
+          "fr": "Nous n’utilisons que des ingrédients frais et locaux."
+        },
+        {
+          "en": "The main **ingredient** in this sauce is tomato.",
+          "fr": "L’ingrédient principal de cette sauce est la tomate."
+        }
+      ]
+    },
+    {
+      "word": "recipe",
+      "ipa": "/ˈresəpi/",
+      "pos": "nom",
+      "fr": "recette",
+      "def": "Instructions for preparing a dish.",
+      "examples": [
+        {
+          "en": "This is my grandmother’s **recipe**.",
+          "fr": "C’est la recette de ma grand-mère."
+        },
+        {
+          "en": "The chef changed the **recipe** to use less salt.",
+          "fr": "Le chef a modifié la recette pour utiliser moins de sel."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : la « recette » d’une entreprise = **revenue**, **takings**. Prononcez /ˈresəpi/."
+      }
+    },
+    {
+      "word": "portion",
+      "ipa": "/ˈpɔːrʃən/",
+      "pos": "nom",
+      "fr": "portion, part",
+      "def": "An amount of food for one person.",
+      "examples": [
+        {
+          "en": "The **portions** at this restaurant are very generous.",
+          "fr": "Les portions dans ce restaurant sont très copieuses."
+        },
+        {
+          "en": "Children’s **portions** are available at half price.",
+          "fr": "Des portions enfant sont proposées à moitié prix."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : une partie de quelque chose (a **portion** of the profits)."
+      }
+    },
+    {
+      "word": "daily special",
+      "ipa": "/ˈdeɪli ˈspeʃəl/",
+      "pos": "nom",
+      "fr": "plat du jour",
+      "def": "A dish offered on a particular day, often at a good price.",
+      "examples": [
+        {
+          "en": "The **daily special** is written on the board.",
+          "fr": "Le plat du jour est écrit sur l’ardoise."
+        },
+        {
+          "en": "Today’s **special** is roasted salmon.",
+          "fr": "Le plat du jour est le saumon rôti."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : **today’s special**, **chef’s special**."
+      }
+    },
+    {
+      "word": "seating",
+      "ipa": "/ˈsiːtɪŋ/",
+      "pos": "nom",
+      "fr": "places assises",
+      "def": "The seats available in a place, or the way they are arranged.",
+      "examples": [
+        {
+          "en": "The restaurant has **seating** for 80 guests.",
+          "fr": "Le restaurant peut accueillir 80 personnes assises."
+        },
+        {
+          "en": "Outdoor **seating** is available in summer.",
+          "fr": "Des places en terrasse sont disponibles en été."
+        }
+      ]
+    },
+    {
+      "word": "private dining room",
+      "ipa": "/ˈpraɪvət ˈdaɪnɪŋ ruːm/",
+      "pos": "nom",
+      "fr": "salon privé (restaurant)",
+      "def": "A separate room in a restaurant for groups.",
+      "examples": [
+        {
+          "en": "We reserved the **private dining room** for the team dinner.",
+          "fr": "Nous avons réservé le salon privé pour le dîner d’équipe."
+        },
+        {
+          "en": "The **private dining room** seats up to 20 people.",
+          "fr": "Le salon privé peut accueillir jusqu’à 20 personnes."
+        }
+      ]
+    },
+    {
+      "word": "refreshments",
+      "ipa": "/rɪˈfreʃmənts/",
+      "pos": "nom pluriel",
+      "fr": "rafraîchissements, collation",
+      "def": "Light food and drinks served at a meeting or event.",
+      "examples": [
+        {
+          "en": "Light **refreshments** will be served after the presentation.",
+          "fr": "Une petite collation sera servie après la présentation."
+        },
+        {
+          "en": "**Refreshments** are available in the break room.",
+          "fr": "Des rafraîchissements sont disponibles en salle de pause."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Mot très fréquent dans les annonces d’événements."
+      }
+    },
+    {
+      "word": "cafeteria",
+      "ipa": "/ˌkæfəˈtɪriə/",
+      "pos": "nom",
+      "fr": "cafétéria, cantine",
+      "def": "A restaurant where people choose food at a counter and carry it to a table.",
+      "examples": [
+        {
+          "en": "The employee **cafeteria** is on the ground floor.",
+          "fr": "La cantine des employés est au rez-de-chaussée."
+        },
+        {
+          "en": "The **cafeteria** will be closed for renovations next week.",
+          "fr": "La cafétéria sera fermée pour travaux la semaine prochaine."
+        }
+      ]
+    },
+    {
+      "word": "utensils",
+      "ipa": "/juːˈtensəlz/",
+      "pos": "nom pluriel",
+      "fr": "ustensiles, couverts",
+      "def": "Tools used for cooking or eating, such as forks and spoons.",
+      "examples": [
+        {
+          "en": "Plastic **utensils** are provided with takeout orders.",
+          "fr": "Des couverts en plastique sont fournis avec les commandes à emporter."
+        },
+        {
+          "en": "The kitchen **utensils** are stored in the drawer.",
+          "fr": "Les ustensiles de cuisine sont rangés dans le tiroir."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Couverts : **silverware** (US), **cutlery** (UK)."
+      }
+    },
+    {
+      "word": "tray",
+      "ipa": "/treɪ/",
+      "pos": "nom",
+      "fr": "plateau",
+      "def": "A flat object used to carry food and drinks.",
+      "examples": [
+        {
+          "en": "The waiter is carrying a **tray** of drinks.",
+          "fr": "Le serveur porte un plateau de boissons."
+        },
+        {
+          "en": "Please return your **tray** after eating.",
+          "fr": "Merci de rapporter votre plateau après le repas."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Très fréquent dans les photos de la Partie 1."
+      }
+    },
+    {
+      "word": "pour",
+      "ipa": "/pɔːr/",
+      "pos": "verbe",
+      "fr": "verser",
+      "def": "To make a liquid flow from a container.",
+      "examples": [
+        {
+          "en": "The server is **pouring** water into a glass.",
+          "fr": "Le serveur verse de l’eau dans un verre."
+        },
+        {
+          "en": "Could you **pour** me some coffee?",
+          "fr": "Pourriez-vous me verser du café ?"
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Se prononce /pɔːr/ et rime avec **four** et **door**. Verbe typique des descriptions de la Partie 1."
+      }
+    },
+    {
+      "word": "counter",
+      "ipa": "/ˈkaʊntər/",
+      "pos": "nom",
+      "fr": "comptoir",
+      "def": "A long flat surface where customers are served.",
+      "examples": [
+        {
+          "en": "Please order at the **counter**.",
+          "fr": "Merci de commander au comptoir."
+        },
+        {
+          "en": "The cashier is standing behind the **counter**.",
+          "fr": "La caissière se tient derrière le comptoir."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**over the counter** = sans ordonnance (médicaments)."
+      }
+    },
+    {
+      "word": "dine",
+      "ipa": "/daɪn/",
+      "pos": "verbe",
+      "fr": "dîner, prendre un repas",
+      "def": "To eat a meal, especially dinner (formal).",
+      "examples": [
+        {
+          "en": "We **dined** at a French restaurant downtown.",
+          "fr": "Nous avons dîné dans un restaurant français du centre-ville."
+        },
+        {
+          "en": "Guests can **dine** on the terrace.",
+          "fr": "Les clients peuvent manger en terrasse."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**dine out** = manger au restaurant ; **diner** = client ou petit restaurant américain."
+      }
+    },
+    {
+      "word": "cater to",
+      "ipa": "/ˈkeɪtər tuː/",
+      "pos": "verbe",
+      "fr": "répondre aux besoins de, s’adresser à",
+      "def": "To provide what a particular group of people wants.",
+      "examples": [
+        {
+          "en": "The restaurant **caters to** business travelers.",
+          "fr": "Le restaurant s’adresse aux voyageurs d’affaires."
+        },
+        {
+          "en": "The menu **caters to** vegetarians and vegans.",
+          "fr": "Le menu répond aux besoins des végétariens et des végans."
+        }
+      ]
+    },
+    {
+      "word": "vegetarian",
+      "ipa": "/ˌvedʒəˈteriən/",
+      "pos": "adjectif, nom",
+      "fr": "végétarien",
+      "def": "Not containing meat; or a person who does not eat meat.",
+      "examples": [
+        {
+          "en": "Is there a **vegetarian** option on the menu?",
+          "fr": "Y a-t-il une option végétarienne au menu ?"
+        },
+        {
+          "en": "Two of the guests are **vegetarians**.",
+          "fr": "Deux des invités sont végétariens."
+        }
+      ]
+    },
+    {
+      "word": "reservation required",
+      "ipa": "/ˌrezərˈveɪʃən rɪˈkwaɪərd/",
+      "pos": "expression",
+      "fr": "réservation obligatoire",
+      "def": "You must book in advance.",
+      "examples": [
+        {
+          "en": "**Reservations** are **required** for groups of six or more.",
+          "fr": "La réservation est obligatoire pour les groupes de six personnes ou plus."
+        },
+        {
+          "en": "No **reservation required** for lunch.",
+          "fr": "Pas besoin de réserver pour le déjeuner."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **walk-ins welcome** (sans réservation)."
+      }
+    },
+    {
+      "word": "walk-in",
+      "ipa": "/ˈwɔːk ɪn/",
+      "pos": "nom, adjectif",
+      "fr": "client sans rendez-vous",
+      "def": "A customer who comes without a reservation or appointment.",
+      "examples": [
+        {
+          "en": "We accept **walk-ins** until 9 p.m.",
+          "fr": "Nous acceptons les clients sans réservation jusqu’à 21 h."
+        },
+        {
+          "en": "The clinic offers **walk-in** appointments.",
+          "fr": "La clinique propose des consultations sans rendez-vous."
+        }
+      ]
+    },
+    {
+      "word": "host",
+      "ipa": "/hoʊst/",
+      "pos": "nom, verbe",
+      "fr": "hôte, hôtesse ; organiser, accueillir",
+      "def": "A person who welcomes guests; or to organize an event.",
+      "examples": [
+        {
+          "en": "The **host** will show you to your table.",
+          "fr": "L’hôtesse vous conduira à votre table."
+        },
+        {
+          "en": "Our company is **hosting** a dinner for its clients.",
+          "fr": "Notre entreprise organise un dîner pour ses clients."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**host a conference / an event** = organiser, accueillir."
+      }
+    },
+    {
+      "word": "chef",
+      "ipa": "/ʃef/",
+      "pos": "nom",
+      "fr": "chef (cuisinier)",
+      "def": "A professional cook, especially the head cook in a restaurant.",
+      "examples": [
+        {
+          "en": "The **chef** trained in Paris and Tokyo.",
+          "fr": "Le chef a été formé à Paris et à Tokyo."
+        },
+        {
+          "en": "Our new **chef** has redesigned the menu.",
+          "fr": "Notre nouveau chef a repensé le menu."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Un « chef » (supérieur) se dit **boss** / **manager**."
+      }
+    },
+    {
+      "word": "kitchen staff",
+      "ipa": "/ˈkɪtʃən stæf/",
+      "pos": "nom",
+      "fr": "personnel de cuisine",
+      "def": "The people who work in a restaurant’s kitchen.",
+      "examples": [
+        {
+          "en": "The **kitchen staff** start work at 6 a.m.",
+          "fr": "Le personnel de cuisine commence à 6 h."
+        },
+        {
+          "en": "All **kitchen staff** must wear hairnets.",
+          "fr": "Tout le personnel de cuisine doit porter une charlotte."
+        }
+      ]
+    },
+    {
+      "word": "food critic",
+      "ipa": "/fuːd ˈkrɪtɪk/",
+      "pos": "nom",
+      "fr": "critique gastronomique",
+      "def": "A person who writes reviews of restaurants.",
+      "examples": [
+        {
+          "en": "A famous **food critic** praised the new bistro.",
+          "fr": "Un célèbre critique gastronomique a salué le nouveau bistrot."
+        },
+        {
+          "en": "The review by the **food critic** brought many new customers.",
+          "fr": "La critique du chroniqueur gastronomique a attiré de nombreux clients."
+        }
+      ]
+    },
+    {
+      "word": "review",
+      "ipa": "/rɪˈvjuː/",
+      "pos": "nom, verbe",
+      "fr": "critique, avis ; examiner",
+      "def": "An article giving an opinion about a restaurant, book, film, etc.; or to examine carefully.",
+      "examples": [
+        {
+          "en": "The restaurant received excellent **reviews**.",
+          "fr": "Le restaurant a reçu d’excellentes critiques."
+        },
+        {
+          "en": "Please **review** the contract before signing it.",
+          "fr": "Merci d’examiner le contrat avant de le signer."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Deux sens fréquents : avis client / relire, examiner."
+      }
+    },
+    {
+      "word": "fully booked",
+      "ipa": "/ˈfʊli bʊkt/",
+      "pos": "adjectif",
+      "fr": "complet",
+      "def": "Having no places left because all have been reserved.",
+      "examples": [
+        {
+          "en": "I’m sorry, we’re **fully booked** tonight.",
+          "fr": "Je suis désolé, nous sommes complets ce soir."
+        },
+        {
+          "en": "The cooking class was **fully booked** within a day.",
+          "fr": "Le cours de cuisine a affiché complet en une journée."
+        }
+      ]
+    },
+    {
+      "word": "spill",
+      "ipa": "/spɪl/",
+      "pos": "verbe, nom",
+      "fr": "renverser ; liquide renversé",
+      "def": "To accidentally make a liquid flow out of a container.",
+      "examples": [
+        {
+          "en": "A customer **spilled** coffee on the table.",
+          "fr": "Un client a renversé du café sur la table."
+        },
+        {
+          "en": "Please clean up the **spill** near the entrance.",
+          "fr": "Merci de nettoyer ce qui a été renversé près de l’entrée."
+        }
+      ]
+    },
+    {
+      "word": "napkin",
+      "ipa": "/ˈnæpkɪn/",
+      "pos": "nom",
+      "fr": "serviette de table",
+      "def": "A piece of cloth or paper used to clean your hands and mouth while eating.",
+      "examples": [
+        {
+          "en": "The **napkins** are folded on each plate.",
+          "fr": "Les serviettes sont pliées sur chaque assiette."
+        },
+        {
+          "en": "Could I have another **napkin**, please?",
+          "fr": "Pourrais-je avoir une autre serviette, s’il vous plaît ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Serviette de bain : **towel**."
+      }
+    },
+    {
+      "word": "menu item",
+      "ipa": "/ˈmenjuː ˈaɪtəm/",
+      "pos": "nom",
+      "fr": "plat (à la carte)",
+      "def": "A single dish listed on a menu.",
+      "examples": [
+        {
+          "en": "Several **menu items** are now available without gluten.",
+          "fr": "Plusieurs plats sont désormais proposés sans gluten."
+        },
+        {
+          "en": "Our most popular **menu item** is the burger.",
+          "fr": "Notre plat le plus demandé est le burger."
+        }
+      ]
+    }
+  ]
+}

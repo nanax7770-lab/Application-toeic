@@ -1,0 +1,880 @@
+{
+  "id": "confondus",
+  "name": "Mots souvent confondus",
+  "short": "Confondus",
+  "group": "special",
+  "description": "Les paires de mots qui piègent les candidats, surtout en Partie 5.",
+  "cards": [
+    {
+      "word": "affect / effect",
+      "ipa": "/əˈfekt/ · /ɪˈfekt/",
+      "pos": "verbe / nom",
+      "fr": "affecter, influencer / effet",
+      "def": "**affect** is usually a verb (to influence); **effect** is usually a noun (a result).",
+      "examples": [
+        {
+          "en": "The strike will **affect** deliveries this week.",
+          "fr": "La grève va perturber les livraisons cette semaine."
+        },
+        {
+          "en": "The new policy had a positive **effect** on sales.",
+          "fr": "La nouvelle politique a eu un effet positif sur les ventes."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Astuce : **A**ffect = **A**ction (verbe), **E**ffect = r**E**sult (nom). **take effect** = entrer en vigueur."
+      }
+    },
+    {
+      "word": "lend / borrow",
+      "ipa": "/lend/ · /ˈbɑːroʊ/",
+      "pos": "verbes",
+      "fr": "prêter / emprunter",
+      "def": "**lend** = give something for a time; **borrow** = take something for a time.",
+      "examples": [
+        {
+          "en": "Could you **lend** me your laptop charger?",
+          "fr": "Pourrais-tu me prêter ton chargeur ?"
+        },
+        {
+          "en": "Can I **borrow** your pen for a moment?",
+          "fr": "Puis-je emprunter ton stylo un instant ?"
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**lend TO** someone, **borrow FROM** someone. Irrégulier : lend, **lent**, **lent**."
+      }
+    },
+    {
+      "word": "raise / rise",
+      "ipa": "/reɪz/ · /raɪz/",
+      "pos": "verbes",
+      "fr": "augmenter, lever (qqch) / monter, augmenter (tout seul)",
+      "def": "**raise** needs an object (you raise something); **rise** has no object (something rises).",
+      "examples": [
+        {
+          "en": "The company will **raise** prices next month.",
+          "fr": "L’entreprise augmentera ses prix le mois prochain."
+        },
+        {
+          "en": "Prices **rose** by 3 percent last year.",
+          "fr": "Les prix ont augmenté de 3 % l’an dernier."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**rise, rose, risen** (irrégulier, sans complément) ; **raise, raised, raised** (avec complément). Nom : **a raise** (US) = une augmentation de salaire."
+      }
+    },
+    {
+      "word": "lay / lie",
+      "ipa": "/leɪ/ · /laɪ/",
+      "pos": "verbes",
+      "fr": "poser, étendre (qqch) / être allongé, se trouver",
+      "def": "**lay** needs an object (lay something down); **lie** has no object.",
+      "examples": [
+        {
+          "en": "Please **lay** the documents on the table.",
+          "fr": "Merci de poser les documents sur la table."
+        },
+        {
+          "en": "The files are **lying** on the desk.",
+          "fr": "Les dossiers sont posés sur le bureau."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**lie, lay, lain** / **lay, laid, laid**. Le passé de **lie** est **lay** : piège classique !"
+      }
+    },
+    {
+      "word": "advice / advise",
+      "ipa": "/ədˈvaɪs/ · /ədˈvaɪz/",
+      "pos": "nom / verbe",
+      "fr": "conseil(s) / conseiller",
+      "def": "**advice** is a noun; **advise** is a verb.",
+      "examples": [
+        {
+          "en": "Thank you for your **advice** on the contract.",
+          "fr": "Merci pour vos conseils sur le contrat."
+        },
+        {
+          "en": "We **advise** passengers to arrive two hours early.",
+          "fr": "Nous conseillons aux passagers d’arriver deux heures à l’avance."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**advice** est indénombrable : **a piece of advice**. Prononciation : /s/ pour le nom, /z/ pour le verbe."
+      }
+    },
+    {
+      "word": "accept / except",
+      "ipa": "/əkˈsept/ · /ɪkˈsept/",
+      "pos": "verbe / préposition",
+      "fr": "accepter / sauf, excepté",
+      "def": "**accept** = agree to take; **except** = not including.",
+      "examples": [
+        {
+          "en": "We **accept** all major credit cards.",
+          "fr": "Nous acceptons toutes les principales cartes bancaires."
+        },
+        {
+          "en": "The office is open every day **except** Sunday.",
+          "fr": "Le bureau est ouvert tous les jours sauf le dimanche."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**except for** = à part, mis à part."
+      }
+    },
+    {
+      "word": "lose / loose",
+      "ipa": "/luːz/ · /luːs/",
+      "pos": "verbe / adjectif",
+      "fr": "perdre / lâche, desserré",
+      "def": "**lose** = no longer have; **loose** = not tight.",
+      "examples": [
+        {
+          "en": "Don’t **lose** your receipt.",
+          "fr": "Ne perdez pas votre ticket de caisse."
+        },
+        {
+          "en": "One of the screws is **loose**.",
+          "fr": "L’une des vis est desserrée."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**lose, lost, lost**. Nom : **loss** (perte)."
+      }
+    },
+    {
+      "word": "economic / economical",
+      "ipa": "/ˌekəˈnɑːmɪk/ · /ˌekəˈnɑːmɪkəl/",
+      "pos": "adjectifs",
+      "fr": "économique (de l’économie) / économique (qui fait économiser)",
+      "def": "**economic** = about the economy; **economical** = saving money.",
+      "examples": [
+        {
+          "en": "The country is experiencing strong **economic** growth.",
+          "fr": "Le pays connaît une forte croissance économique."
+        },
+        {
+          "en": "This car is very **economical** to run.",
+          "fr": "Cette voiture est très économique à l’usage."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Proche : **cost-effective**."
+      }
+    },
+    {
+      "word": "principal / principle",
+      "ipa": "/ˈprɪnsəpəl/ · /ˈprɪnsəpəl/",
+      "pos": "adjectif, nom / nom",
+      "fr": "principal ; directeur (d’école) / principe",
+      "def": "**principal** = main, or a school director; **principle** = a basic rule or belief.",
+      "examples": [
+        {
+          "en": "Tourism is the **principal** industry in the region.",
+          "fr": "Le tourisme est la principale activité de la région."
+        },
+        {
+          "en": "The company is based on the **principle** of fairness.",
+          "fr": "L’entreprise repose sur le principe d’équité."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Même prononciation : seule l’orthographe change."
+      }
+    },
+    {
+      "word": "complement / compliment",
+      "ipa": "/ˈkɑːmplɪmənt/ · /ˈkɑːmplɪmənt/",
+      "pos": "nom, verbe",
+      "fr": "complément ; compléter / compliment ; complimenter",
+      "def": "**complement** = something that completes; **compliment** = something nice said about someone.",
+      "examples": [
+        {
+          "en": "The wine is a perfect **complement** to the meal.",
+          "fr": "Le vin accompagne parfaitement le repas."
+        },
+        {
+          "en": "The client **complimented** our team on its work.",
+          "fr": "Le client a félicité notre équipe pour son travail."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**complimentary** = gratuit / flatteur ; **complementary** = complémentaire."
+      }
+    },
+    {
+      "word": "alone / lonely",
+      "ipa": "/əˈloʊn/ · /ˈloʊnli/",
+      "pos": "adjectifs",
+      "fr": "seul (sans personne) / seul et triste, isolé",
+      "def": "**alone** = without other people; **lonely** = unhappy because you are alone.",
+      "examples": [
+        {
+          "en": "She prefers to work **alone**.",
+          "fr": "Elle préfère travailler seule."
+        },
+        {
+          "en": "New employees sometimes feel **lonely**.",
+          "fr": "Les nouveaux employés se sentent parfois isolés."
+        }
+      ]
+    },
+    {
+      "word": "remind / remember",
+      "ipa": "/rɪˈmaɪnd/ · /rɪˈmembər/",
+      "pos": "verbes",
+      "fr": "rappeler (à qqn) / se souvenir de",
+      "def": "**remind** = make someone remember; **remember** = keep something in your mind.",
+      "examples": [
+        {
+          "en": "Please **remind** me to call the client.",
+          "fr": "Merci de me rappeler d’appeler le client."
+        },
+        {
+          "en": "I don’t **remember** where I put the file.",
+          "fr": "Je ne me souviens pas où j’ai mis le dossier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**remind someone to do / of something**. **remember to do** (ne pas oublier de) ≠ **remember doing** (se rappeler avoir fait)."
+      }
+    },
+    {
+      "word": "say / tell",
+      "ipa": "/seɪ/ · /tel/",
+      "pos": "verbes",
+      "fr": "dire (des mots) / dire à qqn, raconter",
+      "def": "**tell** is followed by a person; **say** is not (or uses “to”).",
+      "examples": [
+        {
+          "en": "She **said** that the meeting was canceled.",
+          "fr": "Elle a dit que la réunion était annulée."
+        },
+        {
+          "en": "She **told** me that the meeting was canceled.",
+          "fr": "Elle m’a dit que la réunion était annulée."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**tell someone something** mais **say something (to someone)**. Expressions : **tell the truth**, **tell a story**."
+      }
+    },
+    {
+      "word": "make / do",
+      "ipa": "/meɪk/ · /duː/",
+      "pos": "verbes",
+      "fr": "faire (créer, produire) / faire (une activité, une tâche)",
+      "def": "**make** = create or produce; **do** = perform an activity or task.",
+      "examples": [
+        {
+          "en": "We need to **make** a decision today.",
+          "fr": "Nous devons prendre une décision aujourd’hui."
+        },
+        {
+          "en": "Could you **do** me a favor?",
+          "fr": "Pourriez-vous me rendre un service ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**make**: a decision, a mistake, a profit, a call, a reservation. **do**: business, research, your best, the dishes."
+      }
+    },
+    {
+      "word": "bring / take",
+      "ipa": "/brɪŋ/ · /teɪk/",
+      "pos": "verbes",
+      "fr": "apporter, amener / emporter, emmener",
+      "def": "**bring** = toward the speaker; **take** = away from the speaker.",
+      "examples": [
+        {
+          "en": "Please **bring** your ID to the interview.",
+          "fr": "Merci d’apporter votre pièce d’identité à l’entretien."
+        },
+        {
+          "en": "Don’t forget to **take** an umbrella.",
+          "fr": "N’oublie pas d’emporter un parapluie."
+        }
+      ]
+    },
+    {
+      "word": "hear / listen",
+      "ipa": "/hɪr/ · /ˈlɪsən/",
+      "pos": "verbes",
+      "fr": "entendre / écouter",
+      "def": "**hear** = receive sounds; **listen (to)** = pay attention to sounds.",
+      "examples": [
+        {
+          "en": "I can’t **hear** you very well.",
+          "fr": "Je ne vous entends pas très bien."
+        },
+        {
+          "en": "Please **listen** to the following announcement.",
+          "fr": "Veuillez écouter l’annonce suivante."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**listen TO** something. Phrase typique des consignes du Listening."
+      }
+    },
+    {
+      "word": "look / watch / see",
+      "ipa": "/lʊk/ · /wɑːtʃ/ · /siː/",
+      "pos": "verbes",
+      "fr": "regarder / regarder (en mouvement) / voir",
+      "def": "**see** = notice with your eyes; **look at** = direct your eyes; **watch** = look at something moving for a time.",
+      "examples": [
+        {
+          "en": "**Look at** the chart on page 4.",
+          "fr": "Regardez le graphique page 4."
+        },
+        {
+          "en": "We **watched** a training video.",
+          "fr": "Nous avons regardé une vidéo de formation."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**look AT**, **watch** (sans préposition), **see** (involontaire)."
+      }
+    },
+    {
+      "word": "fewer / less",
+      "ipa": "/ˈfjuːər/ · /les/",
+      "pos": "déterminants",
+      "fr": "moins de (dénombrable) / moins de (indénombrable)",
+      "def": "**fewer** + countable plural nouns; **less** + uncountable nouns.",
+      "examples": [
+        {
+          "en": "We received **fewer** complaints this year.",
+          "fr": "Nous avons reçu moins de réclamations cette année."
+        },
+        {
+          "en": "The new printer uses **less** energy.",
+          "fr": "La nouvelle imprimante consomme moins d’énergie."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Même logique : **many** / **much**, **a number of** / **an amount of**."
+      }
+    },
+    {
+      "word": "among / between",
+      "ipa": "/əˈmʌŋ/ · /bɪˈtwiːn/",
+      "pos": "prépositions",
+      "fr": "parmi, entre (plus de deux) / entre (deux, ou éléments distincts)",
+      "def": "**between** usually for two things; **among** for a group of three or more.",
+      "examples": [
+        {
+          "en": "The profits were shared **among** all employees.",
+          "fr": "Les bénéfices ont été partagés entre tous les employés."
+        },
+        {
+          "en": "The meeting is **between** 2 and 4 p.m.",
+          "fr": "La réunion a lieu entre 14 h et 16 h."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**between A and B** ; **among the candidates**."
+      }
+    },
+    {
+      "word": "during / for",
+      "ipa": "/ˈdʊrɪŋ/ · /fɔːr/",
+      "pos": "prépositions",
+      "fr": "pendant (quand) / pendant (combien de temps)",
+      "def": "**during** + a period or event (when?); **for** + a length of time (how long?).",
+      "examples": [
+        {
+          "en": "Please turn off your phone **during** the presentation.",
+          "fr": "Merci d’éteindre votre téléphone pendant la présentation."
+        },
+        {
+          "en": "He worked in Spain **for** three years.",
+          "fr": "Il a travaillé en Espagne pendant trois ans."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Jamais « during three years »."
+      }
+    },
+    {
+      "word": "since / for",
+      "ipa": "/sɪns/ · /fɔːr/",
+      "pos": "prépositions",
+      "fr": "depuis (point de départ) / depuis (durée)",
+      "def": "**since** + a starting point; **for** + a duration, often with the present perfect.",
+      "examples": [
+        {
+          "en": "She has worked here **since** 2019.",
+          "fr": "Elle travaille ici depuis 2019."
+        },
+        {
+          "en": "She has worked here **for** five years.",
+          "fr": "Elle travaille ici depuis cinq ans."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« depuis » se traduit par **since** (date) ou **for** (durée)."
+      }
+    },
+    {
+      "word": "until / by",
+      "ipa": "/ənˈtɪl/ · /baɪ/",
+      "pos": "prépositions",
+      "fr": "jusqu’à (durée continue) / d’ici, au plus tard",
+      "def": "**until** = an action continues up to a time; **by** = no later than a deadline.",
+      "examples": [
+        {
+          "en": "The store is open **until** 9 p.m.",
+          "fr": "Le magasin est ouvert jusqu’à 21 h."
+        },
+        {
+          "en": "Please send the report **by** Friday.",
+          "fr": "Merci d’envoyer le rapport d’ici vendredi."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Piège très fréquent en Partie 5 : échéance → **by** ; continuité → **until**."
+      }
+    },
+    {
+      "word": "already / yet / still",
+      "ipa": "/ɔːlˈredi/ · /jet/ · /stɪl/",
+      "pos": "adverbes",
+      "fr": "déjà / (pas) encore, déjà (question) / toujours, encore",
+      "def": "**already** = sooner than expected; **yet** = in questions and negatives; **still** = continuing.",
+      "examples": [
+        {
+          "en": "The shipment has **already** arrived.",
+          "fr": "La livraison est déjà arrivée."
+        },
+        {
+          "en": "The report isn’t ready **yet**, but I’m **still** working on it.",
+          "fr": "Le rapport n’est pas encore prêt, mais j’y travaille toujours."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**yet** se place en fin de phrase négative ou interrogative."
+      }
+    },
+    {
+      "word": "late / lately",
+      "ipa": "/leɪt/ · /ˈleɪtli/",
+      "pos": "adjectif, adverbe / adverbe",
+      "fr": "en retard, tard / récemment, ces derniers temps",
+      "def": "**late** = after the expected time; **lately** = recently.",
+      "examples": [
+        {
+          "en": "The train arrived **late**.",
+          "fr": "Le train est arrivé en retard."
+        },
+        {
+          "en": "Sales have been slow **lately**.",
+          "fr": "Les ventes sont faibles ces derniers temps."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**lately** ne veut pas dire « tardivement »."
+      }
+    },
+    {
+      "word": "hard / hardly",
+      "ipa": "/hɑːrd/ · /ˈhɑːrdli/",
+      "pos": "adverbes",
+      "fr": "dur, beaucoup / à peine, presque pas",
+      "def": "**hard** = with a lot of effort; **hardly** = almost not.",
+      "examples": [
+        {
+          "en": "The team worked **hard** to finish on time.",
+          "fr": "L’équipe a travaillé dur pour finir à temps."
+        },
+        {
+          "en": "I could **hardly** hear the speaker.",
+          "fr": "J’entendais à peine l’orateur."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**hardly** a un sens négatif : **hardly ever** = presque jamais."
+      }
+    },
+    {
+      "word": "near / nearly",
+      "ipa": "/nɪr/ · /ˈnɪrli/",
+      "pos": "préposition, adjectif / adverbe",
+      "fr": "près de / presque",
+      "def": "**near** = close to a place; **nearly** = almost.",
+      "examples": [
+        {
+          "en": "The hotel is **near** the station.",
+          "fr": "L’hôtel est près de la gare."
+        },
+        {
+          "en": "The project is **nearly** finished.",
+          "fr": "Le projet est presque terminé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme de **nearly** : **almost**."
+      }
+    },
+    {
+      "word": "high / highly",
+      "ipa": "/haɪ/ · /ˈhaɪli/",
+      "pos": "adjectif, adverbe / adverbe",
+      "fr": "haut / très, hautement",
+      "def": "**high** = at a great height or level; **highly** = very, to a great degree.",
+      "examples": [
+        {
+          "en": "The plane is flying very **high**.",
+          "fr": "L’avion vole très haut."
+        },
+        {
+          "en": "The restaurant is **highly** recommended.",
+          "fr": "Le restaurant est vivement recommandé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Collocations : **highly qualified**, **highly successful**, **highly recommended**."
+      }
+    },
+    {
+      "word": "most / almost",
+      "ipa": "/moʊst/ · /ˈɔːlmoʊst/",
+      "pos": "déterminant / adverbe",
+      "fr": "la plupart, le plus / presque",
+      "def": "**most** = the majority or the greatest; **almost** = nearly.",
+      "examples": [
+        {
+          "en": "**Most** employees take the train.",
+          "fr": "La plupart des employés prennent le train."
+        },
+        {
+          "en": "**Almost** all employees take the train.",
+          "fr": "Presque tous les employés prennent le train."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "« Presque tous » = **almost all**, jamais « most all »."
+      }
+    },
+    {
+      "word": "further / farther",
+      "ipa": "/ˈfɜːrðər/ · /ˈfɑːrðər/",
+      "pos": "adjectif, adverbe",
+      "fr": "plus (de), supplémentaire / plus loin (distance)",
+      "def": "**farther** = more distance; **further** = more distance or additional.",
+      "examples": [
+        {
+          "en": "For **further** information, please contact us.",
+          "fr": "Pour plus d’informations, contactez-nous."
+        },
+        {
+          "en": "The warehouse is **farther** from the city than the office.",
+          "fr": "L’entrepôt est plus loin de la ville que le bureau."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**until further notice** = jusqu’à nouvel ordre. **further to** = suite à."
+      }
+    },
+    {
+      "word": "especially / specially",
+      "ipa": "/ɪˈspeʃəli/ · /ˈspeʃəli/",
+      "pos": "adverbes",
+      "fr": "surtout, particulièrement / spécialement (dans un but précis)",
+      "def": "**especially** = particularly; **specially** = for a specific purpose.",
+      "examples": [
+        {
+          "en": "Traffic is heavy, **especially** in the morning.",
+          "fr": "La circulation est dense, surtout le matin."
+        },
+        {
+          "en": "The menu was **specially** designed for the event.",
+          "fr": "Le menu a été spécialement conçu pour l’événement."
+        }
+      ]
+    },
+    {
+      "word": "beside / besides",
+      "ipa": "/bɪˈsaɪd/ · /bɪˈsaɪdz/",
+      "pos": "prépositions",
+      "fr": "à côté de / en plus de, à part",
+      "def": "**beside** = next to; **besides** = in addition to.",
+      "examples": [
+        {
+          "en": "The printer is **beside** the window.",
+          "fr": "L’imprimante est à côté de la fenêtre."
+        },
+        {
+          "en": "**Besides** English, she speaks Japanese.",
+          "fr": "En plus de l’anglais, elle parle japonais."
+        }
+      ]
+    },
+    {
+      "word": "adapt / adopt",
+      "ipa": "/əˈdæpt/ · /əˈdɑːpt/",
+      "pos": "verbes",
+      "fr": "adapter, s’adapter / adopter",
+      "def": "**adapt** = change to suit something; **adopt** = start using a new method or idea.",
+      "examples": [
+        {
+          "en": "The company **adapted** its products for Asian markets.",
+          "fr": "L’entreprise a adapté ses produits aux marchés asiatiques."
+        },
+        {
+          "en": "The board **adopted** a new strategy.",
+          "fr": "Le conseil a adopté une nouvelle stratégie."
+        }
+      ]
+    },
+    {
+      "word": "efficient / effective",
+      "ipa": "/ɪˈfɪʃənt/ · /ɪˈfektɪv/",
+      "pos": "adjectifs",
+      "fr": "efficace (sans gaspillage) / efficace (qui donne le résultat voulu)",
+      "def": "**efficient** = works well without wasting time or energy; **effective** = produces the desired result.",
+      "examples": [
+        {
+          "en": "The new system is faster and more **efficient**.",
+          "fr": "Le nouveau système est plus rapide et plus performant."
+        },
+        {
+          "en": "The ad campaign was very **effective**.",
+          "fr": "La campagne publicitaire a été très efficace."
+        }
+      ]
+    },
+    {
+      "word": "job / work",
+      "ipa": "/dʒɑːb/ · /wɜːrk/",
+      "pos": "noms",
+      "fr": "emploi, poste / travail (indénombrable)",
+      "def": "**job** is countable (a job); **work** is uncountable.",
+      "examples": [
+        {
+          "en": "She found a new **job** in Toronto.",
+          "fr": "Elle a trouvé un nouvel emploi à Toronto."
+        },
+        {
+          "en": "I have a lot of **work** to do today.",
+          "fr": "J’ai beaucoup de travail aujourd’hui."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Jamais « a work » pour un emploi. **works** = usine, ou œuvres."
+      }
+    },
+    {
+      "word": "travel / trip",
+      "ipa": "/ˈtrævəl/ · /trɪp/",
+      "pos": "nom, verbe / nom",
+      "fr": "les voyages, voyager / un voyage (précis)",
+      "def": "**travel** is general and usually uncountable; **trip** is a specific journey.",
+      "examples": [
+        {
+          "en": "**Travel** expenses will be reimbursed.",
+          "fr": "Les frais de voyage seront remboursés."
+        },
+        {
+          "en": "How was your **trip** to Seoul?",
+          "fr": "Comment s’est passé ton voyage à Séoul ?"
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "On ne dit pas « a travel ». **business trip** = voyage d’affaires."
+      }
+    },
+    {
+      "word": "cost / price",
+      "ipa": "/kɔːst/ · /praɪs/",
+      "pos": "noms",
+      "fr": "coût / prix",
+      "def": "**price** = the amount a seller asks; **cost** = what you must spend on something.",
+      "examples": [
+        {
+          "en": "The **price** of the laptop is $900.",
+          "fr": "Le prix de l’ordinateur portable est de 900 $."
+        },
+        {
+          "en": "The **cost** of living is rising.",
+          "fr": "Le coût de la vie augmente."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe irrégulier : **cost, cost, cost**."
+      }
+    },
+    {
+      "word": "win / earn / gain",
+      "ipa": "/wɪn/ · /ɜːrn/ · /ɡeɪn/",
+      "pos": "verbes",
+      "fr": "gagner (un prix) / gagner (en travaillant) / gagner, acquérir",
+      "def": "**win** a contest or prize; **earn** money by working; **gain** experience or weight.",
+      "examples": [
+        {
+          "en": "Our team **won** the design award.",
+          "fr": "Notre équipe a remporté le prix du design."
+        },
+        {
+          "en": "She **earns** a good salary and is **gaining** experience.",
+          "fr": "Elle gagne un bon salaire et acquiert de l’expérience."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**earn a living** = gagner sa vie."
+      }
+    },
+    {
+      "word": "assure / ensure / insure",
+      "ipa": "/əˈʃʊr/ · /ɪnˈʃʊr/ · /ɪnˈʃʊr/",
+      "pos": "verbes",
+      "fr": "assurer (à qqn) / garantir, veiller à / assurer (contrat)",
+      "def": "**assure** someone = tell them confidently; **ensure** = make certain; **insure** = buy insurance for.",
+      "examples": [
+        {
+          "en": "I **assure** you the order will arrive on time.",
+          "fr": "Je vous assure que la commande arrivera à temps."
+        },
+        {
+          "en": "Please **ensure** that all doors are locked.",
+          "fr": "Merci de veiller à ce que toutes les portes soient fermées à clé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**insure** = assurer contre un risque (insure a car)."
+      }
+    },
+    {
+      "word": "ago / before",
+      "ipa": "/əˈɡoʊ/ · /bɪˈfɔːr/",
+      "pos": "adverbes",
+      "fr": "il y a / avant, auparavant",
+      "def": "**ago** counts back from now (with past simple); **before** counts back from a past moment or means earlier.",
+      "examples": [
+        {
+          "en": "The company was founded ten years **ago**.",
+          "fr": "L’entreprise a été fondée il y a dix ans."
+        },
+        {
+          "en": "I had never visited Tokyo **before**.",
+          "fr": "Je n’étais jamais allé à Tokyo auparavant."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**ago** se place après la durée : **two days ago**."
+      }
+    },
+    {
+      "word": "other / another",
+      "ipa": "/ˈʌðər/ · /əˈnʌðər/",
+      "pos": "déterminants",
+      "fr": "autre(s) / un(e) autre",
+      "def": "**another** + singular noun; **other** + plural or uncountable noun.",
+      "examples": [
+        {
+          "en": "Could I have **another** copy of the report?",
+          "fr": "Pourrais-je avoir un autre exemplaire du rapport ?"
+        },
+        {
+          "en": "**Other** candidates will be contacted next week.",
+          "fr": "Les autres candidats seront contactés la semaine prochaine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**each other** = l’un l’autre ; **the other** = l’autre (des deux)."
+      }
+    },
+    {
+      "word": "its / it’s",
+      "ipa": "/ɪts/ · /ɪts/",
+      "pos": "déterminant / contraction",
+      "fr": "son, sa, ses / c’est, il est",
+      "def": "**its** shows possession; **it’s** = it is or it has.",
+      "examples": [
+        {
+          "en": "The company changed **its** logo.",
+          "fr": "L’entreprise a changé son logo."
+        },
+        {
+          "en": "**It’s** time to start the meeting.",
+          "fr": "Il est temps de commencer la réunion."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Piège d’écrit : **its** (possessif) n’a jamais d’apostrophe."
+      }
+    },
+    {
+      "word": "historic / historical",
+      "ipa": "/hɪˈstɔːrɪk/ · /hɪˈstɔːrɪkəl/",
+      "pos": "adjectifs",
+      "fr": "historique (important) / historique (relatif au passé)",
+      "def": "**historic** = important in history; **historical** = about the past.",
+      "examples": [
+        {
+          "en": "The hotel is located in a **historic** building.",
+          "fr": "L’hôtel se trouve dans un bâtiment historique."
+        },
+        {
+          "en": "The museum has **historical** documents.",
+          "fr": "Le musée possède des documents d’archives."
+        }
+      ]
+    },
+    {
+      "word": "continual / continuous",
+      "ipa": "/kənˈtɪnjuəl/ · /kənˈtɪnjuəs/",
+      "pos": "adjectifs",
+      "fr": "répété, incessant / continu, sans interruption",
+      "def": "**continual** = happening again and again; **continuous** = without stopping.",
+      "examples": [
+        {
+          "en": "**Continual** interruptions made it hard to work.",
+          "fr": "Des interruptions incessantes rendaient le travail difficile."
+        },
+        {
+          "en": "The machine runs in **continuous** operation.",
+          "fr": "La machine fonctionne en continu."
+        }
+      ]
+    }
+  ]
+}

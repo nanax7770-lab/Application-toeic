@@ -1,0 +1,792 @@
+{
+  "id": "logement",
+  "name": "Logement et immobilier",
+  "short": "Logement",
+  "group": "theme",
+  "description": "Louer, acheter, rénover : bureaux, appartements et travaux.",
+  "cards": [
+    {
+      "word": "tenant",
+      "ipa": "/ˈtenənt/",
+      "pos": "nom",
+      "fr": "locataire",
+      "def": "A person or company that pays rent to use a building or apartment.",
+      "examples": [
+        {
+          "en": "The **tenants** complained about the broken heating.",
+          "fr": "Les locataires se sont plaints du chauffage en panne."
+        },
+        {
+          "en": "The office space is ready for a new **tenant**.",
+          "fr": "Les bureaux sont prêts pour un nouveau locataire."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Le propriétaire : **landlord**."
+      }
+    },
+    {
+      "word": "landlord",
+      "ipa": "/ˈlændlɔːrd/",
+      "pos": "nom",
+      "fr": "propriétaire (bailleur)",
+      "def": "A person or company that rents a property to someone.",
+      "examples": [
+        {
+          "en": "Contact your **landlord** if something needs repairing.",
+          "fr": "Contactez votre propriétaire si quelque chose doit être réparé."
+        },
+        {
+          "en": "The **landlord** raised the rent by 5 percent.",
+          "fr": "Le propriétaire a augmenté le loyer de 5 %."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Au féminin : **landlady**. Le propriétaire occupant : **owner**, **homeowner**."
+      }
+    },
+    {
+      "word": "lease",
+      "ipa": "/liːs/",
+      "pos": "nom, verbe",
+      "fr": "bail ; louer (à bail)",
+      "def": "A legal agreement to rent property for a period of time.",
+      "examples": [
+        {
+          "en": "We signed a five-year **lease** for the new office.",
+          "fr": "Nous avons signé un bail de cinq ans pour le nouveau bureau."
+        },
+        {
+          "en": "The company **leases** its delivery vans.",
+          "fr": "L’entreprise loue ses camionnettes de livraison."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**renew a lease** = renouveler un bail."
+      }
+    },
+    {
+      "word": "rent",
+      "ipa": "/rent/",
+      "pos": "nom, verbe",
+      "fr": "loyer ; louer",
+      "def": "Money paid regularly to use a property; or to pay for its use.",
+      "examples": [
+        {
+          "en": "The **rent** is due on the first of every month.",
+          "fr": "Le loyer est dû le premier de chaque mois."
+        },
+        {
+          "en": "We **rent** a small apartment near the station.",
+          "fr": "Nous louons un petit appartement près de la gare."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**for rent** = à louer. Le prix de location d’une voiture : **rental**."
+      }
+    },
+    {
+      "word": "property",
+      "ipa": "/ˈprɑːpərti/",
+      "pos": "nom",
+      "fr": "propriété, bien immobilier",
+      "def": "A building or land that someone owns.",
+      "examples": [
+        {
+          "en": "The company owns several **properties** downtown.",
+          "fr": "L’entreprise possède plusieurs biens immobiliers en centre-ville."
+        },
+        {
+          "en": "**Property** prices have risen sharply.",
+          "fr": "Les prix de l’immobilier ont fortement augmenté."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**real estate** = l’immobilier (secteur)."
+      }
+    },
+    {
+      "word": "real estate",
+      "ipa": "/ˈriːəl ɪˌsteɪt/",
+      "pos": "nom",
+      "fr": "immobilier",
+      "def": "Property in the form of land or buildings.",
+      "examples": [
+        {
+          "en": "She works for a **real estate** agency.",
+          "fr": "Elle travaille pour une agence immobilière."
+        },
+        {
+          "en": "**Real estate** in this area is expensive.",
+          "fr": "L’immobilier dans ce quartier est cher."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "L’agent : **real estate agent** (US), **estate agent** (UK)."
+      }
+    },
+    {
+      "word": "mortgage",
+      "ipa": "/ˈmɔːrɡɪdʒ/",
+      "pos": "nom",
+      "fr": "prêt immobilier, hypothèque",
+      "def": "A loan used to buy a house or building.",
+      "examples": [
+        {
+          "en": "They took out a **mortgage** to buy their first home.",
+          "fr": "Ils ont contracté un prêt immobilier pour acheter leur premier logement."
+        },
+        {
+          "en": "The monthly **mortgage** payment is $1,400.",
+          "fr": "La mensualité du prêt immobilier est de 1 400 $."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Le **t** ne se prononce pas : /ˈmɔːrɡɪdʒ/."
+      }
+    },
+    {
+      "word": "utilities",
+      "ipa": "/juːˈtɪlətiz/",
+      "pos": "nom pluriel",
+      "fr": "charges (eau, gaz, électricité)",
+      "def": "Services such as water, gas and electricity provided to a building.",
+      "examples": [
+        {
+          "en": "The rent includes **utilities**.",
+          "fr": "Le loyer inclut les charges."
+        },
+        {
+          "en": "**Utilities** are paid separately by the tenant.",
+          "fr": "Les charges sont payées à part par le locataire."
+        }
+      ]
+    },
+    {
+      "word": "furnished",
+      "ipa": "/ˈfɜːrnɪʃt/",
+      "pos": "adjectif",
+      "fr": "meublé",
+      "def": "Containing furniture.",
+      "examples": [
+        {
+          "en": "We rent **furnished** apartments for short stays.",
+          "fr": "Nous louons des appartements meublés pour de courts séjours."
+        },
+        {
+          "en": "The office is fully **furnished**.",
+          "fr": "Le bureau est entièrement meublé."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **unfurnished**. ! **furniture** (meubles) est indénombrable."
+      }
+    },
+    {
+      "word": "spacious",
+      "ipa": "/ˈspeɪʃəs/",
+      "pos": "adjectif",
+      "fr": "spacieux",
+      "def": "Having a lot of space.",
+      "examples": [
+        {
+          "en": "The apartment has a **spacious** living room.",
+          "fr": "L’appartement a un salon spacieux."
+        },
+        {
+          "en": "Our new office is bright and **spacious**.",
+          "fr": "Nos nouveaux bureaux sont lumineux et spacieux."
+        }
+      ]
+    },
+    {
+      "word": "renovate",
+      "ipa": "/ˈrenəveɪt/",
+      "pos": "verbe",
+      "fr": "rénover",
+      "def": "To repair and improve a building.",
+      "examples": [
+        {
+          "en": "The hotel lobby is being **renovated**.",
+          "fr": "Le hall de l’hôtel est en rénovation."
+        },
+        {
+          "en": "They **renovated** the old factory into offices.",
+          "fr": "Ils ont transformé l’ancienne usine en bureaux."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **renovation** ; « fermé pour travaux » = **closed for renovations**."
+      }
+    },
+    {
+      "word": "remodel",
+      "ipa": "/riːˈmɑːdəl/",
+      "pos": "verbe",
+      "fr": "réaménager, refaire",
+      "def": "To change the structure or appearance of a room or building.",
+      "examples": [
+        {
+          "en": "We are **remodeling** the kitchen this summer.",
+          "fr": "Nous refaisons la cuisine cet été."
+        },
+        {
+          "en": "The store was **remodeled** to add more space.",
+          "fr": "Le magasin a été réaménagé pour gagner de la place."
+        }
+      ]
+    },
+    {
+      "word": "maintenance",
+      "ipa": "/ˈmeɪntənəns/",
+      "pos": "nom",
+      "fr": "entretien, maintenance",
+      "def": "The work of keeping a building or machine in good condition.",
+      "examples": [
+        {
+          "en": "The elevator is closed for **maintenance**.",
+          "fr": "L’ascenseur est fermé pour maintenance."
+        },
+        {
+          "en": "Call the **maintenance** department about the leak.",
+          "fr": "Appelez le service d’entretien au sujet de la fuite."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **maintain**. ! Orthographe : main**te**nance."
+      }
+    },
+    {
+      "word": "leak",
+      "ipa": "/liːk/",
+      "pos": "nom, verbe",
+      "fr": "fuite ; fuir",
+      "def": "A hole or crack through which liquid or gas escapes.",
+      "examples": [
+        {
+          "en": "There’s a **leak** in the bathroom ceiling.",
+          "fr": "Il y a une fuite au plafond de la salle de bain."
+        },
+        {
+          "en": "Water is **leaking** from the pipe.",
+          "fr": "De l’eau fuit du tuyau."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : fuite d’informations (**a data leak**)."
+      }
+    },
+    {
+      "word": "plumber",
+      "ipa": "/ˈplʌmər/",
+      "pos": "nom",
+      "fr": "plombier",
+      "def": "A person who repairs water pipes, sinks and toilets.",
+      "examples": [
+        {
+          "en": "We called a **plumber** to fix the leak.",
+          "fr": "Nous avons appelé un plombier pour réparer la fuite."
+        },
+        {
+          "en": "The **plumber** will come on Tuesday morning.",
+          "fr": "Le plombier passera mardi matin."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Le **b** ne se prononce pas : /ˈplʌmər/. Le métier : **plumbing**."
+      }
+    },
+    {
+      "word": "electrician",
+      "ipa": "/ɪˌlekˈtrɪʃən/",
+      "pos": "nom",
+      "fr": "électricien",
+      "def": "A person who installs and repairs electrical systems.",
+      "examples": [
+        {
+          "en": "An **electrician** is checking the wiring.",
+          "fr": "Un électricien vérifie le câblage."
+        },
+        {
+          "en": "We need a licensed **electrician** for this job.",
+          "fr": "Il nous faut un électricien agréé pour ce travail."
+        }
+      ]
+    },
+    {
+      "word": "contractor",
+      "ipa": "/ˈkɑːntræktər/",
+      "pos": "nom",
+      "fr": "entrepreneur (en bâtiment), prestataire",
+      "def": "A person or company hired to do work, especially building work.",
+      "examples": [
+        {
+          "en": "The **contractor** estimated the work would take six weeks.",
+          "fr": "L’entrepreneur a estimé que les travaux dureraient six semaines."
+        },
+        {
+          "en": "We hired a **contractor** to build the extension.",
+          "fr": "Nous avons engagé un entrepreneur pour construire l’extension."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : un sous-traitant ou un travailleur indépendant."
+      }
+    },
+    {
+      "word": "construction",
+      "ipa": "/kənˈstrʌkʃən/",
+      "pos": "nom",
+      "fr": "construction, travaux",
+      "def": "The work of building houses, roads and other structures.",
+      "examples": [
+        {
+          "en": "The road is closed due to **construction**.",
+          "fr": "La route est fermée pour travaux."
+        },
+        {
+          "en": "**Construction** of the new stadium will begin next year.",
+          "fr": "La construction du nouveau stade commencera l’an prochain."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**under construction** = en construction."
+      }
+    },
+    {
+      "word": "blueprint",
+      "ipa": "/ˈbluːprɪnt/",
+      "pos": "nom",
+      "fr": "plan (d’architecte)",
+      "def": "A detailed technical drawing of a building.",
+      "examples": [
+        {
+          "en": "The architect showed us the **blueprints** for the new office.",
+          "fr": "L’architecte nous a montré les plans des nouveaux bureaux."
+        },
+        {
+          "en": "The workers are studying the **blueprints**.",
+          "fr": "Les ouvriers étudient les plans."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Sens figuré : un plan d’action."
+      }
+    },
+    {
+      "word": "architect",
+      "ipa": "/ˈɑːrkɪtekt/",
+      "pos": "nom",
+      "fr": "architecte",
+      "def": "A person who designs buildings.",
+      "examples": [
+        {
+          "en": "The **architect** designed a modern glass building.",
+          "fr": "L’architecte a conçu un bâtiment moderne en verre."
+        },
+        {
+          "en": "We met with the **architect** to discuss the plans.",
+          "fr": "Nous avons rencontré l’architecte pour discuter des plans."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Prononcé avec un son /k/ : /ˈɑːrkɪtekt/."
+      }
+    },
+    {
+      "word": "neighborhood",
+      "ipa": "/ˈneɪbərhʊd/",
+      "pos": "nom",
+      "fr": "quartier",
+      "def": "An area of a town and the people who live there.",
+      "examples": [
+        {
+          "en": "The office is in a quiet **neighborhood**.",
+          "fr": "Le bureau est situé dans un quartier calme."
+        },
+        {
+          "en": "There are many restaurants in the **neighborhood**.",
+          "fr": "Il y a beaucoup de restaurants dans le quartier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **neighbourhood**."
+      }
+    },
+    {
+      "word": "residential",
+      "ipa": "/ˌrezɪˈdenʃəl/",
+      "pos": "adjectif",
+      "fr": "résidentiel",
+      "def": "Containing houses rather than offices or factories.",
+      "examples": [
+        {
+          "en": "The new hotel will be built in a **residential** area.",
+          "fr": "Le nouvel hôtel sera construit dans une zone résidentielle."
+        },
+        {
+          "en": "**Residential** streets have a speed limit of 25 mph.",
+          "fr": "Les rues résidentielles sont limitées à 25 miles par heure."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **resident** (habitant, résident)."
+      }
+    },
+    {
+      "word": "resident",
+      "ipa": "/ˈrezɪdənt/",
+      "pos": "nom",
+      "fr": "habitant, résident",
+      "def": "A person who lives in a particular place.",
+      "examples": [
+        {
+          "en": "**Residents** are invited to a public meeting on Tuesday.",
+          "fr": "Les habitants sont invités à une réunion publique mardi."
+        },
+        {
+          "en": "Parking is reserved for **residents** only.",
+          "fr": "Le stationnement est réservé aux résidents."
+        }
+      ]
+    },
+    {
+      "word": "relocate",
+      "ipa": "/ˌriːˈloʊkeɪt/",
+      "pos": "verbe",
+      "fr": "déménager, (se) délocaliser",
+      "def": "To move to a new place, especially for work.",
+      "examples": [
+        {
+          "en": "The company will **relocate** its headquarters to Denver.",
+          "fr": "L’entreprise va transférer son siège à Denver."
+        },
+        {
+          "en": "She **relocated** to London for her new job.",
+          "fr": "Elle a déménagé à Londres pour son nouveau travail."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **relocation**."
+      }
+    },
+    {
+      "word": "move in",
+      "ipa": "/muːv ɪn/",
+      "pos": "verbe à particule",
+      "fr": "emménager",
+      "def": "To start living or working in a new place.",
+      "examples": [
+        {
+          "en": "We will **move in** to the new office next month.",
+          "fr": "Nous emménagerons dans les nouveaux bureaux le mois prochain."
+        },
+        {
+          "en": "The tenants **moved in** on Saturday.",
+          "fr": "Les locataires ont emménagé samedi."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **move out** (déménager, quitter les lieux)."
+      }
+    },
+    {
+      "word": "premises",
+      "ipa": "/ˈpremɪsɪz/",
+      "pos": "nom pluriel",
+      "fr": "locaux, lieux",
+      "def": "The buildings and land that a business uses.",
+      "examples": [
+        {
+          "en": "Smoking is not allowed on the **premises**.",
+          "fr": "Il est interdit de fumer dans les locaux."
+        },
+        {
+          "en": "The company is moving to larger **premises**.",
+          "fr": "L’entreprise s’installe dans des locaux plus grands."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Toujours au pluriel dans ce sens."
+      }
+    },
+    {
+      "word": "facility",
+      "ipa": "/fəˈsɪləti/",
+      "pos": "nom",
+      "fr": "installation, site, équipement",
+      "def": "A building or place used for a particular purpose.",
+      "examples": [
+        {
+          "en": "The company opened a new research **facility**.",
+          "fr": "L’entreprise a ouvert un nouveau centre de recherche."
+        },
+        {
+          "en": "Sports **facilities** are available to all employees.",
+          "fr": "Des équipements sportifs sont à la disposition de tous les employés."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Très fréquent au TOEIC : **manufacturing facility** = usine."
+      }
+    },
+    {
+      "word": "floor plan",
+      "ipa": "/flɔːr plæn/",
+      "pos": "nom",
+      "fr": "plan (d’un étage)",
+      "def": "A drawing showing the layout of rooms on one floor.",
+      "examples": [
+        {
+          "en": "The **floor plan** shows three bedrooms and two bathrooms.",
+          "fr": "Le plan montre trois chambres et deux salles de bain."
+        },
+        {
+          "en": "Please refer to the **floor plan** to find your office.",
+          "fr": "Merci de consulter le plan pour trouver votre bureau."
+        }
+      ]
+    },
+    {
+      "word": "square foot",
+      "ipa": "/skwer fʊt/",
+      "pos": "nom",
+      "fr": "pied carré (≈ 0,093 m²)",
+      "def": "A unit for measuring area, used in the US.",
+      "examples": [
+        {
+          "en": "The apartment is 900 **square feet**.",
+          "fr": "L’appartement fait 900 pieds carrés (environ 84 m²)."
+        },
+        {
+          "en": "Office rent is $30 per **square foot** per year.",
+          "fr": "Le loyer des bureaux est de 30 $ le pied carré par an."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Pluriel : **square feet**."
+      }
+    },
+    {
+      "word": "listing",
+      "ipa": "/ˈlɪstɪŋ/",
+      "pos": "nom",
+      "fr": "annonce (immobilière)",
+      "def": "A property advertised for sale or rent.",
+      "examples": [
+        {
+          "en": "I saw the **listing** for this apartment online.",
+          "fr": "J’ai vu l’annonce de cet appartement en ligne."
+        },
+        {
+          "en": "New **listings** are added every day.",
+          "fr": "De nouvelles annonces sont publiées chaque jour."
+        }
+      ]
+    },
+    {
+      "word": "security deposit",
+      "ipa": "/sɪˈkjʊrəti dɪˈpɑːzɪt/",
+      "pos": "nom",
+      "fr": "dépôt de garantie, caution",
+      "def": "Money paid to a landlord and returned if the property is not damaged.",
+      "examples": [
+        {
+          "en": "A **security deposit** of one month’s rent is required.",
+          "fr": "Un dépôt de garantie d’un mois de loyer est exigé."
+        },
+        {
+          "en": "You will get your **security deposit** back when you move out.",
+          "fr": "Votre caution vous sera rendue à votre départ."
+        }
+      ]
+    },
+    {
+      "word": "occupancy",
+      "ipa": "/ˈɑːkjəpənsi/",
+      "pos": "nom",
+      "fr": "occupation, taux d’occupation",
+      "def": "The use of a building or room, or the number of people using it.",
+      "examples": [
+        {
+          "en": "The building is ready for **occupancy**.",
+          "fr": "Le bâtiment est prêt à être occupé."
+        },
+        {
+          "en": "Hotel **occupancy** reached 90 percent in July.",
+          "fr": "Le taux d’occupation de l’hôtel a atteint 90 % en juillet."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**maximum occupancy** = capacité maximale."
+      }
+    },
+    {
+      "word": "vacant",
+      "ipa": "/ˈveɪkənt/",
+      "pos": "adjectif",
+      "fr": "libre, inoccupé",
+      "def": "Empty; not being used or lived in.",
+      "examples": [
+        {
+          "en": "The office on the second floor is **vacant**.",
+          "fr": "Le bureau du deuxième étage est libre."
+        },
+        {
+          "en": "The building has been **vacant** for two years.",
+          "fr": "Le bâtiment est inoccupé depuis deux ans."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **vacancy**."
+      }
+    },
+    {
+      "word": "inspection",
+      "ipa": "/ɪnˈspekʃən/",
+      "pos": "nom",
+      "fr": "inspection, contrôle",
+      "def": "A careful examination to check that something is in good condition.",
+      "examples": [
+        {
+          "en": "The building passed its safety **inspection**.",
+          "fr": "Le bâtiment a réussi son contrôle de sécurité."
+        },
+        {
+          "en": "A home **inspection** is recommended before buying.",
+          "fr": "Une inspection du logement est conseillée avant l’achat."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Verbe : **inspect** ; la personne : **inspector**."
+      }
+    },
+    {
+      "word": "appliance",
+      "ipa": "/əˈplaɪəns/",
+      "pos": "nom",
+      "fr": "appareil électroménager",
+      "def": "A machine used in the home, such as a refrigerator or washing machine.",
+      "examples": [
+        {
+          "en": "The apartment comes with all major **appliances**.",
+          "fr": "L’appartement est équipé de tout le gros électroménager."
+        },
+        {
+          "en": "The store sells kitchen **appliances**.",
+          "fr": "Le magasin vend de l’électroménager de cuisine."
+        }
+      ]
+    },
+    {
+      "word": "commute",
+      "ipa": "/kəˈmjuːt/",
+      "pos": "nom, verbe",
+      "fr": "trajet quotidien ; faire la navette",
+      "def": "The regular trip between home and work.",
+      "examples": [
+        {
+          "en": "My **commute** takes about 40 minutes.",
+          "fr": "Mon trajet domicile-travail prend environ 40 minutes."
+        },
+        {
+          "en": "She **commutes** to the city by train.",
+          "fr": "Elle fait la navette en train jusqu’en ville."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne : **commuter**."
+      }
+    },
+    {
+      "word": "downtown",
+      "ipa": "/ˌdaʊnˈtaʊn/",
+      "pos": "nom, adverbe",
+      "fr": "centre-ville",
+      "def": "The main business area of a city (US).",
+      "examples": [
+        {
+          "en": "Our office is located **downtown**.",
+          "fr": "Notre bureau se trouve en centre-ville."
+        },
+        {
+          "en": "Parking **downtown** is expensive.",
+          "fr": "Le stationnement en centre-ville est cher."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **city centre**."
+      }
+    },
+    {
+      "word": "suburb",
+      "ipa": "/ˈsʌbɜːrb/",
+      "pos": "nom",
+      "fr": "banlieue",
+      "def": "An area where people live outside the center of a city.",
+      "examples": [
+        {
+          "en": "Many families live in the **suburbs**.",
+          "fr": "Beaucoup de familles vivent en banlieue."
+        },
+        {
+          "en": "The company moved to a **suburb** of Chicago.",
+          "fr": "L’entreprise s’est installée dans la banlieue de Chicago."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **suburban**."
+      }
+    },
+    {
+      "word": "house",
+      "ipa": "/haʊz/",
+      "pos": "verbe",
+      "fr": "abriter, héberger",
+      "def": "To provide space for people or things.",
+      "examples": [
+        {
+          "en": "The building **houses** a museum and a library.",
+          "fr": "Le bâtiment abrite un musée et une bibliothèque."
+        },
+        {
+          "en": "The new warehouse will **house** all our inventory.",
+          "fr": "Le nouvel entrepôt accueillera tout notre stock."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Verbe prononcé /haʊz/ (avec un z), le nom maison /haʊs/."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1321 @@
+{
+  "id": "phrasal",
+  "name": "Verbes à particule",
+  "short": "Phrasal verbs",
+  "group": "special",
+  "description": "Les phrasal verbs qui reviennent sans cesse au TOEIC, avec leur sens professionnel.",
+  "cards": [
+    {
+      "word": "carry out",
+      "ipa": "/ˌkæri ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "effectuer, réaliser, mener à bien",
+      "def": "To do or complete a task, test or plan.",
+      "examples": [
+        {
+          "en": "Technicians will **carry out** safety inspections on Monday.",
+          "fr": "Des techniciens effectueront des inspections de sécurité lundi."
+        },
+        {
+          "en": "The survey was **carried out** by an external agency.",
+          "fr": "L’enquête a été réalisée par une agence externe."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes fréquents : **conduct**, **perform**."
+      }
+    },
+    {
+      "word": "set up",
+      "ipa": "/ˌset ˈʌp/",
+      "pos": "verbe à particule",
+      "fr": "installer, mettre en place, organiser",
+      "def": "To prepare or arrange something; to start a business.",
+      "examples": [
+        {
+          "en": "Could you **set up** the projector before the meeting?",
+          "fr": "Pourriez-vous installer le projecteur avant la réunion ?"
+        },
+        {
+          "en": "She **set up** her own company in 2019.",
+          "fr": "Elle a créé sa propre entreprise en 2019."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **setup** (installation, configuration)."
+      }
+    },
+    {
+      "word": "fill out",
+      "ipa": "/ˌfɪl ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "remplir (un formulaire)",
+      "def": "To complete a form by writing information in it.",
+      "examples": [
+        {
+          "en": "Please **fill out** this form and return it to reception.",
+          "fr": "Merci de remplir ce formulaire et de le rendre à l’accueil."
+        },
+        {
+          "en": "All visitors must **fill out** a registration card.",
+          "fr": "Tous les visiteurs doivent remplir une fiche d’inscription."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **fill in** a form."
+      }
+    },
+    {
+      "word": "fill in for",
+      "ipa": "/ˌfɪl ˈɪn fɔːr/",
+      "pos": "verbe à particule",
+      "fr": "remplacer (quelqu’un)",
+      "def": "To do someone’s job while they are away.",
+      "examples": [
+        {
+          "en": "Can you **fill in for** me at the meeting tomorrow?",
+          "fr": "Peux-tu me remplacer à la réunion demain ?"
+        },
+        {
+          "en": "Mr. Lopez is **filling in for** the manager this week.",
+          "fr": "M. Lopez remplace la responsable cette semaine."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **cover for** someone."
+      }
+    },
+    {
+      "word": "look into",
+      "ipa": "/ˌlʊk ˈɪntuː/",
+      "pos": "verbe à particule",
+      "fr": "examiner, se pencher sur",
+      "def": "To investigate or try to find out about something.",
+      "examples": [
+        {
+          "en": "We will **look into** your complaint immediately.",
+          "fr": "Nous allons examiner votre réclamation immédiatement."
+        },
+        {
+          "en": "The committee is **looking into** ways to reduce costs.",
+          "fr": "Le comité étudie des moyens de réduire les coûts."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **investigate**, **examine**."
+      }
+    },
+    {
+      "word": "look forward to",
+      "ipa": "/ˌlʊk ˈfɔːrwərd tuː/",
+      "pos": "verbe à particule",
+      "fr": "avoir hâte de, attendre avec impatience",
+      "def": "To feel happy about something that is going to happen.",
+      "examples": [
+        {
+          "en": "I **look forward to** meeting you next week.",
+          "fr": "J’ai hâte de vous rencontrer la semaine prochaine."
+        },
+        {
+          "en": "We **look forward to** your reply.",
+          "fr": "Dans l’attente de votre réponse."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Piège : **to** est ici une préposition → **look forward to + -ing** (meeting), jamais « to meet »."
+      }
+    },
+    {
+      "word": "look over",
+      "ipa": "/ˌlʊk ˈoʊvər/",
+      "pos": "verbe à particule",
+      "fr": "parcourir, jeter un œil à",
+      "def": "To examine something quickly.",
+      "examples": [
+        {
+          "en": "Could you **look over** my report before I send it?",
+          "fr": "Pourrais-tu jeter un œil à mon rapport avant que je l’envoie ?"
+        },
+        {
+          "en": "The lawyer **looked over** the contract.",
+          "fr": "L’avocat a parcouru le contrat."
+        }
+      ]
+    },
+    {
+      "word": "go over",
+      "ipa": "/ˌɡoʊ ˈoʊvər/",
+      "pos": "verbe à particule",
+      "fr": "revoir, passer en revue",
+      "def": "To examine or discuss something carefully.",
+      "examples": [
+        {
+          "en": "Let’s **go over** the schedule one more time.",
+          "fr": "Revoyons le planning une dernière fois."
+        },
+        {
+          "en": "The manager **went over** the new procedures with the staff.",
+          "fr": "La responsable a passé en revue les nouvelles procédures avec le personnel."
+        }
+      ]
+    },
+    {
+      "word": "turn down",
+      "ipa": "/ˌtɜːrn ˈdaʊn/",
+      "pos": "verbe à particule",
+      "fr": "refuser ; baisser (le son)",
+      "def": "To refuse an offer or request; or to reduce the volume.",
+      "examples": [
+        {
+          "en": "She **turned down** the job offer.",
+          "fr": "Elle a refusé l’offre d’emploi."
+        },
+        {
+          "en": "Could you **turn down** the music, please?",
+          "fr": "Pourrais-tu baisser la musique, s’il te plaît ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **decline**, **reject**."
+      }
+    },
+    {
+      "word": "turn in",
+      "ipa": "/ˌtɜːrn ˈɪn/",
+      "pos": "verbe à particule",
+      "fr": "remettre, rendre",
+      "def": "To give a document to a person in authority.",
+      "examples": [
+        {
+          "en": "Please **turn in** your reports by Friday.",
+          "fr": "Merci de remettre vos rapports avant vendredi."
+        },
+        {
+          "en": "All badges must be **turned in** at the end of the event.",
+          "fr": "Tous les badges doivent être rendus à la fin de l’événement."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **hand in**, **submit**."
+      }
+    },
+    {
+      "word": "turn out",
+      "ipa": "/ˌtɜːrn ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "s’avérer ; venir (en nombre)",
+      "def": "To happen in a particular way; or to come to an event.",
+      "examples": [
+        {
+          "en": "The event **turned out** to be a great success.",
+          "fr": "L’événement s’est révélé être un grand succès."
+        },
+        {
+          "en": "Over 500 people **turned out** for the opening.",
+          "fr": "Plus de 500 personnes sont venues à l’inauguration."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **turnout** (participation, affluence)."
+      }
+    },
+    {
+      "word": "put off",
+      "ipa": "/ˌpʊt ˈɔːf/",
+      "pos": "verbe à particule",
+      "fr": "reporter, repousser",
+      "def": "To delay doing something.",
+      "examples": [
+        {
+          "en": "We had to **put off** the meeting until next week.",
+          "fr": "Nous avons dû reporter la réunion à la semaine prochaine."
+        },
+        {
+          "en": "Don’t **put off** making a decision.",
+          "fr": "Ne repoussez pas votre décision."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Comme **postpone** : suivi de **-ing**."
+      }
+    },
+    {
+      "word": "call off",
+      "ipa": "/ˌkɔːl ˈɔːf/",
+      "pos": "verbe à particule",
+      "fr": "annuler",
+      "def": "To cancel an event.",
+      "examples": [
+        {
+          "en": "The outdoor concert was **called off** because of rain.",
+          "fr": "Le concert en plein air a été annulé à cause de la pluie."
+        },
+        {
+          "en": "They **called off** the merger at the last minute.",
+          "fr": "Ils ont annulé la fusion à la dernière minute."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **cancel**."
+      }
+    },
+    {
+      "word": "call back",
+      "ipa": "/ˌkɔːl ˈbæk/",
+      "pos": "verbe à particule",
+      "fr": "rappeler (au téléphone)",
+      "def": "To telephone someone who called you earlier.",
+      "examples": [
+        {
+          "en": "Can you ask her to **call** me **back**?",
+          "fr": "Pouvez-vous lui demander de me rappeler ?"
+        },
+        {
+          "en": "I’ll **call** you **back** in ten minutes.",
+          "fr": "Je te rappelle dans dix minutes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **return someone’s call**."
+      }
+    },
+    {
+      "word": "get back to",
+      "ipa": "/ˌɡet ˈbæk tuː/",
+      "pos": "verbe à particule",
+      "fr": "recontacter, revenir vers",
+      "def": "To contact someone later with an answer.",
+      "examples": [
+        {
+          "en": "I’ll **get back to** you with the figures tomorrow.",
+          "fr": "Je reviens vers vous demain avec les chiffres."
+        },
+        {
+          "en": "Thank you for **getting back to** me so quickly.",
+          "fr": "Merci de m’avoir répondu si rapidement."
+        }
+      ]
+    },
+    {
+      "word": "run out of",
+      "ipa": "/ˌrʌn ˈaʊt əv/",
+      "pos": "verbe à particule",
+      "fr": "être à court de, manquer de",
+      "def": "To use all of something so there is none left.",
+      "examples": [
+        {
+          "en": "We’ve **run out of** paper for the printer.",
+          "fr": "Nous n’avons plus de papier pour l’imprimante."
+        },
+        {
+          "en": "The store **ran out of** the advertised item.",
+          "fr": "Le magasin a été en rupture de l’article en promotion."
+        }
+      ]
+    },
+    {
+      "word": "run into",
+      "ipa": "/ˌrʌn ˈɪntuː/",
+      "pos": "verbe à particule",
+      "fr": "rencontrer par hasard ; se heurter à",
+      "def": "To meet someone by chance; or to experience a problem.",
+      "examples": [
+        {
+          "en": "I **ran into** an old colleague at the airport.",
+          "fr": "J’ai croisé un ancien collègue à l’aéroport."
+        },
+        {
+          "en": "The project **ran into** some difficulties.",
+          "fr": "Le projet a rencontré quelques difficultés."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **bump into** (croiser)."
+      }
+    },
+    {
+      "word": "take over",
+      "ipa": "/ˌteɪk ˈoʊvər/",
+      "pos": "verbe à particule",
+      "fr": "reprendre, prendre la direction de ; racheter",
+      "def": "To take control of something or of a company.",
+      "examples": [
+        {
+          "en": "Ms. Kim will **take over** as director next month.",
+          "fr": "Mme Kim prendra la direction le mois prochain."
+        },
+        {
+          "en": "The firm was **taken over** by a larger competitor.",
+          "fr": "L’entreprise a été rachetée par un concurrent plus grand."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **takeover** (rachat, prise de contrôle)."
+      }
+    },
+    {
+      "word": "take on",
+      "ipa": "/ˌteɪk ˈɑːn/",
+      "pos": "verbe à particule",
+      "fr": "accepter (un travail), embaucher",
+      "def": "To accept a job or responsibility; or to employ someone.",
+      "examples": [
+        {
+          "en": "She agreed to **take on** the new project.",
+          "fr": "Elle a accepté de prendre en charge le nouveau projet."
+        },
+        {
+          "en": "The factory is **taking on** extra staff for the holidays.",
+          "fr": "L’usine embauche du personnel supplémentaire pour les fêtes."
+        }
+      ]
+    },
+    {
+      "word": "take off",
+      "ipa": "/ˌteɪk ˈɔːf/",
+      "pos": "verbe à particule",
+      "fr": "décoller ; prendre (un congé) ; connaître un succès",
+      "def": "To leave the ground (a plane); to take time away from work; to become successful.",
+      "examples": [
+        {
+          "en": "The plane **took off** on time.",
+          "fr": "L’avion a décollé à l’heure."
+        },
+        {
+          "en": "I’m **taking** Friday **off**.",
+          "fr": "Je prends mon vendredi."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Sens business : sales **took off** = les ventes ont décollé."
+      }
+    },
+    {
+      "word": "hand in",
+      "ipa": "/ˌhænd ˈɪn/",
+      "pos": "verbe à particule",
+      "fr": "remettre, rendre",
+      "def": "To give something to a person in authority.",
+      "examples": [
+        {
+          "en": "Please **hand in** your expense reports by Monday.",
+          "fr": "Merci de remettre vos notes de frais avant lundi."
+        },
+        {
+          "en": "He **handed in** his resignation yesterday.",
+          "fr": "Il a remis sa démission hier."
+        }
+      ]
+    },
+    {
+      "word": "hand out",
+      "ipa": "/ˌhænd ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "distribuer",
+      "def": "To give something to each person in a group.",
+      "examples": [
+        {
+          "en": "Volunteers **handed out** flyers at the entrance.",
+          "fr": "Des bénévoles ont distribué des prospectus à l’entrée."
+        },
+        {
+          "en": "The trainer will **hand out** the course materials.",
+          "fr": "Le formateur distribuera les supports de cours."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **handout** (document distribué)."
+      }
+    },
+    {
+      "word": "pick up",
+      "ipa": "/ˌpɪk ˈʌp/",
+      "pos": "verbe à particule",
+      "fr": "aller chercher, récupérer ; reprendre",
+      "def": "To collect someone or something; also to improve.",
+      "examples": [
+        {
+          "en": "I’ll **pick** you **up** at the hotel at 8.",
+          "fr": "Je passerai vous prendre à l’hôtel à 8 h."
+        },
+        {
+          "en": "Sales usually **pick up** before the holidays.",
+          "fr": "Les ventes repartent généralement avant les fêtes."
+        }
+      ]
+    },
+    {
+      "word": "drop off",
+      "ipa": "/ˌdrɑːp ˈɔːf/",
+      "pos": "verbe à particule",
+      "fr": "déposer",
+      "def": "To take someone or something to a place and leave them there.",
+      "examples": [
+        {
+          "en": "Could you **drop off** these documents at the bank?",
+          "fr": "Pourriez-vous déposer ces documents à la banque ?"
+        },
+        {
+          "en": "The shuttle will **drop** you **off** at the terminal.",
+          "fr": "La navette vous déposera au terminal."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **pick up**."
+      }
+    },
+    {
+      "word": "drop by",
+      "ipa": "/ˌdrɑːp ˈbaɪ/",
+      "pos": "verbe à particule",
+      "fr": "passer (voir), faire un saut",
+      "def": "To visit briefly without an appointment.",
+      "examples": [
+        {
+          "en": "Feel free to **drop by** my office anytime.",
+          "fr": "N’hésitez pas à passer à mon bureau quand vous voulez."
+        },
+        {
+          "en": "A client **dropped by** to sign the papers.",
+          "fr": "Un client est passé signer les papiers."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **stop by**, **come by**."
+      }
+    },
+    {
+      "word": "sign up for",
+      "ipa": "/ˌsaɪn ˈʌp fɔːr/",
+      "pos": "verbe à particule",
+      "fr": "s’inscrire à",
+      "def": "To register for an activity or service.",
+      "examples": [
+        {
+          "en": "I **signed up for** the leadership workshop.",
+          "fr": "Je me suis inscrit à l’atelier de leadership."
+        },
+        {
+          "en": "**Sign up for** our newsletter to get special offers.",
+          "fr": "Inscrivez-vous à notre lettre d’information pour recevoir des offres."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **register for**, **enroll in**."
+      }
+    },
+    {
+      "word": "set aside",
+      "ipa": "/ˌset əˈsaɪd/",
+      "pos": "verbe à particule",
+      "fr": "mettre de côté, réserver",
+      "def": "To keep something for a special purpose.",
+      "examples": [
+        {
+          "en": "We **set aside** $5,000 for emergencies.",
+          "fr": "Nous avons mis de côté 5 000 $ pour les imprévus."
+        },
+        {
+          "en": "Please **set aside** an hour for the training.",
+          "fr": "Merci de prévoir une heure pour la formation."
+        }
+      ]
+    },
+    {
+      "word": "put together",
+      "ipa": "/ˌpʊt təˈɡeðər/",
+      "pos": "verbe à particule",
+      "fr": "préparer, assembler, constituer",
+      "def": "To create or organize something by combining parts.",
+      "examples": [
+        {
+          "en": "She **put together** a proposal for the client.",
+          "fr": "Elle a préparé une proposition pour le client."
+        },
+        {
+          "en": "It took two hours to **put together** the new desk.",
+          "fr": "Il a fallu deux heures pour monter le nouveau bureau."
+        }
+      ]
+    },
+    {
+      "word": "come up with",
+      "ipa": "/ˌkʌm ˈʌp wɪð/",
+      "pos": "verbe à particule",
+      "fr": "trouver, proposer (une idée)",
+      "def": "To think of an idea or plan.",
+      "examples": [
+        {
+          "en": "The team **came up with** a great slogan.",
+          "fr": "L’équipe a trouvé un excellent slogan."
+        },
+        {
+          "en": "We need to **come up with** a solution quickly.",
+          "fr": "Nous devons trouver une solution rapidement."
+        }
+      ]
+    },
+    {
+      "word": "come across",
+      "ipa": "/ˌkʌm əˈkrɔːs/",
+      "pos": "verbe à particule",
+      "fr": "tomber sur, trouver par hasard",
+      "def": "To find or meet something by chance.",
+      "examples": [
+        {
+          "en": "I **came across** an interesting article on the topic.",
+          "fr": "Je suis tombé sur un article intéressant sur le sujet."
+        },
+        {
+          "en": "Did you **come across** any errors in the report?",
+          "fr": "Avez-vous trouvé des erreurs dans le rapport ?"
+        }
+      ]
+    },
+    {
+      "word": "bring up",
+      "ipa": "/ˌbrɪŋ ˈʌp/",
+      "pos": "verbe à particule",
+      "fr": "aborder, soulever (un sujet)",
+      "def": "To mention a subject for discussion.",
+      "examples": [
+        {
+          "en": "She **brought up** the issue of parking at the meeting.",
+          "fr": "Elle a soulevé la question du stationnement lors de la réunion."
+        },
+        {
+          "en": "I’ll **bring** it **up** with the director.",
+          "fr": "J’en parlerai au directeur."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **raise**, **mention**."
+      }
+    },
+    {
+      "word": "point out",
+      "ipa": "/ˌpɔɪnt ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "faire remarquer, signaler",
+      "def": "To tell someone about a fact they had not noticed.",
+      "examples": [
+        {
+          "en": "He **pointed out** an error in the budget.",
+          "fr": "Il a signalé une erreur dans le budget."
+        },
+        {
+          "en": "Thank you for **pointing** that **out**.",
+          "fr": "Merci de l’avoir fait remarquer."
+        }
+      ]
+    },
+    {
+      "word": "figure out",
+      "ipa": "/ˌfɪɡjər ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "comprendre, trouver (la solution)",
+      "def": "To understand or solve something by thinking about it.",
+      "examples": [
+        {
+          "en": "We need to **figure out** why sales are falling.",
+          "fr": "Nous devons comprendre pourquoi les ventes baissent."
+        },
+        {
+          "en": "I can’t **figure out** how to use this machine.",
+          "fr": "Je n’arrive pas à comprendre comment utiliser cette machine."
+        }
+      ]
+    },
+    {
+      "word": "work out",
+      "ipa": "/ˌwɜːrk ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "résoudre, élaborer ; bien se passer ; faire du sport",
+      "def": "To find a solution; to develop well; or to exercise.",
+      "examples": [
+        {
+          "en": "We **worked out** a new schedule.",
+          "fr": "Nous avons élaboré un nouveau planning."
+        },
+        {
+          "en": "I hope everything **works out** for you.",
+          "fr": "J’espère que tout se passera bien pour vous."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **workout** (séance de sport)."
+      }
+    },
+    {
+      "word": "find out",
+      "ipa": "/ˌfaɪnd ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "découvrir, apprendre",
+      "def": "To get information about something.",
+      "examples": [
+        {
+          "en": "I’ll **find out** when the next train leaves.",
+          "fr": "Je vais me renseigner sur l’heure du prochain train."
+        },
+        {
+          "en": "We **found out** about the change only yesterday.",
+          "fr": "Nous avons appris ce changement seulement hier."
+        }
+      ]
+    },
+    {
+      "word": "deal with",
+      "ipa": "/ˈdiːl wɪð/",
+      "pos": "verbe à particule",
+      "fr": "s’occuper de, traiter, gérer",
+      "def": "To take action to solve a problem or handle a task.",
+      "examples": [
+        {
+          "en": "Ms. Garcia **deals with** all customer complaints.",
+          "fr": "Mme Garcia s’occupe de toutes les réclamations clients."
+        },
+        {
+          "en": "We need to **deal with** this issue right away.",
+          "fr": "Nous devons régler ce problème tout de suite."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **handle**, **address**."
+      }
+    },
+    {
+      "word": "break down",
+      "ipa": "/ˌbreɪk ˈdaʊn/",
+      "pos": "verbe à particule",
+      "fr": "tomber en panne ; détailler",
+      "def": "To stop working (a machine); or to divide into parts.",
+      "examples": [
+        {
+          "en": "The delivery truck **broke down** on the highway.",
+          "fr": "Le camion de livraison est tombé en panne sur l’autoroute."
+        },
+        {
+          "en": "Can you **break down** the costs for us?",
+          "fr": "Pouvez-vous nous détailler les coûts ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **breakdown** (panne ; ventilation des chiffres)."
+      }
+    },
+    {
+      "word": "catch up on",
+      "ipa": "/ˌkætʃ ˈʌp ɑːn/",
+      "pos": "verbe à particule",
+      "fr": "rattraper (son retard)",
+      "def": "To do something you did not have time to do earlier.",
+      "examples": [
+        {
+          "en": "I need to **catch up on** my emails after the trip.",
+          "fr": "Je dois rattraper mes e-mails après le voyage."
+        },
+        {
+          "en": "The weekend is a good time to **catch up on** paperwork.",
+          "fr": "Le week-end est un bon moment pour rattraper la paperasse."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**catch up with** someone = rattraper quelqu’un, reprendre contact."
+      }
+    },
+    {
+      "word": "cut back on",
+      "ipa": "/ˌkʌt ˈbæk ɑːn/",
+      "pos": "verbe à particule",
+      "fr": "réduire",
+      "def": "To reduce the amount of something.",
+      "examples": [
+        {
+          "en": "The company is **cutting back on** travel expenses.",
+          "fr": "L’entreprise réduit ses frais de déplacement."
+        },
+        {
+          "en": "We need to **cut back on** paper use.",
+          "fr": "Nous devons réduire notre consommation de papier."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **cutbacks** (réductions, coupes budgétaires)."
+      }
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/ˌfɔːl bɪˈhaɪnd/",
+      "pos": "verbe à particule",
+      "fr": "prendre du retard",
+      "def": "To fail to do something as fast as planned.",
+      "examples": [
+        {
+          "en": "The project has **fallen behind** schedule.",
+          "fr": "Le projet a pris du retard."
+        },
+        {
+          "en": "Don’t **fall behind** on your payments.",
+          "fr": "Ne prenez pas de retard dans vos paiements."
+        }
+      ]
+    },
+    {
+      "word": "go ahead",
+      "ipa": "/ˌɡoʊ əˈhed/",
+      "pos": "verbe à particule",
+      "fr": "avoir lieu comme prévu ; allez-y",
+      "def": "To start or continue as planned.",
+      "examples": [
+        {
+          "en": "The event will **go ahead** despite the weather.",
+          "fr": "L’événement aura lieu malgré la météo."
+        },
+        {
+          "en": "“Can I ask a question?” — “Sure, **go ahead**.”",
+          "fr": "« Je peux poser une question ? » — « Bien sûr, allez-y. »"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**get the go-ahead** = obtenir le feu vert."
+      }
+    },
+    {
+      "word": "hold on",
+      "ipa": "/ˌhoʊld ˈɑːn/",
+      "pos": "verbe à particule",
+      "fr": "patienter (au téléphone)",
+      "def": "To wait for a short time.",
+      "examples": [
+        {
+          "en": "Please **hold on** while I transfer your call.",
+          "fr": "Veuillez patienter pendant que je transfère votre appel."
+        },
+        {
+          "en": "**Hold on**, I’ll check the schedule.",
+          "fr": "Un instant, je vérifie le planning."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **hold the line**, **wait a moment**."
+      }
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/ˌkiːp ˈʌp wɪð/",
+      "pos": "verbe à particule",
+      "fr": "suivre (le rythme), se tenir au courant de",
+      "def": "To move or progress at the same speed; to stay informed.",
+      "examples": [
+        {
+          "en": "It’s hard to **keep up with** demand.",
+          "fr": "Il est difficile de suivre la demande."
+        },
+        {
+          "en": "I read the news to **keep up with** the industry.",
+          "fr": "Je lis l’actualité pour me tenir au courant du secteur."
+        }
+      ]
+    },
+    {
+      "word": "make up for",
+      "ipa": "/ˌmeɪk ˈʌp fɔːr/",
+      "pos": "verbe à particule",
+      "fr": "compenser, rattraper",
+      "def": "To do something good to correct a bad situation.",
+      "examples": [
+        {
+          "en": "We offered a discount to **make up for** the delay.",
+          "fr": "Nous avons offert une réduction pour compenser le retard."
+        },
+        {
+          "en": "Nothing can **make up for** lost time.",
+          "fr": "Rien ne peut rattraper le temps perdu."
+        }
+      ]
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˌnæroʊ ˈdaʊn/",
+      "pos": "verbe à particule",
+      "fr": "réduire, restreindre (un choix)",
+      "def": "To reduce the number of possibilities.",
+      "examples": [
+        {
+          "en": "We’ve **narrowed down** the list to three candidates.",
+          "fr": "Nous avons réduit la liste à trois candidats."
+        },
+        {
+          "en": "Use filters to **narrow down** your search.",
+          "fr": "Utilisez les filtres pour affiner votre recherche."
+        }
+      ]
+    },
+    {
+      "word": "phase out",
+      "ipa": "/ˌfeɪz ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "supprimer progressivement",
+      "def": "To gradually stop using something.",
+      "examples": [
+        {
+          "en": "The company will **phase out** paper invoices.",
+          "fr": "L’entreprise va supprimer progressivement les factures papier."
+        },
+        {
+          "en": "Old models are being **phased out**.",
+          "fr": "Les anciens modèles sont progressivement retirés."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Contraire : **phase in** (introduire progressivement)."
+      }
+    },
+    {
+      "word": "put through",
+      "ipa": "/ˌpʊt ˈθruː/",
+      "pos": "verbe à particule",
+      "fr": "passer (un appel), mettre en relation",
+      "def": "To connect a phone caller to another person.",
+      "examples": [
+        {
+          "en": "Could you **put** me **through** to the sales department?",
+          "fr": "Pourriez-vous me passer le service commercial ?"
+        },
+        {
+          "en": "I’ll **put** you **through** now.",
+          "fr": "Je vous mets en relation."
+        }
+      ]
+    },
+    {
+      "word": "show up",
+      "ipa": "/ˌʃoʊ ˈʌp/",
+      "pos": "verbe à particule",
+      "fr": "arriver, se présenter",
+      "def": "To arrive, often when expected.",
+      "examples": [
+        {
+          "en": "Only half of the guests **showed up**.",
+          "fr": "Seule la moitié des invités sont venus."
+        },
+        {
+          "en": "He **showed up** late for the interview.",
+          "fr": "Il est arrivé en retard à l’entretien."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **turn up**."
+      }
+    },
+    {
+      "word": "shut down",
+      "ipa": "/ˌʃʌt ˈdaʊn/",
+      "pos": "verbe à particule",
+      "fr": "fermer (définitivement), arrêter",
+      "def": "To close a business or stop a machine.",
+      "examples": [
+        {
+          "en": "The factory will **shut down** for two weeks in August.",
+          "fr": "L’usine fermera deux semaines en août."
+        },
+        {
+          "en": "Please **shut down** your computer before leaving.",
+          "fr": "Merci d’éteindre votre ordinateur avant de partir."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **shutdown**."
+      }
+    },
+    {
+      "word": "sort out",
+      "ipa": "/ˌsɔːrt ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "régler, arranger ; trier",
+      "def": "To solve a problem or organize something.",
+      "examples": [
+        {
+          "en": "IT **sorted out** the network problem quickly.",
+          "fr": "Le service informatique a vite réglé le problème de réseau."
+        },
+        {
+          "en": "I need to **sort out** these files.",
+          "fr": "Je dois trier ces dossiers."
+        }
+      ]
+    },
+    {
+      "word": "step down",
+      "ipa": "/ˌstep ˈdaʊn/",
+      "pos": "verbe à particule",
+      "fr": "démissionner, se retirer (d’un poste)",
+      "def": "To leave an important job.",
+      "examples": [
+        {
+          "en": "The CEO will **step down** at the end of the year.",
+          "fr": "Le PDG quittera ses fonctions à la fin de l’année."
+        },
+        {
+          "en": "She **stepped down** as chair of the committee.",
+          "fr": "Elle a quitté la présidence du comité."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **resign**, **retire**."
+      }
+    },
+    {
+      "word": "try on",
+      "ipa": "/ˌtraɪ ˈɑːn/",
+      "pos": "verbe à particule",
+      "fr": "essayer (un vêtement)",
+      "def": "To put on clothes to see if they fit.",
+      "examples": [
+        {
+          "en": "Would you like to **try on** this jacket?",
+          "fr": "Voulez-vous essayer cette veste ?"
+        },
+        {
+          "en": "Customers can **try on** shoes in the fitting area.",
+          "fr": "Les clients peuvent essayer les chaussures dans l’espace d’essayage."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**fitting room** = cabine d’essayage."
+      }
+    },
+    {
+      "word": "wrap up",
+      "ipa": "/ˌræp ˈʌp/",
+      "pos": "verbe à particule",
+      "fr": "conclure, terminer",
+      "def": "To finish something such as a meeting.",
+      "examples": [
+        {
+          "en": "Let’s **wrap up** the meeting with a quick summary.",
+          "fr": "Terminons la réunion par un bref résumé."
+        },
+        {
+          "en": "We should **wrap up** the project by Friday.",
+          "fr": "Nous devrions boucler le projet d’ici vendredi."
+        }
+      ]
+    },
+    {
+      "word": "count on",
+      "ipa": "/ˈkaʊnt ɑːn/",
+      "pos": "verbe à particule",
+      "fr": "compter sur",
+      "def": "To depend on someone or something.",
+      "examples": [
+        {
+          "en": "You can **count on** us to deliver on time.",
+          "fr": "Vous pouvez compter sur nous pour livrer à temps."
+        },
+        {
+          "en": "We are **counting on** your support.",
+          "fr": "Nous comptons sur votre soutien."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonymes : **rely on**, **depend on**."
+      }
+    },
+    {
+      "word": "draw up",
+      "ipa": "/ˌdrɔː ˈʌp/",
+      "pos": "verbe à particule",
+      "fr": "rédiger, établir (un document)",
+      "def": "To prepare a written document such as a plan or contract.",
+      "examples": [
+        {
+          "en": "Our lawyer will **draw up** the contract.",
+          "fr": "Notre avocat rédigera le contrat."
+        },
+        {
+          "en": "The committee **drew up** a list of recommendations.",
+          "fr": "Le comité a établi une liste de recommandations."
+        }
+      ]
+    },
+    {
+      "word": "iron out",
+      "ipa": "/ˌaɪərn ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "régler, aplanir (des difficultés)",
+      "def": "To solve small problems.",
+      "examples": [
+        {
+          "en": "We need to **iron out** a few details before signing.",
+          "fr": "Nous devons régler quelques détails avant de signer."
+        },
+        {
+          "en": "The technical issues have been **ironed out**.",
+          "fr": "Les problèmes techniques ont été résolus."
+        }
+      ]
+    },
+    {
+      "word": "stand out",
+      "ipa": "/ˌstænd ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "se démarquer, ressortir",
+      "def": "To be easy to notice or better than others.",
+      "examples": [
+        {
+          "en": "Her application **stood out** from the rest.",
+          "fr": "Sa candidature s’est démarquée des autres."
+        },
+        {
+          "en": "Bright colors help the logo **stand out**.",
+          "fr": "Les couleurs vives font ressortir le logo."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **outstanding** (remarquable)."
+      }
+    },
+    {
+      "word": "put up with",
+      "ipa": "/ˌpʊt ˈʌp wɪð/",
+      "pos": "verbe à particule",
+      "fr": "supporter, tolérer",
+      "def": "To accept something unpleasant without complaining.",
+      "examples": [
+        {
+          "en": "Residents have **put up with** the noise for months.",
+          "fr": "Les habitants supportent le bruit depuis des mois."
+        },
+        {
+          "en": "I can’t **put up with** these delays anymore.",
+          "fr": "Je ne supporte plus ces retards."
+        }
+      ]
+    },
+    {
+      "word": "get along with",
+      "ipa": "/ˌɡet əˈlɔːŋ wɪð/",
+      "pos": "verbe à particule",
+      "fr": "bien s’entendre avec",
+      "def": "To have a good relationship with someone.",
+      "examples": [
+        {
+          "en": "She **gets along with** all her colleagues.",
+          "fr": "Elle s’entend bien avec tous ses collègues."
+        },
+        {
+          "en": "It’s important to **get along with** your team.",
+          "fr": "Il est important de bien s’entendre avec son équipe."
+        }
+      ]
+    },
+    {
+      "word": "look up",
+      "ipa": "/ˌlʊk ˈʌp/",
+      "pos": "verbe à particule",
+      "fr": "chercher (une information)",
+      "def": "To search for information in a book or online.",
+      "examples": [
+        {
+          "en": "**Look up** the address on the company website.",
+          "fr": "Cherchez l’adresse sur le site de l’entreprise."
+        },
+        {
+          "en": "I **looked up** the word in the dictionary.",
+          "fr": "J’ai cherché le mot dans le dictionnaire."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**things are looking up** = les choses s’améliorent."
+      }
+    },
+    {
+      "word": "hang up",
+      "ipa": "/ˌhæŋ ˈʌp/",
+      "pos": "verbe à particule",
+      "fr": "raccrocher",
+      "def": "To end a phone call.",
+      "examples": [
+        {
+          "en": "Please don’t **hang up**; your call is important to us.",
+          "fr": "Merci de ne pas raccrocher ; votre appel est important pour nous."
+        },
+        {
+          "en": "She **hung up** before I could answer.",
+          "fr": "Elle a raccroché avant que je puisse répondre."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Aussi : suspendre (un manteau)."
+      }
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/ˌbrʌʃ ˈʌp ɑːn/",
+      "pos": "verbe à particule",
+      "fr": "réviser, rafraîchir (ses connaissances)",
+      "def": "To improve a skill you had before but have partly forgotten.",
+      "examples": [
+        {
+          "en": "I need to **brush up on** my English before the trip.",
+          "fr": "Je dois rafraîchir mon anglais avant le voyage."
+        },
+        {
+          "en": "The course helps staff **brush up on** their Excel skills.",
+          "fr": "Le cours aide le personnel à se remettre à niveau sur Excel."
+        }
+      ]
+    },
+    {
+      "word": "sell out",
+      "ipa": "/ˌsel ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "tout vendre, être épuisé",
+      "def": "To sell all of something so nothing is left.",
+      "examples": [
+        {
+          "en": "Tickets for the concert **sold out** in an hour.",
+          "fr": "Les billets du concert se sont vendus en une heure."
+        },
+        {
+          "en": "The new phone is **sold out** in most stores.",
+          "fr": "Le nouveau téléphone est épuisé dans la plupart des magasins."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Adjectif : **sold out** (complet, épuisé)."
+      }
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/ˌstɑːk ˈʌp ɑːn/",
+      "pos": "verbe à particule",
+      "fr": "faire des réserves de",
+      "def": "To buy a lot of something for future use.",
+      "examples": [
+        {
+          "en": "Stores are **stocking up on** heaters for winter.",
+          "fr": "Les magasins font des réserves de radiateurs pour l’hiver."
+        },
+        {
+          "en": "We should **stock up on** printer ink.",
+          "fr": "Nous devrions faire des réserves d’encre d’imprimante."
+        }
+      ]
+    },
+    {
+      "word": "print out",
+      "ipa": "/ˌprɪnt ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "imprimer",
+      "def": "To produce a paper copy from a computer.",
+      "examples": [
+        {
+          "en": "Please **print out** the agenda for everyone.",
+          "fr": "Merci d’imprimer l’ordre du jour pour tout le monde."
+        },
+        {
+          "en": "I **printed out** my boarding pass.",
+          "fr": "J’ai imprimé ma carte d’embarquement."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **printout** (impression, tirage papier)."
+      }
+    },
+    {
+      "word": "cut off",
+      "ipa": "/ˌkʌt ˈɔːf/",
+      "pos": "verbe à particule",
+      "fr": "couper, interrompre",
+      "def": "To stop a supply or interrupt a conversation.",
+      "examples": [
+        {
+          "en": "We were **cut off** in the middle of the call.",
+          "fr": "Nous avons été coupés au milieu de l’appel."
+        },
+        {
+          "en": "Power was **cut off** for two hours.",
+          "fr": "Le courant a été coupé pendant deux heures."
+        }
+      ]
+    },
+    {
+      "word": "speak up",
+      "ipa": "/ˌspiːk ˈʌp/",
+      "pos": "verbe à particule",
+      "fr": "parler plus fort ; s’exprimer",
+      "def": "To speak more loudly; or to give your opinion.",
+      "examples": [
+        {
+          "en": "Could you **speak up**? I can’t hear you.",
+          "fr": "Pourriez-vous parler plus fort ? Je ne vous entends pas."
+        },
+        {
+          "en": "Don’t be afraid to **speak up** in meetings.",
+          "fr": "N’ayez pas peur de vous exprimer en réunion."
+        }
+      ]
+    },
+    {
+      "word": "lay out",
+      "ipa": "/ˌleɪ ˈaʊt/",
+      "pos": "verbe à particule",
+      "fr": "présenter, exposer ; disposer",
+      "def": "To explain something clearly; or to arrange things.",
+      "examples": [
+        {
+          "en": "The report **lays out** a plan for growth.",
+          "fr": "Le rapport expose un plan de croissance."
+        },
+        {
+          "en": "Brochures are **laid out** on the table.",
+          "fr": "Des brochures sont disposées sur la table."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **layout** (mise en page, agencement)."
+      }
+    }
+  ]
+}

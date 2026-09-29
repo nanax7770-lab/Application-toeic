@@ -1,0 +1,831 @@
+{
+  "id": "voyages",
+  "name": "Voyages et hôtels",
+  "short": "Voyages",
+  "group": "theme",
+  "description": "Aéroports, réservations, hôtels et voyages d’affaires.",
+  "cards": [
+    {
+      "word": "itinerary",
+      "ipa": "/aɪˈtɪnəreri/",
+      "pos": "nom",
+      "fr": "itinéraire, programme de voyage",
+      "def": "A detailed plan of a journey, with times and places.",
+      "examples": [
+        {
+          "en": "Your travel **itinerary** has been sent to your email.",
+          "fr": "Votre programme de voyage a été envoyé à votre adresse e-mail."
+        },
+        {
+          "en": "The **itinerary** includes a stop in Singapore.",
+          "fr": "L’itinéraire comprend une escale à Singapour."
+        }
+      ]
+    },
+    {
+      "word": "reservation",
+      "ipa": "/ˌrezərˈveɪʃən/",
+      "pos": "nom",
+      "fr": "réservation",
+      "def": "An arrangement to have a room, seat or table kept for you.",
+      "examples": [
+        {
+          "en": "I’d like to make a **reservation** for two nights.",
+          "fr": "Je voudrais faire une réservation pour deux nuits."
+        },
+        {
+          "en": "Your **reservation** has been confirmed.",
+          "fr": "Votre réservation a été confirmée."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **booking**. Verbe : **reserve**."
+      }
+    },
+    {
+      "word": "book",
+      "ipa": "/bʊk/",
+      "pos": "verbe",
+      "fr": "réserver",
+      "def": "To arrange to have a room, ticket or table.",
+      "examples": [
+        {
+          "en": "I **booked** a flight to Chicago for Monday.",
+          "fr": "J’ai réservé un vol pour Chicago lundi."
+        },
+        {
+          "en": "The hotel is fully **booked** this weekend.",
+          "fr": "L’hôtel est complet ce week-end."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**fully booked** = complet ; **booking** = réservation."
+      }
+    },
+    {
+      "word": "accommodation",
+      "ipa": "/əˌkɑːməˈdeɪʃən/",
+      "pos": "nom",
+      "fr": "hébergement, logement",
+      "def": "A place to stay, such as a hotel room.",
+      "examples": [
+        {
+          "en": "The price includes flights and **accommodation**.",
+          "fr": "Le prix comprend les vols et l’hébergement."
+        },
+        {
+          "en": "We will arrange **accommodation** for all speakers.",
+          "fr": "Nous organiserons l’hébergement de tous les intervenants."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Souvent au pluriel en anglais américain : **accommodations**. ! Deux **c** et deux **m**."
+      }
+    },
+    {
+      "word": "amenities",
+      "ipa": "/əˈmenətiz/",
+      "pos": "nom pluriel",
+      "fr": "équipements, services (d’un hôtel, d’un quartier)",
+      "def": "Features that make a place comfortable, such as a pool or gym.",
+      "examples": [
+        {
+          "en": "The hotel’s **amenities** include a spa and a fitness center.",
+          "fr": "Les équipements de l’hôtel comprennent un spa et une salle de sport."
+        },
+        {
+          "en": "The apartment is close to shops and other **amenities**.",
+          "fr": "L’appartement est proche des commerces et autres services."
+        }
+      ]
+    },
+    {
+      "word": "complimentary",
+      "ipa": "/ˌkɑːmplɪˈmentəri/",
+      "pos": "adjectif",
+      "fr": "gratuit, offert",
+      "def": "Given free of charge.",
+      "examples": [
+        {
+          "en": "Guests enjoy a **complimentary** breakfast every morning.",
+          "fr": "Les clients profitent d’un petit-déjeuner offert chaque matin."
+        },
+        {
+          "en": "**Complimentary** Wi-Fi is available in the lobby.",
+          "fr": "Le Wi-Fi gratuit est disponible dans le hall."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Ne pas confondre avec **complementary** (complémentaire). Aussi : flatteur."
+      }
+    },
+    {
+      "word": "concierge",
+      "ipa": "/ˌkɑːnsiˈerʒ/",
+      "pos": "nom",
+      "fr": "concierge (d’hôtel)",
+      "def": "A hotel employee who helps guests with reservations, tickets and information.",
+      "examples": [
+        {
+          "en": "Ask the **concierge** to recommend a restaurant.",
+          "fr": "Demandez au concierge de vous recommander un restaurant."
+        },
+        {
+          "en": "The **concierge** booked theater tickets for us.",
+          "fr": "Le concierge nous a réservé des places de théâtre."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Dans un hôtel, ce n’est pas un gardien d’immeuble (= **superintendent**, **caretaker**)."
+      }
+    },
+    {
+      "word": "lobby",
+      "ipa": "/ˈlɑːbi/",
+      "pos": "nom",
+      "fr": "hall d’entrée",
+      "def": "The entrance area of a hotel or large building.",
+      "examples": [
+        {
+          "en": "Let’s meet in the hotel **lobby** at 7 p.m.",
+          "fr": "Retrouvons-nous dans le hall de l’hôtel à 19 h."
+        },
+        {
+          "en": "Guests are waiting in the **lobby**.",
+          "fr": "Des clients attendent dans le hall."
+        }
+      ]
+    },
+    {
+      "word": "front desk",
+      "ipa": "/frʌnt desk/",
+      "pos": "nom",
+      "fr": "réception (d’hôtel)",
+      "def": "The place in a hotel where guests check in and ask questions.",
+      "examples": [
+        {
+          "en": "Please leave your key at the **front desk**.",
+          "fr": "Merci de laisser votre clé à la réception."
+        },
+        {
+          "en": "Call the **front desk** if you need extra towels.",
+          "fr": "Appelez la réception si vous avez besoin de serviettes supplémentaires."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **reception desk**."
+      }
+    },
+    {
+      "word": "check in",
+      "ipa": "/tʃek ɪn/",
+      "pos": "verbe à particule",
+      "fr": "s’enregistrer, arriver (hôtel, aéroport)",
+      "def": "To arrive and register at a hotel or airport.",
+      "examples": [
+        {
+          "en": "You can **check in** from 3 p.m.",
+          "fr": "Vous pouvez prendre votre chambre à partir de 15 h."
+        },
+        {
+          "en": "Please **check in** at least two hours before your flight.",
+          "fr": "Merci de vous enregistrer au moins deux heures avant votre vol."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **check-in**. Contraire : **check out** (quitter l’hôtel)."
+      }
+    },
+    {
+      "word": "check out",
+      "ipa": "/tʃek aʊt/",
+      "pos": "verbe à particule",
+      "fr": "quitter (l’hôtel), régler sa note ; regarder",
+      "def": "To pay and leave a hotel; also informally to look at something.",
+      "examples": [
+        {
+          "en": "Guests must **check out** by 11 a.m.",
+          "fr": "Les clients doivent libérer la chambre avant 11 h."
+        },
+        {
+          "en": "**Check out** our new menu online!",
+          "fr": "Découvrez notre nouveau menu en ligne !"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **checkout time** = heure de départ."
+      }
+    },
+    {
+      "word": "luggage",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "pos": "nom",
+      "fr": "bagages",
+      "def": "The bags and cases you take when traveling.",
+      "examples": [
+        {
+          "en": "Each passenger may bring one piece of carry-on **luggage**.",
+          "fr": "Chaque passager peut emporter un bagage à main."
+        },
+        {
+          "en": "Please do not leave your **luggage** unattended.",
+          "fr": "Merci de ne pas laisser vos bagages sans surveillance."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Indénombrable : **a piece of luggage**, jamais « a luggage ». Synonyme : **baggage**."
+      }
+    },
+    {
+      "word": "baggage claim",
+      "ipa": "/ˈbæɡɪdʒ kleɪm/",
+      "pos": "nom",
+      "fr": "retrait des bagages",
+      "def": "The area in an airport where passengers collect their bags.",
+      "examples": [
+        {
+          "en": "Passengers can collect their bags at **baggage claim** 4.",
+          "fr": "Les passagers peuvent récupérer leurs bagages au tapis 4."
+        },
+        {
+          "en": "I’ll meet you at **baggage claim**.",
+          "fr": "Je te retrouve au retrait des bagages."
+        }
+      ]
+    },
+    {
+      "word": "carry-on",
+      "ipa": "/ˈkæri ɑːn/",
+      "pos": "nom, adjectif",
+      "fr": "bagage à main",
+      "def": "A small bag you can take with you on a plane.",
+      "examples": [
+        {
+          "en": "Your **carry-on** must fit in the overhead compartment.",
+          "fr": "Votre bagage à main doit tenir dans le compartiment supérieur."
+        },
+        {
+          "en": "Liquids in **carry-on** bags are limited to 100 ml.",
+          "fr": "Les liquides dans les bagages à main sont limités à 100 ml."
+        }
+      ]
+    },
+    {
+      "word": "boarding pass",
+      "ipa": "/ˈbɔːrdɪŋ pæs/",
+      "pos": "nom",
+      "fr": "carte d’embarquement",
+      "def": "A document that allows you to get on a plane.",
+      "examples": [
+        {
+          "en": "Please have your **boarding pass** ready at the gate.",
+          "fr": "Merci de préparer votre carte d’embarquement à la porte."
+        },
+        {
+          "en": "You can print your **boarding pass** at home.",
+          "fr": "Vous pouvez imprimer votre carte d’embarquement chez vous."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**boarding** = l’embarquement ; **board** a plane = embarquer."
+      }
+    },
+    {
+      "word": "departure",
+      "ipa": "/dɪˈpɑːrtʃər/",
+      "pos": "nom",
+      "fr": "départ",
+      "def": "The act of leaving, especially of a plane or train.",
+      "examples": [
+        {
+          "en": "The **departure** time has changed to 6:45.",
+          "fr": "L’heure de départ a été modifiée à 6 h 45."
+        },
+        {
+          "en": "Please arrive one hour before **departure**.",
+          "fr": "Merci d’arriver une heure avant le départ."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**departure lounge** = salle d’embarquement. Contraire : **arrival**."
+      }
+    },
+    {
+      "word": "delay",
+      "ipa": "/dɪˈleɪ/",
+      "pos": "nom, verbe",
+      "fr": "retard ; retarder",
+      "def": "A situation in which something happens later than planned.",
+      "examples": [
+        {
+          "en": "We apologize for the **delay**.",
+          "fr": "Nous vous prions d’excuser ce retard."
+        },
+        {
+          "en": "The flight was **delayed** because of fog.",
+          "fr": "Le vol a été retardé à cause du brouillard."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Faux ami : un « délai » (temps accordé) se dit **deadline** ou **time frame**."
+      }
+    },
+    {
+      "word": "layover",
+      "ipa": "/ˈleɪoʊvər/",
+      "pos": "nom",
+      "fr": "escale",
+      "def": "A short stay somewhere between two parts of a journey.",
+      "examples": [
+        {
+          "en": "We have a three-hour **layover** in Dubai.",
+          "fr": "Nous avons une escale de trois heures à Dubaï."
+        },
+        {
+          "en": "The ticket is cheaper with a **layover**.",
+          "fr": "Le billet est moins cher avec une escale."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Synonyme : **stopover**."
+      }
+    },
+    {
+      "word": "connecting flight",
+      "ipa": "/kəˈnektɪŋ flaɪt/",
+      "pos": "nom",
+      "fr": "vol de correspondance",
+      "def": "A flight you take after another one to reach your destination.",
+      "examples": [
+        {
+          "en": "I missed my **connecting flight** in Frankfurt.",
+          "fr": "J’ai raté ma correspondance à Francfort."
+        },
+        {
+          "en": "Passengers with **connecting flights** should go to gate B.",
+          "fr": "Les passagers en correspondance doivent se rendre à la porte B."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Nom : **connection** (correspondance)."
+      }
+    },
+    {
+      "word": "aisle seat",
+      "ipa": "/aɪl siːt/",
+      "pos": "nom",
+      "fr": "place côté couloir",
+      "def": "A seat next to the passage in a plane, train or theater.",
+      "examples": [
+        {
+          "en": "I’d prefer an **aisle seat**, please.",
+          "fr": "Je préférerais une place côté couloir, s’il vous plaît."
+        },
+        {
+          "en": "All **aisle seats** have already been taken.",
+          "fr": "Toutes les places côté couloir sont déjà prises."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Le **s** d’**aisle** ne se prononce pas : /aɪl/. Côté hublot : **window seat**."
+      }
+    },
+    {
+      "word": "round-trip",
+      "ipa": "/ˌraʊnd ˈtrɪp/",
+      "pos": "adjectif",
+      "fr": "aller-retour",
+      "def": "Going to a place and coming back.",
+      "examples": [
+        {
+          "en": "A **round-trip** ticket to Boston costs $320.",
+          "fr": "Un billet aller-retour pour Boston coûte 320 $."
+        },
+        {
+          "en": "The **round-trip** fare includes one checked bag.",
+          "fr": "Le tarif aller-retour inclut un bagage en soute."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Britannique : **return ticket**. Aller simple : **one-way**."
+      }
+    },
+    {
+      "word": "fare",
+      "ipa": "/fer/",
+      "pos": "nom",
+      "fr": "prix du billet, tarif (transport)",
+      "def": "The money paid for a journey by bus, train, plane or taxi.",
+      "examples": [
+        {
+          "en": "Bus **fares** will increase next month.",
+          "fr": "Les tarifs des bus augmenteront le mois prochain."
+        },
+        {
+          "en": "The taxi **fare** from the airport is about $40.",
+          "fr": "La course en taxi depuis l’aéroport coûte environ 40 $."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "Ne pas confondre avec **fair** (juste ; salon, foire)."
+      }
+    },
+    {
+      "word": "destination",
+      "ipa": "/ˌdestɪˈneɪʃən/",
+      "pos": "nom",
+      "fr": "destination",
+      "def": "The place where someone or something is going.",
+      "examples": [
+        {
+          "en": "The island is a popular tourist **destination**.",
+          "fr": "L’île est une destination touristique prisée."
+        },
+        {
+          "en": "The package reached its **destination** two days late.",
+          "fr": "Le colis est arrivé à destination avec deux jours de retard."
+        }
+      ]
+    },
+    {
+      "word": "excursion",
+      "ipa": "/ɪkˈskɜːrʒən/",
+      "pos": "nom",
+      "fr": "excursion",
+      "def": "A short trip for pleasure, often organized for a group.",
+      "examples": [
+        {
+          "en": "The hotel offers daily **excursions** to the mountains.",
+          "fr": "L’hôtel propose des excursions quotidiennes en montagne."
+        },
+        {
+          "en": "The **excursion** includes lunch and a guided tour.",
+          "fr": "L’excursion comprend le déjeuner et une visite guidée."
+        }
+      ]
+    },
+    {
+      "word": "sightseeing",
+      "ipa": "/ˈsaɪtsiːɪŋ/",
+      "pos": "nom",
+      "fr": "tourisme, visite des sites",
+      "def": "Visiting interesting places as a tourist.",
+      "examples": [
+        {
+          "en": "We have one free day for **sightseeing**.",
+          "fr": "Nous avons une journée libre pour visiter."
+        },
+        {
+          "en": "The **sightseeing** tour starts at the main square.",
+          "fr": "La visite touristique commence sur la place principale."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**go sightseeing** = faire du tourisme."
+      }
+    },
+    {
+      "word": "tour guide",
+      "ipa": "/tʊr ɡaɪd/",
+      "pos": "nom",
+      "fr": "guide touristique",
+      "def": "A person whose job is to show visitors around a place.",
+      "examples": [
+        {
+          "en": "Our **tour guide** spoke three languages.",
+          "fr": "Notre guide parlait trois langues."
+        },
+        {
+          "en": "Please stay with the **tour guide** at all times.",
+          "fr": "Merci de rester avec le guide en permanence."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Scène typique de la Partie 4 : annonce d’un guide à un groupe."
+      }
+    },
+    {
+      "word": "passport",
+      "ipa": "/ˈpæspɔːrt/",
+      "pos": "nom",
+      "fr": "passeport",
+      "def": "An official document that allows you to travel to other countries.",
+      "examples": [
+        {
+          "en": "Make sure your **passport** is valid for six months.",
+          "fr": "Vérifiez que votre passeport est valide six mois."
+        },
+        {
+          "en": "Please show your **passport** at the check-in counter.",
+          "fr": "Merci de présenter votre passeport au comptoir d’enregistrement."
+        }
+      ]
+    },
+    {
+      "word": "customs",
+      "ipa": "/ˈkʌstəmz/",
+      "pos": "nom",
+      "fr": "douane",
+      "def": "The place at a border where officials check goods being brought into a country.",
+      "examples": [
+        {
+          "en": "It took an hour to go through **customs**.",
+          "fr": "Il a fallu une heure pour passer la douane."
+        },
+        {
+          "en": "The package is being held at **customs**.",
+          "fr": "Le colis est retenu à la douane."
+        }
+      ],
+      "note": {
+        "type": "warn",
+        "text": "**customs** (douane) ≠ **customers** (clients). Au singulier, **custom** = coutume."
+      }
+    },
+    {
+      "word": "jet lag",
+      "ipa": "/ˈdʒet læɡ/",
+      "pos": "nom",
+      "fr": "décalage horaire (fatigue)",
+      "def": "Tiredness after a long flight across time zones.",
+      "examples": [
+        {
+          "en": "I’m still suffering from **jet lag**.",
+          "fr": "Je souffre encore du décalage horaire."
+        },
+        {
+          "en": "Drinking water can help reduce **jet lag**.",
+          "fr": "Boire de l’eau peut aider à réduire les effets du décalage horaire."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La différence d’heure elle-même : **time difference**."
+      }
+    },
+    {
+      "word": "travel agency",
+      "ipa": "/ˈtrævəl ˈeɪdʒənsi/",
+      "pos": "nom",
+      "fr": "agence de voyages",
+      "def": "A business that arranges trips for customers.",
+      "examples": [
+        {
+          "en": "We booked the trip through a **travel agency**.",
+          "fr": "Nous avons réservé le voyage par une agence de voyages."
+        },
+        {
+          "en": "The **travel agency** offers discounts for groups.",
+          "fr": "L’agence de voyages propose des réductions pour les groupes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "La personne : **travel agent**."
+      }
+    },
+    {
+      "word": "business trip",
+      "ipa": "/ˈbɪznəs trɪp/",
+      "pos": "nom",
+      "fr": "voyage d’affaires",
+      "def": "A journey made for work.",
+      "examples": [
+        {
+          "en": "Mr. Kato is away on a **business trip** until Friday.",
+          "fr": "M. Kato est en déplacement professionnel jusqu’à vendredi."
+        },
+        {
+          "en": "All **business trip** expenses must be approved in advance.",
+          "fr": "Tous les frais de déplacement doivent être approuvés à l’avance."
+        }
+      ]
+    },
+    {
+      "word": "housekeeping",
+      "ipa": "/ˈhaʊskiːpɪŋ/",
+      "pos": "nom",
+      "fr": "service d’entretien des chambres, ménage",
+      "def": "The department of a hotel that cleans the rooms.",
+      "examples": [
+        {
+          "en": "Please call **housekeeping** for extra pillows.",
+          "fr": "Appelez le service d’étage pour avoir des oreillers supplémentaires."
+        },
+        {
+          "en": "**Housekeeping** will clean your room while you are out.",
+          "fr": "Le personnel d’entretien nettoiera votre chambre pendant votre absence."
+        }
+      ]
+    },
+    {
+      "word": "room service",
+      "ipa": "/ruːm ˈsɜːrvɪs/",
+      "pos": "nom",
+      "fr": "service en chambre",
+      "def": "A hotel service that brings food and drinks to guests’ rooms.",
+      "examples": [
+        {
+          "en": "I ordered dinner from **room service**.",
+          "fr": "J’ai commandé le dîner au service en chambre."
+        },
+        {
+          "en": "**Room service** is available 24 hours a day.",
+          "fr": "Le service en chambre est disponible 24 h sur 24."
+        }
+      ]
+    },
+    {
+      "word": "wake-up call",
+      "ipa": "/ˈweɪk ʌp kɔːl/",
+      "pos": "nom",
+      "fr": "réveil téléphonique",
+      "def": "A phone call from a hotel to wake a guest at a requested time.",
+      "examples": [
+        {
+          "en": "Could I have a **wake-up call** at 6 a.m.?",
+          "fr": "Pourrais-je avoir un réveil téléphonique à 6 h ?"
+        },
+        {
+          "en": "I missed my **wake-up call** and was late.",
+          "fr": "Je n’ai pas entendu le réveil de l’hôtel et j’étais en retard."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Sens figuré : un signal d’alarme."
+      }
+    },
+    {
+      "word": "upgrade",
+      "ipa": "/ˈʌpɡreɪd/",
+      "pos": "nom, verbe",
+      "fr": "surclassement ; surclasser, améliorer",
+      "def": "A move to a better seat, room or version.",
+      "examples": [
+        {
+          "en": "We were given a free **upgrade** to business class.",
+          "fr": "Nous avons été surclassés gratuitement en classe affaires."
+        },
+        {
+          "en": "The hotel **upgraded** us to a suite.",
+          "fr": "L’hôtel nous a surclassés dans une suite."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Le verbe s’accentue /ʌpˈɡreɪd/."
+      }
+    },
+    {
+      "word": "overbooked",
+      "ipa": "/ˌoʊvərˈbʊkt/",
+      "pos": "adjectif",
+      "fr": "en surréservation, surbooké",
+      "def": "Having more reservations than available places.",
+      "examples": [
+        {
+          "en": "The flight was **overbooked**, so some passengers were moved.",
+          "fr": "Le vol était en surréservation : certains passagers ont été transférés."
+        },
+        {
+          "en": "The hotel apologized for being **overbooked**.",
+          "fr": "L’hôtel s’est excusé pour la surréservation."
+        }
+      ]
+    },
+    {
+      "word": "terminal",
+      "ipa": "/ˈtɜːrmɪnəl/",
+      "pos": "nom",
+      "fr": "terminal, aérogare",
+      "def": "A building at an airport where passengers arrive and leave.",
+      "examples": [
+        {
+          "en": "International flights depart from **Terminal** 2.",
+          "fr": "Les vols internationaux partent du terminal 2."
+        },
+        {
+          "en": "A free shuttle runs between the **terminals**.",
+          "fr": "Une navette gratuite circule entre les terminaux."
+        }
+      ]
+    },
+    {
+      "word": "gate",
+      "ipa": "/ɡeɪt/",
+      "pos": "nom",
+      "fr": "porte (d’embarquement)",
+      "def": "The place at an airport where passengers get on a plane.",
+      "examples": [
+        {
+          "en": "Flight 204 will now depart from **gate** 17.",
+          "fr": "Le vol 204 partira désormais de la porte 17."
+        },
+        {
+          "en": "Boarding at **gate** B5 begins in 20 minutes.",
+          "fr": "L’embarquement porte B5 commence dans 20 minutes."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "Phrase typique des annonces de la Partie 4."
+      }
+    },
+    {
+      "word": "on schedule",
+      "ipa": "/ɑːn ˈskedʒuːl/",
+      "pos": "expression",
+      "fr": "à l’heure, dans les temps",
+      "def": "At the planned time.",
+      "examples": [
+        {
+          "en": "The train is running **on schedule**.",
+          "fr": "Le train est à l’heure."
+        },
+        {
+          "en": "The construction work is **on schedule**.",
+          "fr": "Les travaux avancent dans les temps."
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**ahead of schedule** = en avance ; **behind schedule** = en retard."
+      }
+    },
+    {
+      "word": "expense report",
+      "ipa": "/ɪkˈspens rɪˌpɔːrt/",
+      "pos": "nom",
+      "fr": "note de frais",
+      "def": "A document listing the money spent during work travel.",
+      "examples": [
+        {
+          "en": "Submit your **expense report** within a week of your return.",
+          "fr": "Remettez votre note de frais dans la semaine qui suit votre retour."
+        },
+        {
+          "en": "Attach all receipts to the **expense report**.",
+          "fr": "Joignez tous les reçus à la note de frais."
+        }
+      ]
+    },
+    {
+      "word": "per diem",
+      "ipa": "/pɜːr ˈdiːəm/",
+      "pos": "nom",
+      "fr": "indemnité journalière",
+      "def": "A daily amount of money given to cover expenses when traveling for work.",
+      "examples": [
+        {
+          "en": "Employees receive a **per diem** of $60 for meals.",
+          "fr": "Les employés reçoivent une indemnité journalière de 60 $ pour les repas."
+        },
+        {
+          "en": "The **per diem** covers food and local transportation.",
+          "fr": "L’indemnité journalière couvre les repas et les transports locaux."
+        }
+      ]
+    },
+    {
+      "word": "travel arrangements",
+      "ipa": "/ˈtrævəl əˈreɪndʒmənts/",
+      "pos": "nom pluriel",
+      "fr": "organisation du voyage",
+      "def": "The plans for a trip, such as tickets and hotels.",
+      "examples": [
+        {
+          "en": "My assistant will make your **travel arrangements**.",
+          "fr": "Mon assistante s’occupera de l’organisation de votre voyage."
+        },
+        {
+          "en": "Have you finalized your **travel arrangements**?",
+          "fr": "Avez-vous finalisé l’organisation de votre voyage ?"
+        }
+      ],
+      "note": {
+        "type": "tip",
+        "text": "**make arrangements** = prendre des dispositions."
+      }
+    }
+  ]
+}
